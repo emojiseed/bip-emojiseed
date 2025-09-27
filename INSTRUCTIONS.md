@@ -107,3 +107,28 @@ To avoid duplicates and add nuance, second emojis are selected from:
 
 ## 7. Example Outputs
 
+```
+{
+  "snake": [
+    "🐍",
+    "🐍"
+  ],
+  "flame": [
+    "🔥",
+    "💨"
+  ],
+  "alarm": [
+    "⏰",
+    "❗"
+  ],
+  "book": [
+    "📖",
+    "📖"
+  ],
+  "november": [
+    "🦃",
+    "🍂"
+  ]
+}
+```
+
