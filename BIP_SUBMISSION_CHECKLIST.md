@@ -8,10 +8,10 @@ This checklist ensures the `bip-emoji` proposal meets the requirements for accep
 - [x] BIP header includes:
   - `BIP: TBD`
   - `Title: BIP39 Emoji Seed Mapping`
-  - `Author: Hakim <email@example.com>`
+  - `Author: Emoji Seed <devs@emojiseed.com>`
   - `Status: Draft`
   - `Type: Informational`
-  - `Created: YYYY-MM-DD`
+  - `Created: 2025-10-01`
   - `License: BSD-2-Clause`
   - `Discussions-To: https://github.com/emojiseed/bip39emoji/issues`
 
