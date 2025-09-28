@@ -1,4 +1,4 @@
-# BIP39Emoji Standard
+# BIPEmojiSeed Standard
 
 ```
   ___            _ _ ___             _ 
@@ -19,7 +19,7 @@ This bridges **mnemonic seed phrases** with **visual memory cues**, making them 
 
 ## 🤔 What is this?
 
-**BIP39Emoji** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pairs**.
+**BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pairs**.
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
