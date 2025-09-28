@@ -15,6 +15,10 @@ License: BSD-2-Clause
 Discussions-To: https://github.com/emojiseed/bip39emoji/issues
 
 
+==Contents==
+
+Abstract, Motivation, Specification, Rationale, Backward Compatibility, Reference Implementation
+
 ==Abstract==
 
 This BIP proposes an extension to the BIP39 standard by introducing a consistent,
