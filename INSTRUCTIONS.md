@@ -1,4 +1,4 @@
-# BIP39Emoji Standard — Instruction Set
+# BIP Emoji Seed Standard — Instruction Set
 
 This document explains how to **generate, validate, and maintain** the official BIP39Emoji mapping.  
 The goal is a **1-to-1 mapping between the 2048 BIP39 English words and 2048 unique emoji pairs**.
