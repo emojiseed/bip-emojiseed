@@ -95,7 +95,7 @@ gravity, tiger, flame, alarm, book
 
 ```
 
-become:
+map to:
 
 ```
 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
