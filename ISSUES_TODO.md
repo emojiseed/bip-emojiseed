@@ -7,12 +7,12 @@ Each entry can be turned into a GitHub Issue when ready.
 
 ## 🚀 Project Standardization
 
-- [ ] **Finalize `bip-emoji.rst`**
+- [x] **Finalize `bip-emoji.rst`**
   - Ensure header matches BIP-0001.
   - Review rationale, motivation, and backward compatibility.
   - Add example usage of emoji seeds.
 
-- [ ] **Confirm License Alignment**
+- [x] **Confirm License Alignment**
   - Adopt BSD-2-Clause license in all files.
   - Verify repo LICENSE file matches.
 
