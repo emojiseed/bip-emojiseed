@@ -578,9 +578,9 @@ catch -> ✋🎣
 
 category -> 🗂️📁
 
-cattle -> 🍽️🤲
+cattle -> 🐄🐄
 
-caught -> 🐄🐄
+caught -> 🎣✋
 
 cause -> 🎯📜
 
