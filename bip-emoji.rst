@@ -16,6 +16,8 @@ Discussions-To: https://github.com/emojiseed/bip39emoji/issues
 
 
 ==Contents==
+
+```
 - [x] Abstract  
 - [x] Motivation  
 - [x] Specification  
@@ -23,6 +25,7 @@ Discussions-To: https://github.com/emojiseed/bip39emoji/issues
 - [x] Backward Compatibility  
 - [x] Reference Implementation  
 - [x] License 
+```
 
 ==Abstract==
 
