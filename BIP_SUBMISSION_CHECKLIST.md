@@ -44,9 +44,9 @@ This checklist ensures the `bip-emoji` proposal meets the requirements for accep
 
 ## 5. Reference Implementation
 - [x] Emoji mappings provided in:
-  - `mapping_2048.json`
-  - `mapping_2048.csv`
-  - `mapping_2048.md` (optional Markdown table)
+  - `word-emoji-mapping.json`
+  - `word-emoji-mapping.csv`
+  - `word-emoji-mapping.md`
 - [x] Validation script exists to ensure uniqueness and correctness.  
 - [x] Test suite included (unit + integration).  
 
