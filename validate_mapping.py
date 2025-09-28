@@ -5,7 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 
-MAPPING = ROOT / "mapping_2048.json"
+MAPPING = ROOT / "mapping.json"
 BIP39 = ROOT / "bip39.csv"
 
 def load_mapping(path):
