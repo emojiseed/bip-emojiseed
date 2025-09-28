@@ -16,7 +16,7 @@ Each entry can be turned into a GitHub Issue when ready.
   - Adopt BSD-2-Clause license in all files.
   - Verify repo LICENSE file matches.
 
-- [ ] **Create BIP Submission Checklist**
+- [x] **Create BIP Submission Checklist**
   - Abstract, Motivation, Specification, Rationale, Backward Compatibility, Reference Implementation.
   - Ensure compliance with BIP-0001 template.
 
@@ -24,34 +24,34 @@ Each entry can be turned into a GitHub Issue when ready.
 
 ## 🔧 Implementation
 
-- [ ] **Validation Script**
+- [x] **Validation Script**
   - Ensure all 2048 mappings are unique (order matters).
   - Check contextual correctness.
   - Validate no duplicate pairs.
 
-- [ ] **Add Tests**
+- [x] **Add Tests**
   - Unit tests for uniqueness and correctness.
   - Integration tests for mapping import/export.
 
 - [ ] **Format Consistency**
-  - JSON (`mapping_2048.json`)
-  - CSV (`mapping_2048.csv`)
-  - Markdown table
+  - JSON (`word-emoji-mapping.json`)
+  - CSV (`word-emoji-mapping.csv`)
+  - Markdown (`word-emoji-mapping.md`)
 
 ---
 
 ## 📖 Documentation
 
-- [ ] **README Enhancements**
+- [x] **README Enhancements**
   - Add example: word → emoji pair → binary mnemonic.
   - ASCII banner refinement.
   - Link to BIP draft.
 
-- [ ] **Contributing Guidelines**
+- [x] **Contributing Guidelines**
   - How to propose emoji mapping fixes.
   - Code style and validation rules.
 
-- [ ] **Add `ISSUES_TODO.md`**
+- [x] **Add `ISSUES_TODO.md`**
   - This file itself for tracking.
 
 ---
