@@ -7,12 +7,12 @@
  |___|_|_|_\___// |_|___/\___\___\__,_|
               |__/                     
               
-             BIP39 EMOJI STANDARD — v1.0
+             BIP39 WORDLIST EMOJI STANDARD — v1.0
 ```
 
 ## 🌐 Overview
 
-A complete, open standard mapping the **BIP39 English wordlist (2048 words)** into **2048 unique emoji pairs**.
+A complete, open standard mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**.
 This bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
 ---
@@ -62,7 +62,7 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 
 ## ✨ Vision
 
-The **BIP39Emoji** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
+The **BIPEmojiSeed** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
 
 - It reduces human error in handling mnemonics
 - Builds cross-lingual, cross-cultural memorability
