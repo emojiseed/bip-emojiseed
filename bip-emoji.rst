@@ -2,29 +2,18 @@ BIP: TBD
 
 Title: BIP39Emoji Standard
 
-<<<<<<< Updated upstream
-Author: Emoji Sounds <bip39@emojiseed.com>
-=======
 Author: Emoji Seed <devs@emojiseed.com>
->>>>>>> Stashed changes
 
 Status: Draft
 
 Type: Standards Track
 
-<<<<<<< Updated upstream
 Created: 2025-09-27
-=======
-Created: 2025-09-26
->>>>>>> Stashed changes
 
 License: Apache-2.0
 
 ==Abstract==
 
-<<<<<<< Updated upstream
-BIP39Emoji maps each BIP39 word to two unique emojis.
-=======
 BIP39Emoji maps each word in the BIP39 word list to a unique emoji set word[emoji1, emoji2].
 
 This BIP introduces the **BIP39Emoji Standard**, a deterministic mapping of the
@@ -73,8 +62,6 @@ and ``mapping.json`` files in the reference repository.
 * This is a human usability layer, not a cryptographic change.
 * Mnemonics represented in emoji must be handled with the same security
   precautions as plain text.
-* Platform rendering differences in emoji sets must be considered
-  (Apple, Google, Twitter, etc.).
 
 ==Backwards Compatibility==
 
@@ -87,11 +74,8 @@ and ``mapping.json`` files in the reference repository.
 
 A reference mapping and libraries in Python and JavaScript are provided at:
 
-    https://github.com/<your-org>/bip39emoji
+    https://github.com/emmojiseed/bip39emoji
 
 ==License==
 
-This document and reference implementation are licensed under the
-Apache 2.0 License.
->>>>>>> Stashed changes
-
+This document and reference implementation are licensed under the Apache 2.0 License.
