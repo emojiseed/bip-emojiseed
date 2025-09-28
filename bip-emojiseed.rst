@@ -2,7 +2,7 @@ BIP: TBD
 
 Title: Emoji Mnemonics for Deterministic Keys
 
-Author: Coperbyte LLC <bitcoin-dev@coperbyte.com>
+Author: Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
 
 Status: Draft
 
