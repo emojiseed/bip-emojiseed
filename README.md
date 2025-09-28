@@ -70,6 +70,15 @@ The **BIP39Emoji** is an official proposed **Bitcoin Improvement Proposal (BIP)*
 
 ---
 
+## ⏰ Testing
+
+```
+git clone https://github.com/emojiseed/bip39emoji
+cd bip39emoji
+./validate.sh
+...
+```
+
 ## 📜 Examples
 
 ```
@@ -95,7 +104,7 @@ map to:
 
 ---
 
-## 🛠️ Status
+## 🛠️ Project Status
 
 - ✅ Initial mapping complete  
 - ✅ Normalization & validation scripts finished  
