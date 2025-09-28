@@ -13,7 +13,7 @@ This checklist ensures the `bip-emoji` proposal meets the requirements for accep
   - `Type: Informational`
   - `Created: 2025-10-01`
   - `License: BSD-2-Clause`
-  - `Discussions-To: https://github.com/emojiseed/bip39emoji/issues`
+  - `Discussions-To: https://github.com/emojiseed/bipemojiseed/issues`
 
 ---
 
