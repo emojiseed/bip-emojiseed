@@ -1,4095 +1,4095 @@
-abandon -> 🏚️🚪
+abandon → 🏚🚪
 
-ability -> 🧠💪
+ability → 🧠💪
 
-able -> 💪🏃
+able → 💪🏃
 
-about -> ℹ️📖
+about → ℹ📖
 
-above -> ⬆️☁️
+above → ⬆☁
 
-absent -> 🚫👤
+absent → 🚫👤
 
-absorb -> 🧽💧
+absorb → 🧽💧
 
-abstract -> 🎨📐
+abstract → 🎨📐
 
-absurd -> 🤪❗
+absurd → 🤪❗
 
-abuse -> 🚫👊
+abuse → 🚫👊
 
-access -> 🔑🚪
+access → 🔑🚪
 
-accident -> 🚗💥
+accident → 🚗💥
 
-account -> 🏦📊
+account → 🏦📊
 
-accuse -> 👆⚖️
+accuse → 👆⚖
 
-achieve -> 🏆✅
+achieve → 🏆✅
 
-acid -> ⚗️🧪
+acid → ⚗🧪
 
-acoustic -> 🎸🎶
+acoustic → 🎸🎶
 
-acquire -> 📥📦
+acquire → 📥📦
 
-across -> ↔️🌉
+across → ↔🌉
 
-act -> 🎭🎬
+act → 🎭🎬
 
-action -> 🏃⚡
+action → 🏃⚡
 
-actor -> 🎬👨
+actor → 🎬👨
 
-actress -> 🎬👩
+actress → 🎬👩
 
-actual -> ✅⚙️
+actual → ✅⚙
 
-adapt -> 🔄🦎
+adapt → 🔄🦎
 
-add -> ➕➕
+add → ➕➕
 
-addict -> 💊🔗
+addict → 💊🔗
 
-address -> 🏠📍
+address → 🏠📍
 
-adjust -> ⚙️🔧
+adjust → ⚙🔧
 
-admit -> 🚪✅
+admit → 🚪✅
 
-adult -> 👩👨
+adult → 👩👨
 
-advance -> ⏩📈
+advance → ⏩📈
 
-advice -> 💬🤝
+advice → 💬🤝
 
-aerobic -> 🏃‍♀️💨
+aerobic → 🏃‍♀💨
 
-affair -> 💌🤫
+affair → 💌🤫
 
-afford -> 💵✅
+afford → 💵✅
 
-afraid -> 😨😱
+afraid → 😨😱
 
-again -> 🔁♻️
+again → 🔁♻
 
-age -> 🎂📅
+age → 🎂📅
 
-agent -> 🕵️‍♂️💼
+agent → 🕵‍♂💼
 
-agree -> 🤝✅
+agree → 🤝✅
 
-ahead -> ⬆️🚶
+ahead → ⬆🚶
 
-aim -> 🎯🏃
+aim → 🎯🏃
 
-air -> 🌬️💨
+air → 🌬💨
 
-airport -> ✈️🛫
+airport → ✈🛫
 
-aisle -> 🛒➡️
+aisle → 🛒➡
 
-alarm -> ⏰❗
+alarm → ⏰❗
 
-album -> 💿🎶
+album → 💿🎶
 
-alcohol -> 🍺🍷
+alcohol → 🍺🍷
 
-alert -> 🚨👀
+alert → 🚨👀
 
-alien -> 👽🚀
+alien → 👽🚀
 
-all -> ✅🌍
+all → ✅🌍
 
-alley -> 🛣️🏙️
+alley → 🛣🏙
 
-allow -> 👍✍️
+allow → 👍✍
 
-almost -> ⏳✍️
+almost → ⏳✍
 
-alone -> 👤🌙
+alone → 👤🌙
 
-alpha -> 🇦🔠
+alpha → 🔠🅰
 
-already -> ✅⏰
+already → ✅⏰
 
-also -> ➕🤝
+also → ➕🤝
 
-alter -> 🔄🎭
+alter → 🔄🎭
 
-always -> 🔁∞
+always → 🔁♾
 
-amateur -> 🎨📷
+amateur → 🎨📷
 
-amazing -> 🤩🌟
+amazing → 🤩🌟
 
-among -> 👥🌐
+among → 👥🌐
 
-amount -> #️⃣📊
+amount → 📊💲
 
-amused -> 😆🎭
+amused → 😆🎭
 
-analyst -> 📊🧠
+analyst → 📊🧠
 
-anchor -> ⚓⚓
+anchor → ⚓⚓
 
-ancient -> 🏛️📜
+ancient → 🏛📜
 
-anger -> 😡🔥
+anger → 😡🔥
 
-angle -> 📐📏
+angle → 📐📏
 
-angry -> 😠💢
+angry → 😠💢
 
-animal -> 🐾🐾
+animal → 🐾🐾
 
-ankle -> 🦶🦴
+ankle → 🦶🦴
 
-announce -> 📢📰
+announce → 📢📰
 
-annual -> 📅🔁
+annual → 📅🔁
 
-another -> 🔄➕
+another → 🔄➕
 
-answer -> 💬✅
+answer → 💬✅
 
-antenna -> 📡📡
+antenna → 📡📡
 
-antique -> 🏺🕰️
+antique → 🏺🕰
 
-anxiety -> 😰💭
+anxiety → 😰💭
 
-any -> ❓✅
+any → ❓✅
 
-apart -> ↔️🏠
+apart → ↔🏠
 
-apology -> 🙏💬
+apology → 🙏💬
 
-appear -> 👀✨
+appear → 👀✨
 
-apple -> 🍎🍎
+apple → 🍎🍎
 
-approve -> 👍⚙️
+approve → 👍⚙
 
-april -> 🌸📅
+april → 🌸📅
 
-arch -> 🏛️🎯
+arch → 🏛🎯
 
-arctic -> ❄️🌊
+arctic → ❄🌊
 
-area -> 📍📐
+area → 📍📐
 
-arena -> 🏟️🎤
+arena → 🏟🎤
 
-argue -> 🗣️⚡
+argue → 🗣⚡
 
-arm -> 💪🦾
+arm → 💪🦾
 
-armed -> 🔫🛡️
+armed → 🔫🛡
 
-armor -> 🪖🛡️
+armor → 🪖🛡
 
-army -> 🎖️👥
+army → 🎖👥
 
-around -> 🔄🌍
+around → 🔄🌍
 
-arrange -> 📅📦
+arrange → 📅📦
 
-arrest -> 👮🔗
+arrest → 👮🔗
 
-arrive -> ✈️📍
+arrive → ✈📍
 
-arrow -> ➡️🏹
+arrow → ➡🏹
 
-art -> 🎨🖌️
+art → 🎨🖌
 
-artefact -> 🏺📜
+artefact → 🏺📜
 
-artist -> 👩‍🎨🎤
+artist → 👩‍🎨🎤
 
-artwork -> 🖼️🖌️
+artwork → 🖼🖌
 
-ask -> ❓💬
+ask → ❓💬
 
-aspect -> 🔍📐
+aspect → 🔍📐
 
-assault -> 👊⚔️
+assault → 👊⚔
 
-asset -> 💰🏃
+asset → 💰🏃
 
-assist -> 🤝⚽
+assist → 🤝⚽
 
-assume -> 🤔📜
+assume → 🤔📜
 
-asthma -> 😮‍💨🫁
+asthma → 😮‍💨🫁
 
-athlete -> 🏃‍♂️🏅
+athlete → 🏃‍♂🏅
 
-atom -> ⚛️⚛️
+atom → ⚛⚛
 
-attack -> ⚔️💥
+attack → ⚔💥
 
-attend -> 🎓🏫
+attend → 🎓🏫
 
-attitude -> 🙂👍
+attitude → 🙂👍
 
-attract -> 🧲❤️
+attract → 🧲❤
 
-auction -> 🔨💵
+auction → 🔨💵
 
-audit -> 📊🔍
+audit → 📊🔍
 
-august -> ☀🏃
+august → ☀🏃
 
-aunt -> 👩👶
+aunt → 👩👶
 
-author -> ✍️📖
+author → ✍📖
 
-auto -> 🚗⚙️
+auto → 🚗⚙
 
-autumn -> 🍂🍁
+autumn → 🍂🍁
 
-average -> 📊🏃
+average → 📊🏃
 
-avocado -> 🥑🥑
+avocado → 🥑🥑
 
-avoid -> 🚫↩️
+avoid → 🚫↩
 
-awake -> ⏰🙋
+awake → ⏰🙋
 
-aware -> 👀💡
+aware → 👀💡
 
-away -> ➡️🚪
+away → ➡🚪
 
-awesome -> 🌟🎉
+awesome → 🌟🎉
 
-awful -> 😖👎
+awful → 😖👎
 
-awkward -> 😬🪵
+awkward → 😬🪵
 
-axis -> 🔭📐
+axis → 🔭📐
 
-baby -> 👶👶
+baby → 👶👶
 
-bachelor -> 🎓👨
+bachelor → 🎓👨
 
-bacon -> 🥓🥓
+bacon → 🥓🥓
 
-badge -> 📛✅
+badge → 📛✅
 
-bag -> 👜📦
+bag → 👜📦
 
-balance -> ⚖🏃
+balance → ⚖🏃
 
-balcony -> 🏠🪟
+balcony → 🏠🪟
 
-ball -> ⚽⚽
+ball → ⚽⚽
 
-bamboo -> 🎋🌱
+bamboo → 🎋🌱
 
-banana -> 🍌🍌
+banana → 🍌🍌
 
-banner -> 🚩🧾
+banner → 🚩🧾
 
-bar -> 🍸🧱
+bar → 🍸🧱
 
-barely -> 📉⏳
+barely → 📉⏳
 
-bargain -> 🏷️💵
+bargain → 🏷💵
 
-barrel -> 🛢️🛢️
+barrel → 🛢🛢
 
-base -> 🧱📏
+base → 🧱📏
 
-basic -> 📚✅
+basic → 📚✅
 
-basket -> 🧺📦
+basket → 🧺📦
 
-battle -> ⚔️🏰
+battle → ⚔🏰
 
-beach -> 🏖️🏖️
+beach → 🏖🏖
 
-bean -> 🌱🫘
+bean → 🌱🫘
 
-beauty -> 🌸🌟
+beauty → 🌸🌟
 
-because -> 📜➡️
+because → 📜➡
 
-become -> 🔄🏃
+become → 🔄🏃
 
-beef -> 🥩🥩
+beef → 🥩🥩
 
-before -> ⏮️📅
+before → ⏮📅
 
-begin -> ▶️🏁
+begin → ▶🏁
 
-behave -> 🙂🏃
+behave → 🙂🏃
 
-behind -> ⬅️📍
+behind → ⬅📍
 
-believe -> 🙏✅
+believe → 🙏✅
 
-below -> ⬇🏃
+below → ⬇🏃
 
-belt -> 🧵🪢
+belt → 🧵🪢
 
-bench -> 🪑🏟️
+bench → 🪑🏟
 
-benefit -> ✅📈
+benefit → ✅📈
 
-best -> 🥇🌟
+best → 🥇🌟
 
-betray -> 🤫⚔️
+betray → 🤫⚔
 
-better -> 📈👍
+better → 📈👍
 
-between -> ↔️📍
+between → ↔📍
 
-beyond -> 🚀🌌
+beyond → 🚀🌌
 
-bicycle -> 🚲🚲
+bicycle → 🚲🚲
 
-bid -> 🏷️✋
+bid → 🏷✋
 
-bike -> 🚴‍♂️🚴‍♂️
+bike → 🚴‍♂🚴‍♂
 
-bind -> 🪢📚
+bind → 🪢📚
 
-biology -> 🧬📚
+biology → 🧬📚
 
-bird -> 🐦🐦
+bird → 🐦🐦
 
-birth -> 👶🎉
+birth → 👶🎉
 
-bitter -> 😖🍋
+bitter → 😖🍋
 
-black -> ⚫⬛
+black → ⚫⬛
 
-blade -> 🔪🗡️
+blade → 🔪🗡
 
-blame -> ☝️❗
+blame → ☝❗
 
-blanket -> 🧶🛌
+blanket → 🧶🛌
 
-blast -> 💥🌪️
+blast → 💥🌪
 
-bleak -> 🌫️🥶
+bleak → 🌫🥶
 
-bless -> 🙏✨
+bless → 🙏✨
 
-blind -> 🙈🚫
+blind → 🙈🚫
 
-blood -> 🩸🩸
+blood → 🩸🩸
 
-blossom -> 🌸🏃
+blossom → 🌸🏃
 
-blouse -> 👚👚
+blouse → 👚👚
 
-blue -> 🔵🔵
+blue → 🔵🔵
 
-blur -> 🌫️🔍
+blur → 🌫🔍
 
-blush -> 😊⚙️
+blush → 😊⚙
 
-board -> 🧱📋
+board → 🧱📋
 
-boat -> 🚤🚤
+boat → 🚤🚤
 
-body -> 🧍‍♂️🫀
+body → 🧍‍♂🫀
 
-boil -> 🔥💧
+boil → 🔥💧
 
-bomb -> 💣💣
+bomb → 💣💣
 
-bone -> 🦴🦴
+bone → 🦴🦴
 
-bonus -> 🎁💵
+bonus → 🎁💵
 
-book -> 📖📖
+book → 📖📖
 
-boost -> 📈⚡
+boost → 📈⚡
 
-border -> 🚧🏁
+border → 🚧🏁
 
-boring -> 🥱⌛
+boring → 🥱⌛
 
-borrow -> 🤲💵
+borrow → 🤲💵
 
-boss -> 👑🏃
+boss → 👑🏃
 
-bottom -> ⬇️📏
+bottom → ⬇📏
 
-bounce -> 🏀🔄
+bounce → 🏀🔄
 
-box -> 📦⚙️
+box → 📦⚙
 
-boy -> 👦🏃
+boy → 👦🏃
 
-bracket -> ⟮⟯📐
+bracket → 📐🗂
 
-brain -> 🧠🧠
+brain → 🧠🧠
 
-brand -> 🏷️🏢
+brand → 🏷🏢
 
-brass -> 🧲🟡
+brass → 🧲🟡
 
-brave -> 🦁💪
+brave → 🦁💪
 
-bread -> 🍞🍞
+bread → 🍞🍞
 
-breeze -> 🌬️🍃
+breeze → 🌬🍃
 
-brick -> 🧱🧱
+brick → 🧱🧱
 
-bridge -> 🌉🌉
+bridge → 🌉🌉
 
-brief -> 📄⏱️
+brief → 📄⏱
 
-bright -> 💡🌟
+bright → 💡🌟
 
-bring -> 🤲➡️
+bring → 🤲➡
 
-brisk -> 🏃🏃
+brisk → 🏃🏃
 
-broccoli -> 🥦🥦
+broccoli → 🥦🥦
 
-broken -> ❌🧩
+broken → ❌🧩
 
-bronze -> 🟤🏅
+bronze → 🟤🏅
 
-broom -> 🧹🧹
+broom → 🧹🧹
 
-brother -> 👦⚙️
+brother → 👦⚙
 
-brown -> 🟫🟫
+brown → 🟫🟫
 
-brush -> 🖌️🧹
+brush → 🖌🧹
 
-bubble -> 🫧🫧
+bubble → 🫧🫧
 
-buddy -> 👬🤝
+buddy → 👬🤝
 
-budget -> 💵🏃
+budget → 💵🏃
 
-buffalo -> 🦬🦬
+buffalo → 🦬🦬
 
-build -> 🧱🔧
+build → 🧱🔧
 
-bulb -> 💡💡
+bulb → 💡💡
 
-bulk -> 📦🏃
+bulk → 📦🏃
 
-bullet -> 🔫🔘
+bullet → 🔫🔘
 
-bundle -> 📦🪢
+bundle → 📦🪢
 
-bunker -> 🏚️🛡️
+bunker → 🏚🛡
 
-burden -> 🧱📉
+burden → 🧱📉
 
-burger -> 🍔🍔
+burger → 🍔🍔
 
-burst -> 💥❗
+burst → 💥❗
 
-bus -> 🚌🚌
+bus → 🚌🚌
 
-business -> 💼🏢
+business → 💼🏢
 
-busy -> 🏃📅
+busy → 🏃📅
 
-butter -> 🧈🧈
+butter → 🧈🧈
 
-buyer -> 🧑💳
+buyer → 🧑💳
 
-buzz -> 🐝🔊
+buzz → 🐝🔊
 
-cabbage -> 🥬🏃
+cabbage → 🥬🏃
 
-cabin -> 🏚️🌲
+cabin → 🏚🌲
 
-cable -> 🔌🪢
+cable → 🔌🪢
 
-cactus -> 🌵🌵
+cactus → 🌵🌵
 
-cage -> 🪺🔒
+cage → 🪺🔒
 
-cake -> 🍰🍰
+cake → 🍰🍰
 
-call -> 📞🗣️
+call → 📞🗣
 
-calm -> 😌🌊
+calm → 😌🌊
 
-camera -> 📷📷
+camera → 📷📷
 
-camp -> 🏕️🏕️
+camp → 🏕🏕
 
-can -> 🥫🥫
+can → 🥫🥫
 
-canal -> 🚤🛣️
+canal → 🚤🛣
 
-cancel -> ❌🗓️
+cancel → ❌🗓
 
-candy -> 🍬🍬
+candy → 🍬🍬
 
-cannon -> 💣🛡️
+cannon → 💣🛡
 
-canoe -> 🛶🛶
+canoe → 🛶🛶
 
-canvas -> 🖼️🎨
+canvas → 🖼🎨
 
-canyon -> 🏜️📏
+canyon → 🏜📏
 
-capable -> ✅💪
+capable → ✅💪
 
-capital -> 🏛️💰
+capital → 🏛💰
 
-captain -> 🧑🚢
+captain → 🧑🚢
 
-car -> 🚗🚗�
+car → 🚗🏃
 
-carbon -> 🧪🧱
+carbon → 🧪🧱
 
-card -> 💳💳
+card → 💳💳
 
-cargo -> 🚚📦
+cargo → 🚚📦
 
-carpet -> 🧶🏠
+carpet → 🧶🏠
 
-carry -> 🤲🚚
+carry → 🤲🚚
 
-cart -> 🛒🛒
+cart → 🛒🛒
 
-case -> 📦📄
+case → 📦📄
 
-cash -> 💵💵
+cash → 💵💵
 
-casino -> 🎰🎰
+casino → 🎰🎰
 
-castle -> 🏰🏰
+castle → 🏰🏰
 
-casual -> 🙂👕
+casual → 🙂👕
 
-cat -> 🐱🐱
+cat → 🐱🐱
 
-catalog -> 📚🏷️
+catalog → 📚🏷
 
-catch -> ✋🎣
+catch → ✋🎣
 
-category -> 🗂️📁
+category → 🗂📁
 
-cattle -> 🐄🐄
+cattle → 🍽🤲
 
-caught -> 🎣✋
+caught → 🐄🐄
 
-cause -> 🎯📜
+cause → 🎯📜
 
-caution -> ⚠️⛔
+caution → ⚠⛔
 
-cave -> 🕳️🪨
+cave → 🕳🪨
 
-ceiling -> 🏠🏃
+ceiling → 🏠🏃
 
-celery -> 🥬🥬
+celery → 🥬🥬
 
-cement -> 🧱⚙️
+cement → 🧱⚙
 
-census -> 📊🏠
+census → 📊🏠
 
-century -> 📅💯
+century → 📅💯
 
-cereal -> 🥣🌾
+cereal → 🥣🌾
 
-certain -> ✅📌
+certain → ✅📌
 
-chair -> 🪑🏃
+chair → 🪑🏃
 
-chalk -> ✏️🧱
+chalk → ✏🧱
 
-champion -> 🏆👑
+champion → 🏆👑
 
-change -> 🔄🧩
+change → 🔄🧩
 
-chaos -> 🌪️🔀
+chaos → 🌪🔀
 
-chapter -> 📖📑
+chapter → 📖📑
 
-charge -> ⚡💳
+charge → ⚡💳
 
-chase -> 🏃🎯
+chase → 🏃🎯
 
-chat -> 💬💬
+chat → 💬💬
 
-cheap -> 🏷️⬇️
+cheap → 🏷⬇
 
-check -> ✅📋
+check → ✅📋
 
-cheese -> 🧀🧀
+cheese → 🧀🧀
 
-chef -> 👨‍🍳👩‍🍳
+chef → 👨‍🍳👩‍🍳
 
-cherry -> 🍒🍒
+cherry → 🍒🍒
 
-chest -> 🧳🧰
+chest → 🧳🧰
 
-chicken -> 🐔🐔
+chicken → 🐔🐔
 
-chief -> 👑🏢
+chief → 👑🏢
 
-child -> 👶🏃
+child → 👶🏃
 
-chimney -> 🏠💨
+chimney → 🏠💨
 
-choice -> ✅🔀
+choice → ✅🔀
 
-choose -> 👉✅
+choose → 👉✅
 
-chronic -> ⏳🩺
+chronic → ⏳🩺
 
-chuckle -> 😄😄
+chuckle → 😄😄
 
-chunk -> 📦🧱
+chunk → 📦🧱
 
-churn -> 🔄📉
+churn → 🔄📉
 
-cigar -> 🚬🚬
+cigar → 🚬🚬
 
-cinnamon -> 🪵🌿
+cinnamon → 🪵🌿
 
-circle -> 🔵📐
+circle → 🔵📐
 
-citizen -> 🧑🏛️
+citizen → 🧑🏛
 
-city -> 🏙🏃
+city → 🏙🏃
 
-civil -> 🏛️🤝
+civil → 🏛🤝
 
-claim -> 📄🏃
+claim → 📄🏃
 
-clap -> 👏👏
+clap → 👏👏
 
-clarify -> 🔍💬
+clarify → 🔍💬
 
-claw -> 🐾🔪
+claw → 🐾🔪
 
-clay -> 🧱🌱
+clay → 🧱🌱
 
-clean -> 🧼✨
+clean → 🧼✨
 
-clerk -> 🧑📋
+clerk → 🧑📋
 
-clever -> 🧠🏃
+clever → 🧠🏃
 
-click -> 🖱️🖱️
+click → 🖱🖱
 
-client -> 🧑💼
+client → 🧑💼
 
-cliff -> 🏔️⬇️
+cliff → 🏔⬇
 
-climb -> 🧗‍♂️⬆️
+climb → 🧗‍♂⬆
 
-clinic -> 🏥🩺
+clinic → 🏥🩺
 
-clip -> 🧷📎
+clip → 🧷📎
 
-clock -> ⏰⏰
+clock → ⏰⏰
 
-clog -> 🚫🛁
+clog → 🚫🛁
 
-close -> 🚪🏃
+close → 🚪🏃
 
-cloth -> 🧵🧻
+cloth → 🧵🧻
 
-cloud -> ☁️☁️
+cloud → ☁☁
 
-clown -> 🤡🤡
+clown → 🤡🤡
 
-club -> 🏑🎉
+club → 🏑🎉
 
-clump -> 🌱📦
+clump → 🌱📦
 
-cluster -> 🌐📦
+cluster → 🌐📦
 
-clutch -> ✋🔒
+clutch → ✋🔒
 
-coach -> 🧑🎯
+coach → 🧑🎯
 
-coast -> 🏖️🌊
+coast → 🏖🌊
 
-coconut -> 🥥🥥
+coconut → 🥥🥥
 
-code -> 💻🔐
+code → 💻🔐
 
-coffee -> ☕☕
+coffee → ☕☕
 
-coil -> 🌀🧵
+coil → 🌀🧵
 
-coin -> 🪙🪙
+coin → 🪙🪙
 
-collect -> 📦📚
+collect → 📦📚
 
-color -> 🎨🎨
+color → 🎨🎨
 
-column -> 🏛️📏
+column → 🏛📏
 
-combine -> ➕🧩
+combine → ➕🧩
 
-come -> ➡⚙️
+come → ➡⚙
 
-comfort -> 🛋️😌
+comfort → 🛋😌
 
-comic -> 🗯️📚
+comic → 🗯📚
 
-common -> 👥🎯
+common → 👥🎯
 
-company -> 🏢👥
+company → 🏢👥
 
-concert -> 🎵🎤
+concert → 🎵🎤
 
-conduct -> 🧑⚖️
+conduct → 🧑⚖
 
-confirm -> ✅💬
+confirm → ✅💬
 
-congress -> 🏛️🏛️
+congress → 🏛🏛
 
-connect -> 🔗🤝
+connect → 🔗🤝
 
-consider -> 🤔📖
+consider → 🤔📖
 
-control -> 🎛️🛡️
+control → 🎛🛡
 
-convince -> 🗣️✅
+convince → 🗣✅
 
-cook -> 🍳🍳
+cook → 🍳🍳
 
-cool -> 😎❄️
+cool → 😎❄
 
-copper -> 🟠🪙
+copper → 🟠🪙
 
-copy -> 📄🎯
+copy → 📄🎯
 
-coral -> 🪸🌊
+coral → 🪸🌊
 
-core -> 🧠📍
+core → 🧠📍
 
-corn -> 🌽🌽
+corn → 🌽🌽
 
-correct -> ✅✅
+correct → ✅✅
 
-cost -> 💵💲
+cost → 💵💲
 
-cotton -> 🧶🌾
+cotton → 🧶🌾
 
-couch -> 🛋️🛋️
+couch → 🛋🛋
 
-country -> 🗺️🏴
+country → 🗺🏴
 
-couple -> 👩‍❤️‍👨👥
+couple → 👩‍❤‍👨👥
 
-course -> 🛣️📚
+course → 🛣📚
 
-cousin -> 👨‍👩‍👧‍👦👦
+cousin → 👨‍👩‍👧‍👦👦
 
-cover -> 🛡️📄
+cover → 🛡📄
 
-coyote -> 🐺🏜️
+coyote → 🐺🏜
 
-crack -> 💥⚙️
+crack → 💥⚙
 
-cradle -> 🧺👶
+cradle → 🧺👶
 
-craft -> 🧰🧵
+craft → 🧰🧵
 
-cram -> 🧠📚
+cram → 🧠📚
 
-crane -> 🏗️🪜
+crane → 🏗🪜
 
-crash -> 💥🚗
+crash → 💥🚗
 
-crater -> 🌋🕳️
+crater → 🌋🕳
 
-crawl -> 🐛➡️
+crawl → 🐛➡
 
-crazy -> 🤪🤯
+crazy → 🤪🤯
 
-cream -> 🍦🍦
+cream → 🍦🍦
 
-credit -> 💳📈
+credit → 💳📈
 
-creek -> 🏞️🌊
+creek → 🏞🌊
 
-crew -> 👥🚢
+crew → 👥🚢
 
-cricket -> 🦗🏏
+cricket → 🦗🏏
 
-crime -> 🚫🏃
+crime → 🚫🏃
 
-crisp -> ❄️🍎
+crisp → ❄🍎
 
-critic -> 🧑📝
+critic → 🧑📝
 
-crop -> 🌾✂️
+crop → 🌾✂
 
-cross -> ➕✝️
+cross → ➕✝
 
-crouch -> 🧍‍♂️⬇️
+crouch → 🧍‍♂⬇
 
-crowd -> 👥👥
+crowd → 👥👥
 
-crucial -> 📌❗
+crucial → 📌❗
 
-cruel -> 😡💔
+cruel → 😡💔
 
-cruise -> 🚢🌊
+cruise → 🚢🌊
 
-crumble -> 🧱💥
+crumble → 🧱💥
 
-crunch -> 😬🍪
+crunch → 😬🍪
 
-crush -> 💔🔨
+crush → 💔🔨
 
-cry -> 😢😢
+cry → 😢😢
 
-crystal -> 🔷💎
+crystal → 🔷💎
 
-cube -> 🧊📐
+cube → 🧊📐
 
-culture -> 🏛️🎭
+culture → 🏛🎭
 
-cup -> 🥤🥤
+cup → 🥤🥤
 
-cupboard -> 🚪🧂
+cupboard → 🚪🧂
 
-curious -> 🤔🔍
+curious → 🤔🔍
 
-current -> 🔌🌊
+current → 🔌🌊
 
-curtain -> 🧵🚪
+curtain → 🧵🚪
 
-curve -> 📈🔄
+curve → 📈🔄
 
-cushion -> 🛋️🧶
+cushion → 🛋🧶
 
-custom -> 📜🧾
+custom → 📜🧾
 
-cute -> 😊🏃
+cute → 😊🏃
 
-cycle -> 🔄✍️
+cycle → 🔄✍
 
-dad -> 👨👨
+dad → 👨👨
 
-damage -> 💥🏃
+damage → 💥🏃
 
-damp -> 💧🧽
+damp → 💧🧽
 
-dance -> 💃🎵
+dance → 💃🎵
 
-danger -> ⚠️☠️
+danger → ⚠☠
 
-daring -> 💥🚀
+daring → 💥🚀
 
-dash -> 🏃💨
+dash → 🏃💨
 
-daughter -> 👧👨
+daughter → 👧👨
 
-dawn -> 🌄🌄
+dawn → 🌄🌄
 
-day -> 📅📅
+day → 📅📅
 
-deal -> 🤝📜
+deal → 🤝📜
 
-debate -> 🗣️⚖️
+debate → 🗣⚖
 
-debris -> 🧱🗑️
+debris → 🧱🗑
 
-decade -> 📅🔟
+decade → 📅🔟
 
-december -> 🎄🎄
+december → 🎄🎄
 
-decide -> ✅🧠
+decide → ✅🧠
 
-decline -> 📉⬇️
+decline → 📉⬇
 
-decorate -> 🎨🏠
+decorate → 🎨🏠
 
-decrease -> 📉📉
+decrease → 📉📉
 
-deer -> 🦌🦌
+deer → 🦌🦌
 
-defense -> 🛡️⚔️
+defense → 🛡⚔
 
-define -> 📖📏
+define → 📖📏
 
-defy -> 🚫⚖️
+defy → 🚫⚖
 
-degree -> 🎓📏
+degree → 🎓📏
 
-delay -> ⏳🐢
+delay → ⏳🐢
 
-deliver -> 🚚🏃
+deliver → 🚚🏃
 
-demand -> ✋📜
+demand → ✋📜
 
-demise -> ⚰️🏁
+demise → ⚰🏁
 
-denial -> ❌📜
+denial → ❌📜
 
-dentist -> 🧑🦷
+dentist → 🧑🦷
 
-deny -> ❌✍️
+deny → ❌✍
 
-depart -> ✈️➡️
+depart → ✈➡
 
-depend -> 🤝📌
+depend → 🤝📌
 
-deposit -> 🏦💵
+deposit → 🏦💵
 
-depth -> 📏💬
+depth → 📏💬
 
-deputy -> 👮🏛️
+deputy → 👮🏛
 
-derive -> 📖➡️
+derive → 📖➡
 
-describe -> ✍️🖼️
+describe → ✍🖼
 
-desert -> 🏜️🌞
+desert → 🏜🌞
 
-design -> 📐🎨
+design → 📐🎨
 
-desk -> 🧑‍💻🪑
+desk → 🧑‍💻🪑
 
-despair -> 😭🌫️
+despair → 😭🌫
 
-destroy -> 💥🧱
+destroy → 💥🧱
 
-detail -> 📄🔍
+detail → 📄🔍
 
-detect -> 🔍🕵️
+detect → 🔍🕵
 
-develop -> 📈🔧
+develop → 📈🔧
 
-device -> 📱⚙️
+device → 📱⚙
 
-devote -> ❤️📅
+devote → ❤📅
 
-diagram -> 📊📐
+diagram → 📊📐
 
-dial -> ☎️🔄
+dial → ☎🔄
 
-diamond -> 💎🏃
+diamond → 💎🏃
 
-diary -> 📓🖊️
+diary → 📓🖊
 
-dice -> 🎲🎲
+dice → 🎲🎲
 
-diesel -> 🛢️🚛
+diesel → 🛢🚛
 
-diet -> 🥗📉
+diet → 🥗📉
 
-differ -> ↔️📏
+differ → ↔📏
 
-digital -> 💻📱
+digital → 💻📱
 
-dignity -> 👑📏
+dignity → 👑📏
 
-dilemma -> ❓↔️
+dilemma → ❓↔
 
-dinner -> 🍽🏃
+dinner → 🍽🏃
 
-dinosaur -> 🦖🦖
+dinosaur → 🦖🦖
 
-direct -> ➡️📍
+direct → ➡📍
 
-dirt -> 🪨🌱
+dirt → 🪨🌱
 
-disagree -> ❌🤝
+disagree → ❌🤝
 
-discover -> 🔍✨
+discover → 🔍✨
 
-disease -> 🦠🤒
+disease → 🦠🤒
 
-dish -> 🍽️🍽️
+dish → 🍽🍛
 
-dismiss -> 🚪❌
+dismiss → 🚪❌
 
-disorder -> 🌪️📉
+disorder → 🌪📉
 
-display -> 🖥🏃
+display → 🖥🏃
 
-distance -> 📏➡️
+distance → 📏➡
 
-divert -> 🔀↩️
+divert → 🔀↩
 
-divide -> ➗📊
+divide → ➗📊
 
-divorce -> ✂️💍
+divorce → ✂💍
 
-dizzy -> 🌀😵
+dizzy → 🌀😵
 
-doctor -> 🧑‍⚕️🩺
+doctor → 🧑‍⚕🩺
 
-document -> 📄📄
+document → 📄📄
 
-dog -> 🐶🐶
+dog → 🐶🐶
 
-doll -> 🪆🪆
+doll → 🪆🪆
 
-dolphin -> 🐬🐬
+dolphin → 🐬🐬
 
-domain -> 🌐🏷️
+domain → 🌐🏷
 
-donate -> 🤲💰
+donate → 🤲💰
 
-donkey -> 🫏🫏
+donkey → 🫏🫏
 
-donor -> 🤲💉
+donor → 🤲💉
 
-door -> 🚪⚙️
+door → 🚪⚙
 
-dose -> 💊💊
+dose → 💊💊
 
-double -> ✌️2️⃣
+double → ✌✌
 
-dove -> 🕊️🕊️
+dove → 🕊🕊
 
-draft -> 📄✍️
+draft → 📄✍
 
-dragon -> 🐉🐉
+dragon → 🐉🐉
 
-drama -> 🎭🎭
+drama → 🎭🎭
 
-drastic -> ❗⚡
+drastic → ❗⚡
 
-draw -> ✏️🖼️
+draw → ✏🖼
 
-dream -> 😴💭
+dream → 😴💭
 
-dress -> 👗⚙️
+dress → 👗⚙
 
-drift -> 🌊💨
+drift → 🌊💨
 
-drill -> 🛠️🌀
+drill → 🛠🌀
 
-drink -> 🍹🍹
+drink → 🍹🍹
 
-drip -> 💧🏃
+drip → 💧🏃
 
-drive -> 🚗🛣️
+drive → 🚗🛣
 
-drop -> 💧⬇️
+drop → 💧⬇
 
-drum -> 🥁🥁
+drum → 🥁🥁
 
-dry -> 🌵☀️
+dry → 🌵☀
 
-duck -> 🦆🦆
+duck → 🦆🦆
 
-dumb -> 🤐🤔
+dumb → 🤐🤔
 
-dune -> 🏜️⛰️
+dune → 🏜⛰
 
-during -> ⏳📅
+during → ⏳📅
 
-dust -> 🧹🌫️
+dust → 🧹🌫
 
-dutch -> 🇳🇱🧀
+dutch → 🧀🇳🇱
 
-duty -> 📜🛡️
+duty → 📜🛡
 
-dwarf -> 🧙‍♂️🪓
+dwarf → 🧙‍♂🪓
 
-dynamic -> 🔄⚡
+dynamic → 🔄⚡
 
-eager -> 🤩🔥
+eager → 🤩🔥
 
-eagle -> 🦅🦅
+eagle → 🦅🦅
 
-early -> ⏰🌅
+early → ⏰🌅
 
-earn -> 💰🏦
+earn → 💰🏦
 
-earth -> 🌍🏃
+earth → 🌍🏃
 
-easily -> 😊👌
+easily → 😊👌
 
-east -> 🧭➡️
+east → 🧭➡
 
-easy -> 😌✅
+easy → 😌✅
 
-echo -> 📢🔊
+echo → 📢🔊
 
-ecology -> 🌱🌍
+ecology → 🌱🌍
 
-economy -> 💵📊
+economy → 💵📊
 
-edge -> 📐⛰️
+edge → 📐⛰
 
-edit -> ✏️💻
+edit → ✏💻
 
-educate -> 🎓🧑‍🏫
+educate → 🎓🧑‍🏫
 
-effort -> 💪🔥
+effort → 💪🔥
 
-egg -> 🥚🥚
+egg → 🥚🥚
 
-eight -> 8️⃣🎱
+eight → 🎱🕗
 
-either -> ↔️🤷
+either → ↔🤷
 
-elbow -> 💪🦴
+elbow → 💪🦴
 
-elder -> 👴📿
+elder → 👴📿
 
-electric -> ⚡🔌
+electric → ⚡🔌
 
-elegant -> 👠✨
+elegant → 👠✨
 
-element -> 🧪🌡️
+element → 🧪🌡
 
-elephant -> 🐘🐘
+elephant → 🐘🐘
 
-elevator -> 🛗🏃
+elevator → 🛗🏃
 
-elite -> 👑🌟
+elite → 👑🌟
 
-else -> 🔀🤔
+else → 🔀🤔
 
-embark -> 🚢➡️
+embark → 🚢➡
 
-embody -> 🧍💡
+embody → 🧍💡
 
-embrace -> 🤗❤️
+embrace → 🤗❤
 
-emerge -> 🌱⬆️
+emerge → 🌱⬆
 
-emotion -> ❤️😭
+emotion → ❤😭
 
-employ -> 💼👨‍💼
+employ → 💼👨‍💼
 
-empower -> ⚪🕳️
+empower → ⚪🕳
 
-empty -> ✅🔓
+empty → ✅🔓
 
-enable -> 👥⚡
+enable → 👥⚡
 
-enact -> 👍💬
+enact → 👍💬
 
-end -> 🛑🏁
+end → 🛑🏁
 
-endless -> ♾️🌌
+endless → ♾🌌
 
-endorse -> ✍️📜
+endorse → ✍📜
 
-enemy -> ⚔️😠
+enemy → ⚔😠
 
-energy -> ⚡💪
+energy → ⚡💪
 
-enforce -> 👮⚖️
+enforce → 👮⚖
 
-engage -> 💍🗣️
+engage → 💍🗣
 
-engine -> ⚙️🚂
+engine → ⚙🚂
 
-enhance -> 📈✨
+enhance → 📈✨
 
-enjoy -> 😄🎉
+enjoy → 😄🎉
 
-enlist -> 🪖✍️
+enlist → 🪖✍
 
-enough -> ✅📏
+enough → ✅📏
 
-enrich -> 💎📈
+enrich → 💎📈
 
-enroll -> 🏫📝
+enroll → 🏫📝
 
-ensure -> ✅🔒
+ensure → ✅🔒
 
-enter -> 🚪➡️
+enter → 🚪➡
 
-entire -> 🌐🏃
+entire → 🌐🏃
 
-entry -> 🚪🚶‍♂️
+entry → 🚪🚶‍♂
 
-envelope -> ✉🏃
+envelope → ✉🏃
 
-episode -> 🎬📺
+episode → 🎬📺
 
-equal -> ⚖️⚖️
+equal → ⚖⚖
 
-equip -> 🧰⚙️
+equip → 🧰⚙
 
-era -> 🕰️🏛️
+era → 🕰🏛
 
-erase -> 🩹✏️
+erase → 🩹✏
 
-erode -> 🌊🪨
+erode → 🌊🪨
 
-erosion -> 🌧️⛰️
+erosion → 🌧⛰
 
-error -> ❌💻
+error → ❌💻
 
-erupt -> 🌋🔥
+erupt → 🌋🔥
 
-escape -> 🏃‍♂️🚪
+escape → 🏃‍♂🚪
 
-essay -> 📄🖊️
+essay → 📄🖊
 
-essence -> 🌸💨
+essence → 🌸💨
 
-estate -> 🏡📜
+estate → 🏡📜
 
-eternal -> ♾️🕊️
+eternal → ♾🕊
 
-ethics -> ⚖️📚
+ethics → ⚖📚
 
-evidence -> 📜🔍
+evidence → 📜🔍
 
-evil -> 😈🔥
+evil → 😈🔥
 
-evoke -> 🗣️💭
+evoke → 🗣💭
 
-evolve -> 🐒🧑
+evolve → 🐒🧑
 
-exact -> 🎯✅
+exact → 🎯✅
 
-example -> 📖👆
+example → 📖👆
 
-excess -> ➕📈
+excess → ➕📈
 
-exchange -> 🔄⚙️
+exchange → 🔄⚙
 
-excite -> 🤩⚡
+excite → 🤩⚡
 
-exclude -> 🚫🚪
+exclude → 🚫🚪
 
-excuse -> 🙏📝
+excuse → 🙏📝
 
-execute -> ⚔️🧑‍⚖️
+execute → ⚔🧑‍⚖
 
-exercise -> 🏃‍♂️💪
+exercise → 🏃‍♂💪
 
-exhaust -> 😩💨
+exhaust → 😩💨
 
-exhibit -> 🖼🏃
+exhibit → 🖼🏃
 
-exile -> 🚷🌍
+exile → 🚷🌍
 
-exist -> 🌐✅
+exist → 🌐✅
 
-exit -> 🚪⬅️
+exit → 🚪⬅
 
-exotic -> 🌴🦜
+exotic → 🌴🦜
 
-expand -> ⬆️📈
+expand → ⬆📈
 
-expect -> 👀⏳
+expect → 👀⏳
 
-expire -> ⏰💀
+expire → ⏰💀
 
-explain -> 🗣️📖
+explain → 🗣📖
 
-expose -> 📸😮
+expose → 📸😮
 
-express -> 🚂💬
+express → 🚂💬
 
-extend -> 📏🎯
+extend → 📏🎯
 
-extra -> ➕🌟
+extra → ➕🌟
 
-eye -> 👁️👁️
+eye → 👁👁
 
-eyebrow -> 👁️〰️
+eyebrow → 👁〰
 
-fabric -> 🧵🪡
+fabric → 🧵🪡
 
-face -> 🙂🙂
+face → 🙂🙂
 
-faculty -> 🎓🏃
+faculty → 🎓🏃
 
-fade -> 🌫️⬇️
+fade → 🌫⬇
 
-faint -> 😵💫
+faint → 😵💫
 
-faith -> ✝️🙏
+faith → ✝🙏
 
-fall -> 🍂⬇️
+fall → 🍂⬇
 
-false -> ❌🤥
+false → ❌🤥
 
-fame -> 🌟📣
+fame → 🌟📣
 
-family -> 👨‍👩‍👧‍👦🏠
+family → 👨‍👩‍👧‍👦🏠
 
-famous -> 🌟📸
+famous → 🌟📸
 
-fan -> 🌀🪭
+fan → 🌀🪭
 
-fancy -> 👑🎀
+fancy → 👑🎀
 
-fantasy -> 🧚‍♀️🐉
+fantasy → 🧚‍♀🐉
 
-farm -> 🚜🌾
+farm → 🚜🌾
 
-fashion -> 👗🏃
+fashion → 👗🏃
 
-fat -> 🥓🏃
+fat → 🥓🏃
 
-fatal -> ☠️⚰️
+fatal → ☠⚰
 
-father -> 👨👔
+father → 👨👔
 
-fatigue -> 😴😩
+fatigue → 😴😩
 
-fault -> ⚡⛰️
+fault → ⚡⛰
 
-favorite -> ⭐❤️
+favorite → ⭐❤
 
-feature -> 🔍📱
+feature → 🔍📱
 
-february -> ❄️💘
+february → ❄💘
 
-federal -> 🏛️🇺🇸
+federal → 🏛🇺🇸
 
-fee -> 💵🧾
+fee → 💵🧾
 
-feed -> 🍽️🐄
+feed → 🍽🐄
 
-feel -> 🤲💓
+feel → 🤲💓
 
-female -> 🚺👩
+female → 🚺👩
 
-fence -> 🚧🌳
+fence → 🚧🌳
 
-festival -> 🎉🥁
+festival → 🎉🥁
 
-fetch -> 🐕🎾
+fetch → 🐕🎾
 
-fever -> 🤒🌡️
+fever → 🤒🌡
 
-few -> 3️⃣👐
+few → 👐🔢
 
-fiber -> 🧶🥗
+fiber → 🧶🥗
 
-fiction -> 📚🛸
+fiction → 📚🛸
 
-field -> 🌾⚽
+field → 🌾⚽
 
-figure -> 👤📏
+figure → 👤📏
 
-file -> 📂🖥️
+file → 📂🖥
 
-film -> 🎥🎞️
+film → 🎥🎞
 
-filter -> 🧃🪣
+filter → 🧃🪣
 
-final -> 🏁✅
+final → 🏁✅
 
-find -> 🔍👆
+find → 🔍👆
 
-fine -> 💰⚖️
+fine → 💰⚖
 
-finger -> 👉🖐️
+finger → 👉🖐
 
-finish -> 🏁🎉
+finish → 🏁🎉
 
-fire -> 🔥🔥
+fire → 🔥🔥
 
-firm -> 🏢💼
+firm → 🏢💼
 
-first -> 1️⃣🏆
+first → 🥇🏆
 
-fiscal -> 💰📊
+fiscal → 💰📊
 
-fish -> 🐟🐟
+fish → 🐟🐟
 
-fit -> 🧩🏃
+fit → 🧩🏃
 
-fitness -> 🏋️‍♂️💦
+fitness → 🏋‍♂💦
 
-fix -> 🛠️🔧
+fix → 🛠🔧
 
-flag -> 🚩🚩
+flag → 🚩🚩
 
-flame -> 🔥💨
+flame → 🔥💨
 
-flash -> ⚡📸
+flash → ⚡📸
 
-flat -> ➖🏠
+flat → ➖🏠
 
-flavor -> 🍦🍓
+flavor → 🍦🍓
 
-flee -> 🏃‍♂️💨
+flee → 🏃‍♂💨
 
-flight -> 🛫🛬
+flight → 🛫🛬
 
-flip -> 🔄📖
+flip → 🔄📖
 
-float -> 🛟🌊
+float → 🛟🌊
 
-flock -> 🐑👥
+flock → 🐑👥
 
-floor -> 🪵🏠
+floor → 🪵🏠
 
-flower -> 🌸🌼
+flower → 🌸🌼
 
-fluid -> 💧🧪
+fluid → 💧🧪
 
-flush -> 🚽💦
+flush → 🚽💦
 
-fly -> 🪰✈️
+fly → 🪰✈
 
-foam -> 🧴🫧
+foam → 🧴🫧
 
-focus -> 🎯🔍
+focus → 🎯🔍
 
-fog -> 🌫️🌁
+fog → 🌫🌁
 
-foil -> 🧻✨
+foil → 🧻✨
 
-fold -> 📄➖
+fold → 📄➖
 
-follow -> 👣➡️
+follow → 👣↪
 
-food -> 🍲🍎
+food → 🍲🍎
 
-foot -> 🦶👣
+foot → 🦶👣
 
-force -> 💪⚔️
+force → 💪⚔
 
-forest -> 🌦️📊
+forest → 🌦📊
 
-forget -> 🧠❌
+forget → 🧠❌
 
-fork -> 🍴🍴
+fork → 🍴🍴
 
-fortune -> 🍀💰
+fortune → 🍀💰
 
-forum -> 🏛️🗣️
+forum → 🏛🗣
 
-forward -> ➡️📈
+forward → ➡📈
 
-fossil -> 🦴🪨
+fossil → 🦴🪨
 
-foster -> 🤲👶
+foster → 🤲👶
 
-found -> 🧭✅
+found → 🧭✅
 
-fox -> 🦊🦊
+fox → 🦊🦊
 
-fragile -> 🥂⚠️
+fragile → 🥂⚠
 
-frame -> 🖼️📐
+frame → 🖼📐
 
-frequent -> 🔄📅
+frequent → 🔄📅
 
-fresh -> 🥗🌱
+fresh → 🥗🌱
 
-friend -> 🤝😊
+friend → 🤝😊
 
-fringe -> 🎭✨
+fringe → 🎭✨
 
-frog -> 🐸🐸
+frog → 🐸🐸
 
-front -> ⬆️🏠
+front → ⬆🏠
 
-frost -> ❄🏃
+frost → ❄🏃
 
-frown -> 🙁👎
+frown → 🙁👎
 
-frozen -> 🧊❄️
+frozen → 🧊❄
 
-fruit -> 🍎🍌
+fruit → 🍎🍌
 
-fuel -> ⛽🛢️
+fuel → ⛽🛢
 
-fun -> 🎉😂
+fun → 🎉😂
 
-funny -> 🤣🎭
+funny → 🤣🎭
 
-furnace -> 🔥🏭
+furnace → 🔥🏭
 
-fury -> 😡🏃
+fury → 😡🏃
 
-future -> 🔮📅
+future → 🔮📅
 
-gadget -> 📱🏃
+gadget → 📱🏃
 
-gain -> 📈💰
+gain → 📈💰
 
-galaxy -> 🌌✨
+galaxy → 🌌✨
 
-gallery -> 🖼️🏛️
+gallery → 🖼🏛
 
-game -> 🎮🎲
+game → 🎮🎲
 
-gap -> ➖📏
+gap → ➖📏
 
-garage -> 🚗🏠
+garage → 🚗🏠
 
-garbage -> 🗑️🚮
+garbage → 🗑🚮
 
-garden -> 🌱🌸
+garden → 🌱🌸
 
-garlic -> 🧄🧄
+garlic → 🧄🧄
 
-garment -> 👕👗
+garment → 👕👗
 
-gas -> ⛽💨
+gas → ⛽💨
 
-gasp -> 😮🏃
+gasp → 😮🏃
 
-gate -> 🚪🚪
+gate → 🚪🚪
 
-gather -> 👥📦
+gather → 👥📦
 
-gauge -> 📏⚡
+gauge → 📏⚡
 
-gaze -> 👀➡️
+gaze → 👀➡
 
-general -> ⭐🏃
+general → ⭐🏃
 
-genius -> 🧠⚙️
+genius → 🧠⚙
 
-genre -> 🎶📚
+genre → 🎶📚
 
-gentle -> 🤲🕊️
+gentle → 🤲🕊
 
-genuine -> ✅❤️
+genuine → ✅❤
 
-gesture -> 🤌🤝
+gesture → 🤌🤝
 
-ghost -> 👻👻
+ghost → 👻👻
 
-giant -> 🗿📏
+giant → 🗿📏
 
-gift -> 🎁🎁
+gift → 🎁🎁
 
-giggle -> 😆😂
+giggle → 😆😂
 
-ginger -> 🫚🥤
+ginger → 🫚🥤
 
-giraffe -> 🦒🦒
+giraffe → 🦒🦒
 
-girl -> 👧👧
+girl → 👧👧
 
-give -> 🤲🎁
+give → 🤲🎁
 
-glad -> 😀👍
+glad → 😀👍
 
-glance -> 👀⏱️
+glance → 👀⏱
 
-glare -> 👀⚡
+glare → 👀⚡
 
-glass -> 🥛🍷
+glass → 🥛🍷
 
-glide -> 🪂✨
+glide → 🪂✨
 
-glimpse -> 👀🔦
+glimpse → 👀🔦
 
-globe -> 🌍🌍
+globe → 🌍🌍
 
-gloom -> 🌫️😞
+gloom → 🌫😞
 
-glory -> 🏆✨
+glory → 🏆✨
 
-glove -> 🧤🧤
+glove → 🧤🧤
 
-glow -> ✨🌟
+glow → ✨🌟
 
-glue -> 🧴📌
+glue → 🧴📌
 
-goat -> 🐐🐐
+goat → 🐐🐐
 
-goddess -> 👑🕊️
+goddess → 👑🕊
 
-gold -> 🥇💰
+gold → 🥇💰
 
-good -> 👍🏃
+good → 👍🏃
 
-goose -> 🪿🪿
+goose → 🪿🪿
 
-gorilla -> 🦍🦍
+gorilla → 🦍🦍
 
-gospel -> 📖✝️
+gospel → 📖✝
 
-gossip -> 🗣️👂
+gossip → 🗣👂
 
-govern -> 🏛️⚖️
+govern → 🏛⚖
 
-gown -> 👗🎓
+gown → 👗🎓
 
-grab -> ✋🏃
+grab → ✋🏃
 
-grace -> 🙏🕊️
+grace → 🙏🕊
 
-grain -> 🌾🌾
+grain → 🌾🌾
 
-grant -> ✅📜
+grant → ✅📜
 
-grape -> 🍇🍇
+grape → 🍇🍇
 
-grass -> 🌱🏃
+grass → 🌱🏃
 
-gravity -> 🌍⬇️
+gravity → 🌍⬇
 
-great -> 🌟🏆
+great → 🌟🏆
 
-green -> 🟢🌱
+green → 🟢🌱
 
-grid -> 🔲📐
+grid → 🔲📐
 
-grief -> 😢💔
+grief → 😢💔
 
-grit -> 🪨🏃
+grit → 🪨🏃
 
-grocery -> 🛒🥦
+grocery → 🛒🥦
 
-group -> 👥🏃
+group → 👥🏃
 
-grow -> 🌱📈
+grow → 🌱📈
 
-grunt -> 🐗💢
+grunt → 🐗💢
 
-guard -> 🛡️🚷
+guard → 🛡🚷
 
-guess -> ❓🤔
+guess → ❓🤔
 
-guide -> 🧭📖
+guide → 🧭📖
 
-guilt -> 😔⚖️
+guilt → 😔⚖
 
-guitar -> 🎸🎸
+guitar → 🎸🎸
 
-gun -> 🔫🔫
+gun → 🔫🔫
 
-gym -> 🏋️‍♂️🏋️
+gym → 🏋‍♂🏋
 
-habit -> 🔁📆
+habit → 🔁📆
 
-hair -> ✂️🧴
+hair → ✂🧴
 
-half -> 🌓➗
+half → 🌓➗
 
-hammer -> 🔨🔩
+hammer → 🔨🔩
 
-hamster -> 🐹🐹
+hamster → 🐹🐹
 
-hand -> ✋✋
+hand → ✋✋
 
-happy -> 😄✨
+happy → 😄✨
 
-harbor -> ⚓🚢
+harbor → ⚓🚢
 
-hard -> 🪨💪
+hard → 🪨💪
 
-harsh -> 🌵⚠️
+harsh → 🌵⚠
 
-harvest -> 🌾🧺
+harvest → 🌾🧺
 
-hat -> 🎩🎩
+hat → 🎩🎩
 
-have -> 🤲📦
+have → 🤲📦
 
-hawk -> 🦅👁️
+hawk → 🦅👁
 
-hazard -> ☣️⚠️
+hazard → ☣⚠
 
-head -> 🧑🧠
+head → 🧑🧠
 
-health -> ❤️‍🩹✅
+health → ❤‍🩹✅
 
-heart -> ❤️❤️
+heart → ❤❤
 
-heavy -> 🏋️📦
+heavy → 🏋📦
 
-hedgehog -> 🦔🦔
+hedgehog → 🦔🦔
 
-height -> 📏🔍
+height → 📏🔍
 
-hello -> 👋🙂
+hello → 👋🙂
 
-helmet -> ⛑️🛡️
+helmet → ⛑🛡
 
-help -> 🆘✋
+help → 🆘✋
 
-hen -> 🐔🥚
+hen → 🐔🥚
 
-hero -> 🛡️⭐
+hero → 🛡⭐
 
-hidden -> 🙈🔒
+hidden → 🙈🔒
 
-high -> ⛰️⬆️
+high → ⛰⬆
 
-hill -> ⛰️↗️
+hill → ⛰↗
 
-hint -> 💡👉
+hint → 💡👉
 
-hip -> 🦴👖
+hip → 🦴👖
 
-hire -> 👔📄
+hire → 👔📄
 
-history -> 📜⌛
+history → 📜⌛
 
-hobby -> 🎨🎯
+hobby → 🎨🎯
 
-hockey -> 🏒🥅
+hockey → 🏒🥅
 
-hold -> ✋📦
+hold → ✋📦
 
-hole -> 🕳️⬇️
+hole → 🕳⬇
 
-holiday -> 🎉🏖️
+holiday → 🎉🏖
 
-hollow -> 🕳️⚪
+hollow → 🕳⚪
 
-home -> 🏠🏠
+home → 🏠🏠
 
-honey -> 🍯🐝
+honey → 🍯🐝
 
-hood -> 🧥🧣
+hood → 🧥🧣
 
-hope -> 🙏🏃
+hope → 🙏🏃
 
-horn -> 📯🎺
+horn → 📯🎺
 
-horror -> 😱🩸
+horror → 😱🩸
 
-horse -> 🐴🏃
+horse → 🐴🏃
 
-hospital -> 🏥➕
+hospital → 🏥➕
 
-host -> 🤝🏠
+host → 🤝🏠
 
-hotel -> 🏨🛎️
+hotel → 🏨🛎
 
-hour -> ⏰🕒
+hour → ⏰🕒
 
-hover -> 🚁⏸️
+hover → 🚁⏸
 
-hub -> 🛞🔗
+hub → 🛞🔗
 
-huge -> 🗻📏
+huge → 🗻📏
 
-human -> 🧑🌍
+human → 🧑🌍
 
-humble -> 🙇🕊️
+humble → 🙇🕊
 
-humor -> 😂🎭
+humor → 😂🎭
 
-hundred -> 💯💯
+hundred → 💯💯
 
-hungry -> 😋🍽️
+hungry → 😋🍽
 
-hunt -> 🏹🐾
+hunt → 🏹🐾
 
-hurdle -> 🏃🚧
+hurdle → 🏃🚧
 
-hurry -> ⏳🏃
+hurry → ⏳🏃
 
-hurt -> 🤕💢
+hurt → 🤕💢
 
-husband -> 👨💍
+husband → 👨💍
 
-hybrid -> 🧬🔀
+hybrid → 🧬🔀
 
-ice -> ❄️❄️
+ice → ❄❄
 
-icon -> 🖼️⭐
+icon → 🖼⭐
 
-idea -> 💡🏃
+idea → 💡🏃
 
-identify -> 🆔🔍
+identify → 🆔🔍
 
-idle -> 🛑😴
+idle → 🛑😴
 
-ignore -> 🙈🏃
+ignore → 🙈🏃
 
-ill -> 🤒🤢
+ill → 🤒🤢
 
-illegal -> 🚫⚙️
+illegal → 🚫⚙
 
-illness -> 🤧🏥
+illness → 🤧🏥
 
-image -> 🖼️📷
+image → 🖼📷
 
-imitate -> 🪞🙃
+imitate → 🪞🙃
 
-immense -> 🌌📏
+immense → 🌌📏
 
-immune -> 🛡️🧬
+immune → 🛡🧬
 
-impact -> 💥🌍
+impact → 💥🌍
 
-impose -> 📜📢
+impose → 📜📢
 
-improve -> 📈💪
+improve → 📈💪
 
-impulse -> ⚡❤️
+impulse → ⚡❤
 
-inch -> 📏1️⃣
+inch → 📏📏
 
-include -> ➕📦
+include → ➕📦
 
-income -> 💵📥
+income → 💵📥
 
-increase -> 📈⬆️
+increase → 📈⬆
 
-index -> 📖☝️
+index → 📖☝
 
-indicate -> 👉📍
+indicate → 👉📍
 
-indoor -> 🏠✍️
+indoor → 🏠✍
 
-industry -> 🏭⚙️
+industry → 🏭⚙
 
-infant -> 👶🍼
+infant → 👶🍼
 
-inflict -> 🔪💢
+inflict → 🔪💢
 
-inform -> 📢💬
+inform → 📢💬
 
-inhale -> 😮💨
+inhale → 😮💨
 
-inherit -> 🧬📜
+inherit → 🧬📜
 
-initial -> 🔤➡️
+initial → 🔤➡
 
-inject -> 💉➡️
+inject → 💉➡
 
-injury -> 🤕🩹
+injury → 🤕🩹
 
-inmate -> 🚔🔒
+inmate → 🚔🔒
 
-inner -> 🔘🧠
+inner → 🔘🧠
 
-innocent -> 😇✅
+innocent → 😇✅
 
-input -> ⌨️📥
+input → ⌨📥
 
-inquiry -> ❓📄
+inquiry → ❓📄
 
-insane -> 🤪🏥
+insane → 🤪🏥
 
-insect -> 🐜🐜
+insect → 🐜🐜
 
-inside -> 🏠➡️
+inside → 🏠➡
 
-inspire -> ✨💡
+inspire → ✨💡
 
-install -> 📦⬇️
+install → 📦⬇
 
-intact -> 🧩⚙️
+intact → 🧩⚙
 
-interest -> 📈💬
+interest → 📈💬
 
-into -> 👉➡️
+into → 👉➡
 
-invest -> 💰📈
+invest → 💰📈
 
-invite -> ✉️🎉
+invite → ✉🎉
 
-involve -> 🔄🤝
+involve → 🔄🤝
 
-iron -> 🧲⚙️
+iron → 🧲⚙
 
-island -> 🏝️🌊
+island → 🏝🌊
 
-isolate -> 🧍🚫
+isolate → 🧍🚫
 
-issue -> 🧾⚠️
+issue → 🧾⚠
 
-item -> 📦🔖
+item → 📦🔖
 
-ivory -> 🐘🦷
+ivory → 🐘🦷
 
-jacket -> 🧥🧥
+jacket → 🧥🧥
 
-jaguar -> 🐆🌴
+jaguar → 🐆🌴
 
-jar -> 🫙🍯
+jar → 🫙🍯
 
-jazz -> 🎷🎶
+jazz → 🎷🎶
 
-jealous -> 😒💔
+jealous → 😒💔
 
-jeans -> 👖👖
+jeans → 👖👖
 
-jelly -> 🍮🍇
+jelly → 🍮🍇
 
-jewel -> 💎💎
+jewel → 💎💎
 
-job -> 💼💼
+job → 💼💼
 
-join -> 🤝➕
+join → 🤝➕
 
-joke -> 😂🏃
+joke → 😂🏃
 
-journey -> 🚶‍♂️🗺️
+journey → 🚶‍♂🗺
 
-joy -> 😀🎉
+joy → 😀🎉
 
-judge -> 👨‍⚖️⚖️
+judge → 👨‍⚖⚖
 
-juice -> 🥤🍊
+juice → 🥤🍊
 
-jump -> 🤸‍♂️⬆️
+jump → 🤸‍♂⬆
 
-jungle -> 🌴🦍
+jungle → 🌴🦍
 
-junior -> 👶🎓
+junior → 👶🎓
 
-junk -> 🗑️🪙
+junk → 🗑🪙
 
-just -> ⚖⚙️
+just → ⚖⚙
 
-kangaroo -> 🦘🦘
+kangaroo → 🦘🦘
 
-keen -> 👀🔥
+keen → 👀🔥
 
-keep -> 🤲🔒
+keep → 🤲🔒
 
-ketchup -> 🍅🥫
+ketchup → 🍅🥫
 
-key -> 🔑🔑
+key → 🔑🔑
 
-kick -> 🦵⚽
+kick → 🦵⚽
 
-kid -> 👦👦
+kid → 👦👦
 
-kidney -> 🩺🫘
+kidney → 🩺🫘
 
-kind -> 🤝💖
+kind → 🤝💖
 
-kingdom -> 🏰👑
+kingdom → 🏰👑
 
-kiss -> 💋❤️
+kiss → 💋❤
 
-kit -> 🧰📦
+kit → 🧰📦
 
-kitchen -> 🍳🏠
+kitchen → 🍳🏠
 
-kite -> 🪁🌬️
+kite → 🪁🌬
 
-kitten -> 🐱🐾
+kitten → 🐱🐾
 
-kiwi -> 🥝🥝
+kiwi → 🥝🥝
 
-knee -> 🦵🦴
+knee → 🦵🦴
 
-knife -> 🔪🔪
+knife → 🔪🔪
 
-knock -> 👊🚪
+knock → 👊🚪
 
-know -> 🧠✅
+know → 🧠✅
 
-lab -> 🧪🔬
+lab → 🧪🔬
 
-label -> 🏷🏃
+label → 🏷🏃
 
-labor -> 👷‍♂️⚒️
+labor → 👷‍♂⚒
 
-ladder -> 🪜🪜
+ladder → 🪜🪜
 
-lady -> 👩👒
+lady → 👩👒
 
-lake -> 🌊🏞️
+lake → 🌊🏞
 
-lamp -> 🛋️💡
+lamp → 🛋💡
 
-language -> 🗣️📚
+language → 🗣📚
 
-laptop -> 💻⌨️
+laptop → 💻⌨
 
-large -> 📏⬆️
+large → 📏⬆
 
-later -> ⏳⚙️
+later → ⏳⚙
 
-latin -> 📜🔤
+latin → 📜🔤
 
-laugh -> 😂🤣
+laugh → 😂🤣
 
-laundry -> 👕🧺
+laundry → 👕🧺
 
-lava -> 🌋🫗
+lava → 🌋🫗
 
-law -> 📜⚖️
+law → 📜⚖
 
-lawn -> 🌱✂️
+lawn → 🌱✂
 
-lawsuit -> ⚖️🧾
+lawsuit → ⚖🧾
 
-layer -> 📚➖
+layer → 📚➖
 
-lazy -> 😴🛋️
+lazy → 😴🛋
 
-leader -> 🧑‍✈️👑
+leader → 🧑‍✈👑
 
-leaf -> 🍃🍃
+leaf → 🍃🍃
 
-learn -> 📚🏃
+learn → 📚🏃
 
-leave -> 🚪👋
+leave → 🚪👋
 
-lecture -> 🎓📖
+lecture → 🎓📖
 
-left -> ⬅️✋
+left → ⬅✋
 
-leg -> 🦵🦵
+leg → 🦵🦵
 
-legal -> ⚖️✅
+legal → ⚖✅
 
-legend -> 🏆📜
+legend → 🏆📜
 
-leisure -> 🏖️🍹
+leisure → 🏖🍹
 
-lemon -> 🍋🍋
+lemon → 🍋🍋
 
-lend -> 💵⚙️
+lend → 💵⚙
 
-length -> 📏↔️
+length → 📏↔
 
-lens -> 🔍📸
+lens → 🔍📸
 
-leopard -> 🐆🐆
+leopard → 🐆🐆
 
-lesson -> 📖🧑‍🏫
+lesson → 📖🧑‍🏫
 
-letter -> ✉️✉️
+letter → ✉✉
 
-level -> 📊📏
+level → 📊📏
 
-liar -> 🤥🙊
+liar → 🤥🙊
 
-liberty -> 🗽🕊️
+liberty → 🗽🕊
 
-library -> 📚🏛️
+library → 📚🏛
 
-license -> 🪪✅
+license → 🪪✅
 
-life -> 🌱❤️
+life → 🌱❤
 
-lift -> 🛗⬆️
+lift → 🛗⬆
 
-light -> 💡✨
+light → 💡✨
 
-like -> 👍❤️
+like → 👍❤
 
-limb -> 🦴🦵
+limb → 🦴🦵
 
-limit -> 🚫📏
+limit → 🚫📏
 
-link -> 🔗🔗
+link → 🔗🔗
 
-lion -> 🦁🦁
+lion → 🦁🦁
 
-liquid -> 💧⚙️
+liquid → 💧⚙
 
-list -> 📋📋
+list → 📋📋
 
-little -> 👶📏
+little → 👶📏
 
-live -> 🎤🏟️
+live → 🎤🏟
 
-lizard -> 🦎🦎
+lizard → 🦎🦎
 
-load -> 📦⬆️
+load → 📦⬆
 
-loan -> 💵🏦
+loan → 💵🏦
 
-lobster -> 🦞🦞
+lobster → 🦞🦞
 
-local -> 🏘️📍
+local → 🏘📍
 
-lock -> 🔒🔒
+lock → 🔒🔒
 
-logic -> 📍⚙️
+logic → 📍⚙
 
-lonely -> 😔🚶‍♂️
+lonely → 😔🚶‍♂
 
-long -> 📏✍️
+long → 📏✍
 
-loop -> 👀👆
+loop → 👀👆
 
-lottery -> 🎟️💰
+lottery → 🎟💰
 
-loud -> 🔊📢
+loud → 🔊📢
 
-lounge -> 🛋️☕
+lounge → 🛋☕
 
-love -> ❤️💞
+love → ❤💞
 
-loyal -> 🪢✂️
+loyal → 🪢✂
 
-lucky -> ✝️👑
+lucky → ✝👑
 
-luggage -> ❌🏆
+luggage → ❌🏆
 
-lumber -> 📉💔
+lumber → 📉💔
 
-lunar -> 🌙🛰️
+lunar → 🌙🛰
 
-lunch -> 🍽️🕛
+lunch → 🍽🕛
 
-luxury -> 👑💎
+luxury → 👑💎
 
-lyrics -> 🎵📝
+lyrics → 🎵📝
 
-machine -> ⚙️🤖
+machine → ⚙🤖
 
-mad -> 😡🤯
+mad → 😡🤯
 
-magic -> ✨🎩
+magic → ✨🎩
 
-magnet -> 🧲🧲
+magnet → 🧲🧲
 
-maid -> 👩‍🍳🧹
+maid → 👩‍🍳🧹
 
-mail -> 📬✉️
+mail → 📬✉
 
-main -> 📌🏠
+main → 📌🏠
 
-major -> 🎖️🏛️
+major → 🎖🏛
 
-make -> 🛠️🎨
+make → 🛠🎨
 
-mammal -> 🚹👨
+mammal → 🚹👨
 
-man -> 🏬🛍️
+man → 🏬🛍
 
-manage -> 🧑‍💼📊
+manage → 🧑‍💼📊
 
-mandate -> 📜🏃
+mandate → 📜🏃
 
-mango -> 🥭🥭
+mango → 🥭🥭
 
-mansion -> 🏰🏠
+mansion → 🏰🏠
 
-manual -> 📖🛠️
+manual → 📖🛠
 
-maple -> 🍁🌳
+maple → 🍁🌳
 
-marble -> 🏛️⚪
+marble → 🏛⚪
 
-march -> 🚶‍♂️📅
+march → 🚶‍♂📅
 
-margin -> 📉📐
+margin → 📉📐
 
-marine -> ⚓🐬
+marine → ⚓🐬
 
-market -> 🛒📈
+market → 🛒📈
 
-marriage -> 💍❤️
+marriage → 💍❤
 
-mask -> 🎭😷
+mask → 🎭😷
 
-mass -> 🌍⚖️
+mass → 🌍⚖
 
-master -> 👑📚
+master → 👑📚
 
-match -> 🎾🔥
+match → 🎾🔥
 
-material -> 🧱🏃
+material → 🧱🏃
 
-math -> ➕➗
+math → ➕➗
 
-matrix -> 🔢🕸️
+matrix → 🔢🕸
 
-matter -> 🌌⚛️
+matter → 🌌⚛
 
-maximum -> 📈🚀
+maximum → 📈🚀
 
-maze -> 🌀🗺️
+maze → 🌀🗺
 
-meadow -> 🌾🌼
+meadow → 🌾🌼
 
-mean -> ➖😠
+mean → ➖😠
 
-measure -> 📏⚖️
+measure → 📏⚖
 
-meat -> 🍖🥩
+meat → 🍖🥩
 
-mechanic -> 🧑‍🔧🔧
+mechanic → 🧑‍🔧🔧
 
-medal -> 🥇🏅
+medal → 🥇🏅
 
-media -> 📺🎙️
+media → 📺🎙
 
-melody -> 🎼🎶
+melody → 🎼🎶
 
-melt -> 🧊🔥
+melt → 🧊🔥
 
-member -> 👤👥
+member → 👤👥
 
-memory -> 🧠💾
+memory → 🧠💾
 
-mention -> 💬📢
+mention → 💬📢
 
-menu -> 📋🍴
+menu → 📋🍴
 
-mercy -> 🙏⚙️
+mercy → 🙏⚙
 
-merge -> 🔀🏃
+merge → 🔀🏃
 
-merit -> 🏆⚙️
+merit → 🏆⚙
 
-merry -> 🎄😀
+merry → 🎄😀
 
-mesh -> 🕸️🧵
+mesh → 🕸🧵
 
-message -> 💬📨
+message → 💬📨
 
-metal -> ⚙️⛓️
+metal → ⚙⛓
 
-method -> 📚📝
+method → 📚📝
 
-middle -> ➗📍
+middle → ➗📍
 
-midnight -> 🌙🕛
+midnight → 🌙🕛
 
-milk -> 🥛🥛
+milk → 🥛🥛
 
-million -> 🪙🔢
+million → 🪙🔢
 
-mimic -> 🪞🙂
+mimic → 🪞🙂
 
-mind -> 🧠✨
+mind → 🧠✨
 
-minimum -> 📉🏃
+minimum → 📉🏃
 
-minor -> 👶⚠️
+minor → 👶⚠
 
-minute -> ⏱️🕒
+minute → ⏱🕒
 
-miracle -> ✨🙏
+miracle → ✨🙏
 
-mirror -> 🪞🪞
+mirror → 🪞🪞
 
-misery -> 😢🏃
+misery → 😢🏃
 
-miss -> 🎯👩
+miss → 🎯👩
 
-mistake -> 📜❌
+mistake → 📜❌
 
-mix -> 🔀🥣
+mix → 🔀🥣
 
-mixed -> ⚖️🔄
+mixed → ⚖🔄
 
-mixture -> 🧪🥛
+mixture → 🧪🥛
 
-mobile -> 📱📱
+mobile → 📱📱
 
-model -> 🧍‍♀️🏆
+model → 🧍‍♀🏆
 
-modify -> ✏️🛠️
+modify → ✏🛠
 
-mom -> 👩‍🍼❤️
+mom → 👩‍🍼❤
 
-moment -> ⏳📸
+moment → ⏳📸
 
-monitor -> 🖥️👀
+monitor → 🖥👀
 
-monkey -> 🐒🐒
+monkey → 🐒🐒
 
-monster -> 👾👾
+monster → 👾👾
 
-month -> 📅🗓️
+month → 📅🗓
 
-moon -> 🌙🌙
+moon → 🌙🌙
 
-moral -> 🏙️💡
+moral → 🏙💡
 
-more -> 🙇‍♂️🙂
+more → 🙇‍♂🙂
 
-morning -> 🌅☕
+morning → 🌅☕
 
-mosquito -> 🦟🦟
+mosquito → 🦟🦟
 
-mother -> 👩⚙️
+mother → 👩⚙
 
-motion -> 🏃‍♂️🔄
+motion → 🏃‍♂🔄
 
-motor -> ⚙️🚗
+motor → ⚙🚗
 
-mountain -> 🏔️🏔️
+mountain → 🏔🏔
 
-mouse -> 🐭🖱️
+mouse → 🐭🖱
 
-move -> 🚶‍♂️➡️
+move → 🚶‍♂➡
 
-movie -> 🎬🎥
+movie → 🎬🎥
 
-much -> 📈📦
+much → 📈📦
 
-muffin -> 🧁🥮
+muffin → 🧁🥮
 
-mule -> 🫏🏃
+mule → 🫏🏃
 
-multiply -> 🔢✖️
+multiply → 🔢✖
 
-muscle -> 💪🦵
+muscle → 💪🦵
 
-museum -> 🏛️🖼️
+museum → 🏛🖼
 
-mushroom -> 🍄🍄
+mushroom → 🍄🍄
 
-music -> 🎵🎼
+music → 🎵🎼
 
-must -> ✅✍️
+must → ✅✍
 
-mutual -> 🤝↔️
+mutual → 🤝↔
 
-myself -> 🙋🏻🙋🏻
+myself → 🙋🏻🙋🏻
 
-mystery -> 🕵️‍♂️❓
+mystery → 🕵‍♂❓
 
-myth -> 🧙‍♂️🐉
+myth → 🧙‍♂🐉
 
-naive -> 🙂🍼
+naive → 🙂🍼
 
-name -> 🏷️🧾
+name → 🏷🧾
 
-napkin -> 🤧🤧
+napkin → 🤧🤧
 
-narrow -> 📏🔽
+narrow → 📏🔽
 
-nasty -> 🤮🤮
+nasty → 🤮🤮
 
-nation -> 🇺🇸🇺🇸
+nation → 🗺🏛
 
-nature -> 🌿🌍
+nature → 🌿🌍
 
-near -> 📍✍️
+near → 📍✍
 
-neck -> 🦴👕
+neck → 🦴👕
 
-need -> ⚠️📌
+need → ⚠📌
 
-negative -> ➖❌
+negative → ➖❌
 
-neglect -> 🚫👶
+neglect → 🚫👶
 
-neither -> ↔️🙅
+neither → ↔🙅
 
-nephew -> 👦👨
+nephew → 👦👨
 
-nerve -> 🧠⚡
+nerve → 🧠⚡
 
-nest -> 🪺🐣
+nest → 🪺🐣
 
-net -> 🎣🕸️
+net → 🎣🕸
 
-network -> 🌐🔗
+network → 🌐🔗
 
-neutral -> ⚖️⚪
+neutral → ⚖⚪
 
-never -> 🚫♾️
+never → 🚫♾
 
-news -> 📰📺
+news → 📰📺
 
-next -> ⏭️➡️
+next → ⏭➡
 
-nice -> 😊🌸
+nice → 😊🌸
 
-night -> 🌙🌌
+night → 🌙🌌
 
-noble -> 👑⚜️
+noble → 👑⚜
 
-noise -> 🔊🙉
+noise → 🔊🙉
 
-nominee -> 🏅🧑
+nominee → 🏅🧑
 
-noodle -> 🍜🍜
+noodle → 🍜🍜
 
-normal -> 📏🙂
+normal → 📏🙂
 
-north -> 🧭⬆️
+north → 🧭⬆
 
-nose -> 👃👃
+nose → 👃👃
 
-notable -> 🌟📖
+notable → 🌟📖
 
-note -> 📝🎶
+note → 📝🎶
 
-nothing -> 🚫⚪
+nothing → 🚫⚪
 
-notice -> 👀📜
+notice → 👀📜
 
-novel -> 📚✍️
+novel → 📚✍
 
-now -> ⏰✅
+now → ⏰✅
 
-nuclear -> ☢️🌋
+nuclear → ☢🌋
 
-number -> 🔢🔢
+number → 🔢🔢
 
-nurse -> 👩‍⚕️🩺
+nurse → 👩‍⚕🩺
 
-nut -> 🌰🥜
+nut → 🌰🥜
 
-oak -> 🌳🏃
+oak → 🌳🏃
 
-obey -> 🙇‍♂️✅
+obey → 🙇‍♂✅
 
-object -> 🎯📦
+object → 🎯📦
 
-oblige -> 🤝⚙️
+oblige → 🤝⚙
 
-obscure -> 🌫️🙈
+obscure → 🌫🙈
 
-observe -> 👀🔭
+observe → 👀🔭
 
-obtain -> 📦🎯
+obtain → 📦🎯
 
-obvious -> 👁️✅
+obvious → 👁✅
 
-occur -> 🕒⚡
+occur → 🕒⚡
 
-ocean -> 🌊🐠
+ocean → 🌊🐠
 
-october -> 🎃🍁
+october → 🎃🍁
 
-odor -> 💨😷
+odor → 💨😷
 
-off -> ⛔🔌
+off → ⛔🔌
 
-offer -> 🎁🤲
+offer → 🎁🤲
 
-office -> 🏢🖇️
+office → 🏢🖇
 
-often -> 🔄📆
+often → 🔄📆
 
-oil -> 🛢️💧
+oil → 🛢💧
 
-okay -> 👍✅
+okay → 👍✅
 
-old -> 👴📜
+old → 👴📜
 
-olive -> 🫒🫒
+olive → 🫒🫒
 
-olympic -> 🏅🏟️
+olympic → 🏅🏟
 
-omit -> 🚫📝
+omit → 🚫📝
 
-once -> 1️⃣⏳
+once → 🔂⏳
 
-one -> 1️⃣1️⃣
+one → ☝☝
 
-onion -> 🧅🧅
+onion → 🧅🧅
 
-online -> 🌐📱
+online → 🌐📱
 
-only -> 🚫👥
+only → 🚫👥
 
-open -> 🔓🚪
+open → 🔓🚪
 
-opera -> 🎭🎶
+opera → 🎭🎶
 
-opinion -> 💬🧠
+opinion → 💬🧠
 
-oppose -> ✊🚫
+oppose → ✊🚫
 
-option -> ✅❓
+option → ✅❓
 
-orange -> 🍊🟠
+orange → 🍊🟠
 
-orbit -> 🌍🛰️
+orbit → 🌍🛰
 
-orchard -> 🌳🍎
+orchard → 🌳🍎
 
-order -> 📜📦
+order → 📜📦
 
-ordinary -> 🙂📏
+ordinary → 🙂📏
 
-organ -> 🎹🫁
+organ → 🎹🫁
 
-orient -> 🌀📍
+orient → 🌀📍
 
-original -> 🌟🧬
+original → 🌟🧬
 
-orphan -> 👶🚫
+orphan → 👶🚫
 
-ostrich -> 🐦🏜️
+ostrich → 🐦🏜
 
-other -> 🔄👤
+other → 🔄👤
 
-outdoor -> 🌳🏞️
+outdoor → 🌳🏞
 
-outer -> 🌌🚀
+outer → 🌌🚀
 
-output -> ⬆️💻
+output → ⬆💻
 
-outside -> 🚪🌳
+outside → 🚪🌳
 
-oval -> 🏐🟢
+oval → 🏐🟢
 
-oven -> 🍞🔥
+oven → 🍞🔥
 
-over -> ⬆️🔁
+over → ⬆🔁
 
-own -> 🏠⚙️
+own → 🏠⚙
 
-owner -> 👤🏠
+owner → 👤🏠
 
-oxygen -> 🫁💨
+oxygen → 🫁💨
 
-oyster -> 🦪💎
+oyster → 🦪💎
 
-ozone -> 🌍💨
+ozone → 🌍💨
 
-pact -> 🤝🤝
+pact → 🤝🤝
 
-paddle -> 🛶🥢
+paddle → 🛶🥢
 
-page -> 📄⚙️
+page → 📄⚙
 
-pair -> 👥⚙️
+pair → 👥⚙
 
-palace -> 🏰🏃
+palace → 🏰🏃
 
-palm -> 🌴✋
+palm → 🌴✋
 
-panda -> 🐼🐼
+panda → 🐼🐼
 
-panel -> 🖥️📊
+panel → 🖥📊
 
-panic -> 😱🔥
+panic → 😱🔥
 
-panther -> 🐆🏃
+panther → 🐆🏃
 
-paper -> 📄📰
+paper → 📄📰
 
-parade -> 🥁🎉
+parade → 🥁🎉
 
-parent -> 👩🏃
+parent → 👩🏃
 
-park -> 🌳🎠
+park → 🌳🎠
 
-parrot -> 🦜🦜
+parrot → 🦜🦜
 
-party -> 🎉🍾
+party → 🎉🍾
 
-pass -> 🎫✅
+pass → 🎫✅
 
-patch -> 🩹🧵
+patch → 🩹🧵
 
-path -> 🛣️➡️
+path → 🛣➡
 
-patient -> 🏥🧑‍⚕️
+patient → 🏥🧑‍⚕
 
-patrol -> 🚓👮
+patrol → 🚓👮
 
-pattern -> 🪡🧵
+pattern → 🪡🧵
 
-pause -> ⏸️✋
+pause → ⏸✋
 
-pave -> 🛣️🧱
+pave → 🛣🧱
 
-payment -> 💵🤲
+payment → 💵🤲
 
-peace -> ☮️🕊️
+peace → ☮🕊
 
-peanut -> 🥜🥜
+peanut → 🥜🥜
 
-pear -> 🍐🍐
+pear → 🍐🍐
 
-peasant -> 👨‍🌾🌾
+peasant → 👨‍🌾🌾
 
-pelican -> 🦩🐟
+pelican → 🦩🐟
 
-pen -> 🖊️🖊️
+pen → 🖊🖊
 
-penalty -> 🚫⚽
+penalty → 🚫⚽
 
-pencil -> ✏️✏️
+pencil → ✏✏
 
-people -> 👥✍️
+people → 👥✍
 
-pepper -> 🌶️🫑
+pepper → 🌶🫑
 
-perfect -> ✅🌟
+perfect → ✅🌟
 
-permit -> 🪪📜
+permit → 🪪📜
 
-person -> 👴👥
+person → 👴👥
 
-pet -> 🐕🐾
+pet → 🐕🐾
 
-phone -> 📱📞
+phone → 📱📞
 
-photo -> 📸📸
+photo → 📸📸
 
-phrase -> 💬📖
+phrase → 💬📖
 
-physical -> 🏋️‍♂️🫀
+physical → 🏋‍♂🫀
 
-piano -> 🎹🎹
+piano → 🎹🎹
 
-picnic -> 🧺🍇
+picnic → 🧺🍇
 
-picture -> 🖼️🖼️
+picture → 🖼🖼
 
-piece -> 🧩🧩
+piece → 🧩🧩
 
-pig -> 🐖🐖
+pig → 🐖🐖
 
-pigeon -> 📚🗑️
+pigeon → 📚🗑
 
-pill -> 💊🏃
+pill → 💊🏃
 
-pilot -> 👨‍✈️✈️
+pilot → 👨‍✈✈
 
-pink -> 🩷🌸
+pink → 🩷🌸
 
-pioneer -> 🧭🚶
+pioneer → 🧭🚶
 
-pipe -> 🪈💨
+pipe → 🪈💨
 
-pistol -> 🔫 🔫
+pistol → 🔫💥
 
-pitch -> 🎤🎶
+pitch → 🎤🎶
 
-pizza -> 🍕🍕
+pizza → 🍕🍕
 
-place -> 📍🏠
+place → 📍🏠
 
-planet -> 🌎🌍
+planet → 🌎🌍
 
-plastic -> 🧴♻️
+plastic → 🧴♻
 
-plate -> 🍽️ 🍽️
+plate → 🍽🍽
 
-play -> ▶️ ▶️
+play → ▶▶
 
-please -> 👀🧠
+please → 👀🧠
 
-pledge -> 💯📊
+pledge → 💯📊
 
-pluck -> 🎸✂️
+pluck → 🎸✂
 
-plug -> 🎭🏃
+plug → 🎭🏃
 
-plunge -> ❓🤷
+plunge → ❓🤷
 
-poem -> ⏰📍
+poem → ⏰📍
 
-poet -> 🧑📜
+poet → 🧑📜
 
-point -> 👉🏃
+point → 👉🏃
 
-polar -> 🥶🐻‍❄️
+polar → 🥶🐻‍❄
 
-pole -> 🪜🧊
+pole → 🪜🧊
 
-police -> 🚓🏃
+police → 🚓🏃
 
-pond -> 💦🌊
+pond → 💦🌊
 
-pony -> 🐴🐴
+pony → 🐴🐴
 
-pool -> 🏊💦
+pool → 🏊💦
 
-popular -> 🌟👥
+popular → 🌟👥
 
-portion -> 🥧📏
+portion → 🥧📏
 
-position -> 📍🧭
+position → 📍🧭
 
-possible -> 🤔✅
+possible → 🤔✅
 
-post -> 📮✉️
+post → 📮✉
 
-potato -> 🥔🥔
+potato → 🥔🥔
 
-pottery -> 🫖🏺
+pottery → 🫖🏺
 
-poverty -> 🪙💔
+poverty → 🪙💔
 
-powder -> 🧂💨
+powder → 🧂💨
 
-power -> 💪⚡
+power → 💪⚡
 
-practice -> 📝🎯
+practice → 📝🎯
 
-praise -> 👏🙏
+praise → 👏🙏
 
-predict -> 🔮📈
+predict → 🔮📈
 
-prefer -> 👉👍
+prefer → 👉👍
 
-prepare -> 🛠️📦
+prepare → 🛠📦
 
-present -> 🎁📅
+present → 🎁📅
 
-pretty -> 🌸😊
+pretty → 🌸😊
 
-prevent -> 🚫🛡️
+prevent → 🚫🛡
 
-price -> 💵🏷️
+price → 💵🏷
 
-pride -> 🦁🌈
+pride → 🦁🌈
 
-primary -> 1️⃣📘
+primary → 📘🥇
 
-print -> 🖨️📄
+print → 🖨📄
 
-priority -> 🥇⏱️
+priority → 🥇⏱
 
-prison -> 🏚️🔒
+prison → 🏚🔒
 
-private -> 🔒🙊
+private → 🔒🙊
 
-prize -> 🏆🎁
+prize → 🏆🎁
 
-problem -> ❓⚠️
+problem → ❓⚠
 
-process -> ⚙️📋
+process → ⚙📋
 
-produce -> 🥦🍎
+produce → 🥦🍎
 
-profit -> 💰⚙️
+profit → 💰⚙
 
-program -> 💻📜
+program → 💻📜
 
-project -> 📐📊
+project → 📐📊
 
-promote -> 📢📈
+promote → 📢📈
 
-proof -> 📜✅
+proof → 📜✅
 
-property -> 🏠📜
+property → 🏠📜
 
-prosper -> 🌟💰
+prosper → 🌟💰
 
-protect -> 🛡️🤲
+protect → 🛡🤲
 
-proud -> 😌👑
+proud → 😌👑
 
-provide -> 📦🤲
+provide → 📦🤲
 
-public -> 📝📰
+public → 📝📰
 
-pudding -> 🥣🟤
+pudding → 🥣🟤
 
-pull -> 🤲⬅️
+pull → 🤲⬅
 
-pulp -> 🍊🧃
+pulp → 🍊🧃
 
-pulse -> ❤️📉
+pulse → ❤📉
 
-pumpkin -> 🎃🎃
+pumpkin → 🎃🎃
 
-punch -> 👊🥊
+punch → 👊🥊
 
-pupil -> 👁️👦
+pupil → 👁👦
 
-puppy -> 🐶🐾
+puppy → 🐶🐾
 
-purchase -> 💳🛍️
+purchase → 💳🛍
 
-purity -> 💧🕊️
+purity → 💧🕊
 
-purpose -> 🎯📖
+purpose → 🎯📖
 
-purse -> 👛💰
+purse → 👛💰
 
-push -> ✋➡️
+push → ✋➡
 
-put -> 📦➡️
+put → 📦➡
 
-puzzle -> 🧩🧠
+puzzle → 🧩🧠
 
-pyramid -> 🔺🏜️
+pyramid → 🔺🏜
 
-quality -> ✅⭐
+quality → ✅⭐
 
-quantum -> ⚛️🌀
+quantum → ⚛🌀
 
-quarter -> 🪙2️⃣5️⃣
+quarter → 🪙🕓
 
-question -> ❓🏃
+question → ❓🏃
 
-quick -> 🏃✍️
+quick → 🏃✍
 
-quit -> 🚪✍️
+quit → 🚪✍
 
-quiz -> ❓📝
+quiz → ❓📝
 
-quote -> 🗨️📝
+quote → 🗨📝
 
-rabbit -> 🐰🐰
+rabbit → 🐰🐰
 
-raccoon -> 🦝🦝
+raccoon → 🦝🦝
 
-race -> 🏁🏁
+race → 🏁🏁
 
-rack -> 🗄️📚
+rack → 🗄📚
 
-radar -> 📡🔄
+radar → 📡🔄
 
-radio -> 📻📻
+radio → 📻📻
 
-rail -> 🛤️🛤️
+rail → 🛤🛤
 
-rain -> 🌧️🌧️
+rain → 🌧🌧
 
-raise -> 🙋⬆️
+raise → 🙋⬆
 
-rally -> 📣🤝
+rally → 📣🤝
 
-ramp -> ↗️🏗️
+ramp → ↗🏗
 
-ranch -> 🐄🏡
+ranch → 🐄🏡
 
-random -> 🎲🔀
+random → 🎲🔀
 
-range -> 🎯📏
+range → 🎯📏
 
-rapid -> ⚡🏃
+rapid → ⚡🏃
 
-rare -> 🦄✨
+rare → 🦄✨
 
-rate -> ⭐📊
+rate → ⭐📊
 
-rather -> 🤔➡️
+rather → 🤔➡
 
-raven -> 🐦‍⬛🐦‍⬛
+raven → 🐦‍⬛🐦‍⬛
 
-raw -> 🥩❌🔥
+raw → 🥩❌
 
-razor -> 🪒🪒
+razor → 🪒🪒
 
-ready -> ✅⏱️
+ready → ✅⏱
 
-real -> 🔍✅
+real → 🔍✅
 
-reason -> 🤔📚
+reason → 🤔📚
 
-rebel -> ✊🏴‍☠️
+rebel → ✊🏴‍☠
 
-rebuild -> 🧱🔁
+rebuild → 🧱🔁
 
-recall -> 🔙🧠
+recall → 🔙🧠
 
-receive -> 📥🤲
+receive → 📥🤲
 
-recipe -> 📖🍲
+recipe → 📖🍲
 
-record -> ⏺️🎙️
+record → ⏺🎙
 
-recycle -> ♻️♻️
+recycle → ♻♻
 
-reduce -> ➖📉
+reduce → ➖📉
 
-reflect -> 🔁🪞
+reflect → 🔁🪞
 
-reform -> 🔧📜
+reform → 🔧📜
 
-refuse -> 🚫🙅
+refuse → 🚫🙅
 
-region -> 🗺️📍
+region → 🗺📍
 
-regret -> 😞🔄
+regret → 😞🔄
 
-regular -> 📏📆
+regular → 📏📆
 
-reject -> ❌📤
+reject → ❌📤
 
-relax -> 🧘🌴
+relax → 🧘🌴
 
-release -> 🕊️🔓
+release → 🕊🔓
 
-relief -> 😮‍💨✅
+relief → 😮‍💨✅
 
-rely -> 🤝🔒
+rely → 🤝🔒
 
-remain -> 🧍⏸️
+remain → 🧍⏸
 
-remember -> 🧠🔖
+remember → 🧠🔖
 
-remind -> ⏰🔔
+remind → ⏰🔔
 
-remove -> 🗑️➖
+remove → 🗑➖
 
-render -> 🖥️🎨
+render → 🖥🎨
 
-renew -> 🔄🌱
+renew → 🔄🌱
 
-rent -> 🏠💵
+rent → 🏠💵
 
-reopen -> 🔓🔁
+reopen → 🔓🔁
 
-repair -> 🔧🩹
+repair → 🔧🩹
 
-repeat -> 🔁🔁
+repeat → 🔁🔁
 
-replace -> 🔁🔀
+replace → 🔁🔀
 
-report -> 🧾📊
+report → 🧾📊
 
-require -> 📌✅
+require → 📌✅
 
-rescue -> 🆘🚑
+rescue → 🆘🚑
 
-resemble -> 🪞🔁
+resemble → 🪞🔁
 
-resist -> ✋⚡
+resist → ✋⚡
 
-resource -> 🧰🏃
+resource → 🧰🏃
 
-response -> 💬↩️
+response → 💬↩
 
-result -> 📈✅
+result → 📈✅
 
-retire -> 🧓🏖️
+retire → 🧓🏖
 
-retreat -> 🔙🏕️
+retreat → 🔙🏕
 
-return -> 🔙📦
+return → 🔙📦
 
-reunion -> 🤝🎉
+reunion → 🤝🎉
 
-reveal -> 🎭🔓
+reveal → 🎭🔓
 
-review -> 🔍📝
+review → 🔍📝
 
-reward -> 🏆✍️
+reward → 🏆✍
 
-rhythm -> 🥁🎵
+rhythm → 🥁🎵
 
-rib -> 🦴🏃
+rib → 🦴🏃
 
-ribbon -> 🎀🎀
+ribbon → 🎀🎀
 
-rice -> 🍚🍚
+rice → 🍚🍚
 
-rich -> 💰💎
+rich → 💰💎
 
-ride -> 🚴➡️
+ride → 🚴➡
 
-ridge -> ⛰️↔️
+ridge → ⛰↔
 
-rifle -> 🔫🎯
+rifle → 🔫🎯
 
-right -> ✅➡️
+right → ✅➡
 
-rigid -> 🪨📏
+rigid → 🪨📏
 
-ring -> 💍💍
+ring → 💍💍
 
-riot -> 🔥🚨
+riot → 🔥🚨
 
-ripple -> 🌊〰️
+ripple → 🌊〰
 
-risk -> ⚠️🎲
+risk → ⚠🎲
 
-ritual -> 🔥🕯️
+ritual → 🔥🕯
 
-rival -> ⚔️🥇
+rival → ⚔🥇
 
-river -> 🏞️💧
+river → 🏞💧
 
-road -> 🛣️🛣️
+road → 🛣🛣
 
-roast -> 🍖🔥
+roast → 🍖🔥
 
-robot -> 🤖🤖
+robot → 🤖🤖
 
-robust -> 💪🏗️
+robust → 💪🏗
 
-rocket -> 🚀🚀
+rocket → 🚀🚀
 
-romance -> 💘🌹
+romance → 💘🌹
 
-roof -> 🏠⬆️
+roof → 🏠⬆
 
-rookie -> 🌱🎓
+rookie → 🌱🎓
 
-room -> 🚪🏠
+room → 🚪🏠
 
-rose -> 🌹🌹
+rose → 🌹🌹
 
-rotate -> 🔁🏃
+rotate → 🔁🏃
 
-rough -> 🪨🪓
+rough → 🪨🪓
 
-round -> ⚪🔄
+round → ⚪🔄
 
-route -> 🗺️➡️
+route → 🗺➡
 
-royal -> 👑👑
+royal → 👑👑
 
-rubber -> 🛞🧪
+rubber → 🛞🧪
 
-rude -> 😠🚫
+rude → 😠🚫
 
-rug -> 🧶🏃
+rug → 🧶🏃
 
-rule -> 📏📜
+rule → 📏📜
 
-run -> 🏃⚙️
+run → 🏃⚙
 
-runway -> 🛫🛣️
+runway → 🛫🛣
 
-rural -> 🌾🏡
+rural → 🌾🏡
 
-sad -> 😢💧
+sad → 😢💧
 
-saddle -> 🐎🪑
+saddle → 🐎🪑
 
-sadness -> 😞🌧️
+sadness → 😞🌧
 
-safe -> 🛡️✅
+safe → 🛡✅
 
-sail -> ⛵🌬️
+sail → ⛵🌬
 
-salad -> 🥗🥗
+salad → 🥗🥗
 
-salmon -> 🐟🏞️
+salmon → 🐟🏞
 
-salon -> 💇‍♀️✂️
+salon → 💇‍♀✂
 
-salt -> 🧂🧂
+salt → 🧂🧂
 
-salute -> 🫡🇺🇸
+salute → 🫡🎖
 
-same -> 🔁=️⃣
+same → 🔁↔
 
-sample -> 🧪📊
+sample → 🧪📊
 
-sand -> 🏖️🟡
+sand → 🏖🟡
 
-satisfy -> 😌🏃
+satisfy → 😌🏃
 
-satoshi -> ₿🧠
+satoshi → 🧠🪙
 
-sauce -> 🧂🍅
+sauce → 🧂🍅
 
-sausage -> 🌭🌭
+sausage → 🌭🌭
 
-save -> 💾✅
+save → 💾✅
 
-say -> 💬🗣️
+say → 💬🗣
 
-scale -> ⚖️📏
+scale → ⚖📏
 
-scan -> 📷🔍
+scan → 📷🔍
 
-scare -> 😱👻
+scare → 😱👻
 
-scatter -> 🎯🔀
+scatter → 🎯🔀
 
-scene -> 🎬📍
+scene → 🎬📍
 
-scheme -> 🗺️🧩
+scheme → 🗺🧩
 
-school -> 🏫📚
+school → 🏫📚
 
-science -> 🔬🧪
+science → 🔬🧪
 
-scissors -> ✂️✂️
+scissors → ✂✂
 
-scorpion -> 🦂🦂
+scorpion → 🦂🦂
 
-scout -> 🔭🧭
+scout → 🔭🧭
 
-scrap -> 🧻🗑️
+scrap → 🧻🗑
 
-screen -> 🖥️🖼️
+screen → 🖥🖼
 
-script -> 📜✍️
+script → 📜✍
 
-scrub -> 🧽🫧
+scrub → 🧽🫧
 
-sea -> 🌊🌊
+sea → 🌊🌊
 
-search -> 🔍📚
+search → 🔍📚
 
-season -> 🍂📅
+season → 🍂📅
 
-seat -> 💺💺
+seat → 💺💺
 
-second -> ⏱️2️⃣
+second → 🥈⏱
 
-secret -> 🤫🔒
+secret → 🤫🔒
 
-section -> 📑✂️
+section → 📑✂
 
-security -> 🛡️🔒
+security → 🛡🔒
 
-seed -> 🌱🌱
+seed → 🌱🌱
 
-seek -> 👀🔍
+seek → 👀🔍
 
-segment -> 🧩📐
+segment → 🧩📐
 
-select -> ✅🖱️
+select → ✅🖱
 
-sell -> 💵📉
+sell → 💵📉
 
-seminar -> 🧑‍🏫🎤
+seminar → 🧑‍🏫🎤
 
-senior -> 👴🎓
+senior → 👴🎓
 
-sense -> 👃🧠
+sense → 👃🧠
 
-sentence -> ✍️🔤
+sentence → ✍🔤
 
-series -> 📺🔢
+series → 📺🔢
 
-service -> 🛠️🤝
+service → 🛠🤝
 
-session -> 🕒🪑
+session → 🕒🪑
 
-settle -> 🪙⚖️
+settle → 🪙⚖
 
-setup -> ⚙️🧰
+setup → ⚙🧰
 
-seven -> 7️⃣7️⃣
+seven → 🕖🧮
 
-shadow -> 🌑👤
+shadow → 🌑👤
 
-shaft -> 🕳🏃
+shaft → 🕳🏃
 
-shallow -> 🌊📏
+shallow → 🌊📏
 
-share -> 🔗📤
+share → 🔗📤
 
-shed -> 🛖🪵
+shed → 🛖🪵
 
-shell -> 🐚🐚
+shell → 🐚🐚
 
-sheriff -> ⭐👮
+sheriff → ⭐👮
 
-shield -> 🛡️🛡️
+shield → 🛡🛡
 
-shift -> 🔀➡️
+shift → 🔀➡
 
-shine -> ✨☀️
+shine → ✨☀
 
-ship -> 🚢📦
+ship → 🚢📦
 
-shiver -> ❄️🥶
+shiver → ❄🥶
 
-shock -> ⚡😮
+shock → ⚡😮
 
-shoe -> 👟👟
+shoe → 👟👟
 
-shoot -> 🎯🏹
+shoot → 🎯🏹
 
-shop -> 🛍️🏬
+shop → 🛍🏬
 
-short -> 📏⬇️
+short → 📏⬇
 
-shoulder -> 💪👕
+shoulder → 💪👕
 
-shove -> 🤜➡️
+shove → 🤜➡
 
-shrimp -> 🍤🍤
+shrimp → 🍤🍤
 
-shrug -> 🤷‍♂️😐
+shrug → 🤷‍♂😐
 
-shuffle -> 🔀🎵
+shuffle → 🔀🎵
 
-shy -> 🙈🌸
+shy → 🙈🌸
 
-sibling -> 👧👦
+sibling → 👧👦
 
-sick -> 🤢🤒
+sick → 🤢🤒
 
-side -> ↔️📐
+side → ↔📐
 
-siege -> 🛡️🏰
+siege → 🛡🏰
 
-sight -> 👁🏃
+sight → 👁🏃
 
-sign -> ✍️🪧
+sign → ✍🪧
 
-silent -> 🤫🔇
+silent → 🤫🔇
 
-silk -> 🥻🧵
+silk → 🥻🧵
 
-silly -> 🤪🎈
+silly → 🤪🎈
 
-silver -> 🥈💿
+silver → 🥈💿
 
-similar -> 🧍‍♂️🧍‍♂️
+similar → 🧍‍♂🧍‍♂
 
-simple -> ✅📄
+simple → ✅📄
 
-since -> ⏳➡️
+since → ⏳➡
 
-sing -> 🎤🎵
+sing → 🎤🎵
 
-siren -> 🚨📢
+siren → 🚨📢
 
-sister -> 👧💞
+sister → 👧💞
 
-situate -> 📍🏃
+situate → 📍🏃
 
-six -> 6️⃣6️⃣
+six → 🕕🧮
 
-size -> 📏📐
+size → 📏📐
 
-skate -> 🛼🧊
+skate → 🛼🧊
 
-sketch -> ✏️📄
+sketch → ✏📄
 
-ski -> 🎿⛷️
+ski → 🎿⛷
 
-skill -> 🧠🎯
+skill → 🧠🎯
 
-skin -> 🧴🧍
+skin → 🧴🧍
 
-skirt -> 👗👗
+skirt → 👗👗
 
-skull -> 💀💀
+skull → 💀💀
 
-slab -> 🧱⬛
+slab → 🧱⬛
 
-slam -> 🤜🚪
+slam → 🤜🚪
 
-sleep -> 😴🛏️
+sleep → 😴🛏
 
-slender -> 👗📏
+slender → 👗📏
 
-slice -> 🔪🍞
+slice → 🔪🍞
 
-slide -> ↘️🧊
+slide → ↘🧊
 
-slight -> 📏🪶
+slight → 📏🪶
 
-slim -> 🪶📉
+slim → 🪶📉
 
-slogan -> 🪧🔤
+slogan → 🪧🔤
 
-slot -> 🎰🕳️
+slot → 🎰🕳
 
-slow -> 🐢⏳
+slow → 🐢⏳
 
-slush -> 🧊🫗
+slush → 🧊🫗
 
-small -> 🐜📏
+small → 🐜📏
 
-smart -> 🧠💡
+smart → 🧠💡
 
-smile -> 🙂⚙️
+smile → 🙂⚙
 
-smoke -> 🚬💨
+smoke → 🚬💨
 
-smooth -> 🧈➡️
+smooth → 🧈➡
 
-snack -> 🍪🥨
+snack → 🍪🥨
 
-snake -> 🐍🐍
+snake → 🐍🐍
 
-snap -> 🫰⚡
+snap → 🫰⚡
 
-sniff -> 👃🐶
+sniff → 👃🐶
 
-snow -> ❄️🌨️
+snow → ❄🌨
 
-soap -> 🧼🫧
+soap → 🧼🫧
 
-soccer -> ⚽🥅
+soccer → ⚽🥅
 
-social -> 👥💬
+social → 👥💬
 
-sock -> 🧦🧦
+sock → 🧦🧦
 
-soda -> 🥤🫧
+soda → 🥤🫧
 
-soft -> 🧸🪶
+soft → 🧸🪶
 
-solar -> ☀️🔆
+solar → ☀🔆
 
-soldier -> 🪖🪖
+soldier → 🪖🪖
 
-solid -> 🧱📦
+solid → 🧱📦
 
-solution -> 🧪🏃
+solution → 🧪🏃
 
-solve -> 🧩✅
+solve → 🧩✅
 
-someone -> 👤❓
+someone → 👤❓
 
-song -> 🎵🏃
+song → 🎵🏃
 
-soon -> ➡️⏳
+soon → ➡⏳
 
-sorry -> 🙏😔
+sorry → 🙏😔
 
-sort -> 🗂️🔤
+sort → 🗂🔤
 
-soul -> 🕊️✨
+soul → 🕊✨
 
-sound -> 🔊🎵
+sound → 🔊🎵
 
-soup -> 🍲🥄
+soup → 🍲🥄
 
-source -> 🔗📚
+source → 🔗📚
 
-south -> 🧭⬇️
+south → 🧭⬇
 
-space -> 🚀🏃
+space → 🚀🏃
 
-spare -> 🆓🧰
+spare → 🆓🧰
 
-spatial -> 🗺️📐
+spatial → 🗺📐
 
-spawn -> 🐣✨
+spawn → 🐣✨
 
-speak -> 🗣️💬
+speak → 🗣💬
 
-special -> ⭐🎁
+special → ⭐🎁
 
-speed -> 🏎️💨
+speed → 🏎💨
 
-spell -> ✨🔤
+spell → ✨🔤
 
-spend -> 💸🕒
+spend → 💸🕒
 
-sphere -> ⚪🌍
+sphere → ⚪🌍
 
-spice -> 🌶️🧂
+spice → 🌶🧂
 
-spider -> 🕷️🕸️
+spider → 🕷🕸
 
-spike -> 📈📌
+spike → 📈📌
 
-spin -> 🌀↩️
+spin → 🌀↩
 
-spirit -> 👻✨
+spirit → 👻✨
 
-split -> ✂️↔️
+split → ✂↔
 
-spoil -> 🗑️🍎
+spoil → 🗑🍎
 
-sponsor -> 🤝💰
+sponsor → 🤝💰
 
-spoon -> 🥄🥄
+spoon → 🥄🥄
 
-sport -> 🏟️🏃
+sport → 🏟🏃
 
-spot -> 📍🔎
+spot → 📍🔎
 
-spray -> 💦🧴
+spray → 💦🧴
 
-spread -> ➡️➡️
+spread → ➡➡
 
-spring -> 🌸🌱
+spring → 🌸🌱
 
-spy -> 🕵️‍♂️🔍
+spy → 🕵‍♂🔍
 
-square -> ⬜📐
+square → ⬜📐
 
-squeeze -> ✊🍋
+squeeze → ✊🍋
 
-squirrel -> 🐿️🌰
+squirrel → 🐿🌰
 
-stable -> 🐎🏚️
+stable → 🐎🏚
 
-stadium -> 🏟️🎫
+stadium → 🏟🎫
 
-staff -> 🧑‍💼👥
+staff → 🧑‍💼👥
 
-stage -> 🎭🎤
+stage → 🎭🎤
 
-stairs -> 🪜↗️
+stairs → 🪜↗
 
-stamp -> 🖋️📮
+stamp → 🖋📮
 
-stand -> 🧍⬆️
+stand → 🧍⬆
 
-start -> ▶️🚀
+start → ▶🚀
 
-state -> 🏛🏃
+state → 🏛🏃
 
-stay -> 🧍🏃
+stay → 🧍🏃
 
-steak -> 🥩🔥
+steak → 🥩🔥
 
-steel -> 🗜️🔩
+steel → 🗜🔩
 
-stem -> 🌱🔬
+stem → 🌱🔬
 
-step -> 👣1️⃣
+step → 👣➡
 
-stereo -> 🔊🎚️
+stereo → 🔊🎚
 
-stick -> 🪵📌
+stick → 🪵📌
 
-still -> 🧘⏸️
+still → 🧘⏸
 
-sting -> 🐝💢
+sting → 🐝💢
 
-stock -> 📈🏦
+stock → 📈🏦
 
-stomach -> 🤢🍽️
+stomach → 🤢🍽
 
-stone -> 🪨🪨
+stone → 🪨🪨
 
-stool -> 🪑🪑
+stool → 🪑🪑
 
-story -> 📖✨
+story → 📖✨
 
-stove -> 🔥🍳
+stove → 🔥🍳
 
-strategy -> ♟️🎯
+strategy → ♟🎯
 
-street -> 🛣⚙️
+street → 🛣⚙
 
-strike -> ⚡✊
+strike → ⚡✊
 
-strong -> 💪🏋️
+strong → 💪🏋
 
-struggle -> 🥵🧗
+struggle → 🥵🧗
 
-student -> 🎓📚
+student → 🎓📚
 
-stuff -> 📦📦
+stuff → 📦📦
 
-stumble -> 🤦‍♂️🚧
+stumble → 🤦‍♂🚧
 
-style -> 👗✨
+style → 👗✨
 
-subject -> 📝📚
+subject → 📝📚
 
-submit -> 📤✅
+submit → 📤✅
 
-subway -> 🚇🚇
+subway → 🚇🚇
 
-success -> 🏆🏃
+success → 🏆🏃
 
-such -> 👉📝
+such → 👉📝
 
-sudden -> ⚡⏱️
+sudden → ⚡⏱
 
-suffer -> 😣💢
+suffer → 😣💢
 
-sugar -> 🍬🏃
+sugar → 🍬🏃
 
-suggest -> 💡📤
+suggest → 💡📤
 
-suit -> 👔👔
+suit → 👔👔
 
-summer -> ☀️🏖️
+summer → ☀🏖
 
-sun -> ☀️☀️
+sun → ☀☀
 
-sunny -> ☀️😎
+sunny → ☀😎
 
-sunset -> 🌇🌇
+sunset → 🌇🌇
 
-super -> 🦸⭐
+super → 🦸⭐
 
-supply -> 📦✍️
+supply → 📦✍
 
-supreme -> 👑📜
+supreme → 👑📜
 
-sure -> ✅👍
+sure → ✅👍
 
-surface -> 🧼🪵
+surface → 🧼🪵
 
-surge -> 📈🏃
+surge → 📈🏃
 
-surprise -> 🎁😮
+surprise → 🎁😮
 
-surround -> 🔄🏠
+surround → 🔄🏠
 
-survey -> 📋📊
+survey → 📋📊
 
-suspect -> 🕵🏃
+suspect → 🕵🏃
 
-sustain -> 🌱♻️
+sustain → 🌱♻
 
-swallow -> 🐦🍽️
+swallow → 🐦🍽
 
-swamp -> 🐊🌿
+swamp → 🐊🌿
 
-swap -> 🔁🔄
+swap → 🔁🔄
 
-swarm -> 🐝🐝
+swarm → 🐝🐝
 
-swear -> 🤞📜
+swear → 🤞📜
 
-sweet -> 🍰😊
+sweet → 🍰😊
 
-swift -> 🐦💨
+swift → 🐦💨
 
-swim -> 🏊‍♂️🌊
+swim → 🏊‍♂🌊
 
-swing -> 🪀↔️
+swing → 🪀↔
 
-switch -> 🔀⏻
+switch → 🔀↔
 
-sword -> ⚔️⚔️
+sword → ⚔⚔
 
-symbol -> 🔣🔤
+symbol → 🔣🔤
 
-symptom -> 🤒📋
+symptom → 🤒📋
 
-syrup -> 🍯🫙
+syrup → 🍯🫙
 
-system -> 🖥️⚙️
+system → 🖥⚙
 
-table -> 🪑🍽️
+table → 🪑🍽
 
-tackle -> 🏈🤼
+tackle → 🏈🤼
 
-tag -> 🏷️🏷️
+tag → 🏷🏷
 
-tail -> 🐕➡️
+tail → 🐕➡
 
-talent -> 🎭⭐
+talent → 🎭⭐
 
-talk -> 🗣🏃
+talk → 🗣🏃
 
-tank -> 🛢️🪖
+tank → 🛢🪖
 
-tape -> 📼📼
+tape → 📼📼
 
-target -> 🎯🎯
+target → 🎯🎯
 
-task -> 📋✅
+task → 📋✅
 
-taste -> 👅🍴
+taste → 👅🍴
 
-tattoo -> 🖋️🖤
+tattoo → 🖋🖤
 
-taxi -> 🚕🚕
+taxi → 🚕🚕
 
-teach -> 👩‍🏫📚
+teach → 👩‍🏫📚
 
-team -> 👥⚽
+team → 👥⚽
 
-tell -> 🗣️➡️
+tell → 🗣➡
 
-ten -> 🔟🔟
+ten → 🔟🔟
 
-tenant -> 🏠🔑
+tenant → 🏠🔑
 
-tennis -> 🎾🎾
+tennis → 🎾🎾
 
-tent -> ⛺🌲
+tent → ⛺🌲
 
-term -> 📖🗓️
+term → 📖🗓
 
-test -> 🧪✅
+test → 🧪✅
 
-text -> 📝📱
+text → 📝📱
 
-thank -> 🙏😊
+thank → 🙏😊
 
-that -> 👉📌
+that → 👉📌
 
-theme -> 🎨📚
+theme → 🎨📚
 
-then -> ⏭️⏳
+then → ⏭⏳
 
-theory -> 📚🧠
+theory → 📚🧠
 
-there -> 📍➡️
+there → 📍➡
 
-they -> 👥👉
+they → 👥👉
 
-thing -> 📦❓
+thing → 📦❓
 
-this -> 👉⚙️
+this → 👉⚙
 
-thought -> 💭💭
+thought → 💭💭
 
-three -> 3️⃣3️⃣
+three → 🕒🧮
 
-thrive -> 🌱💪
+thrive → 🌱💪
 
-throw -> 🤾‍♂️➡️
+throw → 🤾‍♂➡
 
-thumb -> 👍👍
+thumb → 👍👍
 
-thunder -> 🌩️⚡
+thunder → 🌩⚡
 
-ticket -> 🎟️🎟️
+ticket → 🎟🎟
 
-tide -> 🌊🏃
+tide → 🌊🏃
 
-tiger -> 🐅🐅
+tiger → 🐅🐅
 
-tilt -> ↗️↘️
+tilt → ↗↘
 
-timber -> 🪵🌲
+timber → 🪵🌲
 
-time -> ⏰🏃
+time → ⏰🏃
 
-tiny -> 🐜🏃
+tiny → 🐜🏃
 
-tip -> 💡💰
+tip → 💡💰
 
-tired -> 🥱💤
+tired → 🥱💤
 
-tissue -> 🧻🧻
+tissue → 🧻🧻
 
-title -> 📖🏆
+title → 📖🏆
 
-toast -> 🍞🏃
+toast → 🍞🏃
 
-tobacco -> 🚬🌿
+tobacco → 🚬🌿
 
-today -> 📅☀️
+today → 📅☀
 
-toddler -> 👶🚶
+toddler → 👶🚶
 
-toe -> 🦶🦶
+toe → 🦶🦶
 
-together -> 🤝❤️
+together → 🤝❤
 
-toilet -> 🚽🚽
+toilet → 🚽🚽
 
-token -> 🎟️💱
+token → 🎟💱
 
-tomato -> 🍅🍅
+tomato → 🍅🍅
 
-tomorrow -> 📅➡️
+tomorrow → 📅➡
 
-tone -> 🎵🎚️
+tone → 🎵🎚
 
-tongue -> 👅👅
+tongue → 👅👅
 
-tonight -> 🌙🕒
+tonight → 🌙🕒
 
-tool -> 🛠️🧰
+tool → 🛠🧰
 
-tooth -> 🦷🦷
+tooth → 🦷🦷
 
-top -> 🔝🔝
+top → 🔝🔝
 
-topic -> 🗂️💬
+topic → 🗂💬
 
-topple -> 🪆⬇️
+topple → 🪆⬇
 
-torch -> 🔦🔥
+torch → 🔦🔥
 
-tornado -> 🌪️🌪️
+tornado → 🌪🌪
 
-tortoise -> 🐢🐢
+tortoise → 🐢🐢
 
-toss -> 🤾‍♀️➡️
+toss → 🤾‍♀➡
 
-total -> 🧮✅
+total → 🧮✅
 
-tourist -> 🎒📸
+tourist → 🎒📸
 
-toward -> ➡🏃
+toward → ➡🏃
 
-tower -> 🗼🏙️
+tower → 🗼🏙
 
-town -> 🏘️🏘️
+town → 🏘🏘
 
-toy -> 🧸🧸
+toy → 🧸🧸
 
-track -> 🛤️🏃
+track → 🛤🏃
 
-trade -> 🔄💱
+trade → 🔄💱
 
-traffic -> 🚦🚗
+traffic → 🚦🚗
 
-tragic -> 😢⚰️
+tragic → 😢⚰
 
-train -> 🚆🚆
+train → 🚆🚆
 
-transfer -> 🔄💳
+transfer → 🔄💳
 
-trap -> 🪤🐭
+trap → 🪤🐭
 
-trash -> 🗑️🗑️
+trash → 🗑🗑
 
-travel -> ✈️🧳
+travel → ✈🧳
 
-tray -> 🍽️📦
+tray → 🍽📦
 
-treat -> 🍬🎁
+treat → 🍬🎁
 
-tree -> 🌳🌳
+tree → 🌳🌳
 
-trend -> 📈🔥
+trend → 📈🔥
 
-trial -> ⚖️📜
+trial → ⚖📜
 
-tribe -> 🪶👥
+tribe → 🪶👥
 
-trick -> 🎩✨
+trick → 🎩✨
 
-trigger -> 🔫⚡
+trigger → 🔫⚡
 
-trim -> ✂️🌿
+trim → ✂🌿
 
-trip -> 🧳🛫
+trip → 🧳🛫
 
-trophy -> 🏆🏆
+trophy → 🏆🏆
 
-trouble -> 😰⚡
+trouble → 😰⚡
 
-truck -> 🚚🚚
+truck → 🚚🚚
 
-true -> ✅🎯
+true → ✅🎯
 
-truly -> 🙌✅
+truly → 🙌✅
 
-trumpet -> 🎺🎺
+trumpet → 🎺🎺
 
-trust -> 🤝🏃
+trust → 🤝🏃
 
-truth -> ⚖️📖
+truth → ⚖📖
 
-try -> 🏃‍♂️➡️
+try → 🏃‍♂➡
 
-tube -> 🧪🚇
+tube → 🧪🚇
 
-tuition -> 🎓💵
+tuition → 🎓💵
 
-tumble -> 🤸‍♂️⬇️
+tumble → 🤸‍♂⬇
 
-tuna -> 🐟🍣
+tuna → 🐟🍣
 
-tunnel -> 🚇🕳️
+tunnel → 🚇🕳
 
-turkey -> 🦃🦃
+turkey → 🦃🦃
 
-turn -> 🔄➡️
+turn → 🔄➡
 
-turtle -> 🐢🌊
+turtle → 🐢🌊
 
-twelve -> 1️⃣2️⃣
+twelve → 🕛🧮
 
-twenty -> 2️⃣0️⃣
+twenty → 🧮📊
 
-twice -> 2️⃣✌️
+twice → ✌🔁
 
-twin -> 👯👯
+twin → 👯👯
 
-twist -> 🔀🌀
+twist → 🔀🌀
 
-two -> 2️⃣2️⃣
+two → ✌👉
 
-type -> ⌨️📄
+type → ⌨📄
 
-typical -> 📏📊
+typical → 📏📊
 
-ugly -> 🤢🚫
+ugly → 🤢🚫
 
-umbrella -> ☂️☂️
+umbrella → ☂☂
 
-unable -> 🚫💪
+unable → 🚫💪
 
-unaware -> 🙈❓
+unaware → 🙈❓
 
-uncle -> 👨‍🦳👶
+uncle → 👨‍🦳👶
 
-uncover -> 🔓🕵️
+uncover → 🔓🕵
 
-under -> ⬇️📍
+under → ⬇📍
 
-undo -> ⬅️❌
+undo → ⬅❌
 
-unfair -> ⚖️🚫
+unfair → ⚖🚫
 
-unfold -> 📄➡️
+unfold → 📄➡
 
-unhappy -> 😞💧
+unhappy → 😞💧
 
-uniform -> 👕🏃
+uniform → 👕🏃
 
-unique -> 🌟✨
+unique → 🌟✨
 
-unit -> 📦1️⃣
+unit → 📦📏
 
-universe -> 🌌🌍
+universe → 🌌🌍
 
-unknown -> ❓🌫️
+unknown → ❓🌫
 
-unlock -> 🔓🔑
+unlock → 🔓🔑
 
-until -> ⏳🎯
+until → ⏳🎯
 
-unusual -> 🤔🌟
+unusual → 🤔🌟
 
-unveil -> 🎭👀
+unveil → 🎭👀
 
-update -> 🔄🆕
+update → 🔄🆕
 
-upgrade -> ⬆️⚙️
+upgrade → ⬆⚙
 
-uphold -> ✋⚖️
+uphold → ✋⚖
 
-upon -> 📖🏃
+upon → 📖🏃
 
-upper -> ⬆️📍
+upper → ⬆📍
 
-upset -> 😡💢
+upset → 😡💢
 
-urban -> 🏙️🏙️
+urban → 🏙🏙
 
-urge -> ⚡👉
+urge → ⚡👉
 
-usage -> 📊📈
+usage → 📊📈
 
-use -> 🛠️✅
+use → 🛠✅
 
-used -> 🧾✅
+used → 🧾✅
 
-useful -> 👍🛠️
+useful → 👍🛠
 
-useless -> ❌🪣
+useless → ❌🪣
 
-usual -> 📆🔁
+usual → 📆🔁
 
-utility -> ⚙️🔌
+utility → ⚙🔌
 
-vacant -> 🪑🚫
+vacant → 🪑🚫
 
-vacuum -> 🧹🕳️
+vacuum → 🧹🕳
 
-vague -> 🌫️❓
+vague → 🌫❓
 
-valid -> ✅📦
+valid → ✅📦
 
-valley -> ⛰️🌄
+valley → ⛰🌄
 
-valve -> 🚰⚙️
+valve → 🚰⚙
 
-van -> 🚐🚐
+van → 🚐🚐
 
-vanish -> 🌫️✨
+vanish → 🌫✨
 
-vapor -> 💨💨
+vapor → 💨💨
 
-various -> 🔀📦
+various → 🔀📦
 
-vast -> 🌌🏃
+vast → 🌌🏃
 
-vault -> 🏦🔒
+vault → 🏦🔒
 
-vehicle -> 🚗🚗
+vehicle → 🚗🚗
 
-velvet -> 🧵🎀
+velvet → 🧵🎀
 
-vendor -> 🧑‍💼🏪
+vendor → 🧑‍💼🏪
 
-venture -> 🚀💼
+venture → 🚀💼
 
-venue -> 🎪🏟️
+venue → 🎪🏟
 
-verb -> ✍🏃
+verb → ✍🏃
 
-verify -> ✅🔍
+verify → ✅🔍
 
-version -> 📑🔄
+version → 📑🔄
 
-very -> ⭐✅
+very → ⭐✅
 
-vessel -> 🚢⚓
+vessel → 🚢⚓
 
-veteran -> 🎖️👴
+veteran → 🎖👴
 
-viable -> 🌱✅
+viable → 🌱✅
 
-vibrant -> 🌈✨
+vibrant → 🌈✨
 
-vicious -> 😈⚡
+vicious → 😈⚡
 
-victory -> 🏆✌️
+victory → 🏆🥳
 
-video -> 📹🎞️
+video → 📹🎞
 
-view -> 👀🌄
+view → 👀🌄
 
-village -> 🏘️🌾
+village → 🏘🌾
 
-vintage -> 📻🎩
+vintage → 📻🎩
 
-violin -> 🎻🎻
+violin → 🎻🎻
 
-virtual -> 💻🌐
+virtual → 💻🌐
 
-virus -> 🦠🦠
+virus → 🦠🦠
 
-visa -> 🛂📜
+visa → 🛂📜
 
-visit -> 🚶📍
+visit → 🚶📍
 
-visual -> 👁️🎨
+visual → 👁🎨
 
-vital -> ❤️🌱
+vital → ❤🌱
 
-vivid -> 🌈👁️
+vivid → 🌈👁
 
-vocal -> 🎤🗣️
+vocal → 🎤🗣
 
-voice -> 🗣️🔊
+voice → 🗣🔊
 
-void -> 🕳️🌌
+void → 🕳🌌
 
-volcano -> 🌋🌋
+volcano → 🌋🌋
 
-volume -> 🔊📚
+volume → 🔊📚
 
-vote -> 🗳️📝
+vote → 🗳📝
 
-voyage -> 🚢⚙️
+voyage → 🚢⚙
 
-wage -> 💵💼
+wage → 💵💼
 
-wagon -> 🚙🛞
+wagon → 🚙🛞
 
-wait -> ⏳🛑
+wait → ⏳🛑
 
-walk -> 🚶‍♂️👣
+walk → 🚶‍♂👣
 
-wall -> 🧱✍️
+wall → 🧱✍
 
-walnut -> 🌰🌰
+walnut → 🌰🌰
 
-want -> 🙏💭
+want → 🙏💭
 
-warfare -> ⚔️💣
+warfare → ⚔💣
 
-warm -> 🌞🔥
+warm → 🌞🔥
 
-warrior -> 🪖⚔️
+warrior → 🪖⚔
 
-wash -> 🧼🚿
+wash → 🧼🚿
 
-wasp -> 🐝🏃
+wasp → 🐝🏃
 
-waste -> 🗑️♻️
+waste → 🗑♻
 
-water -> 💧💧
+water → 💧💧
 
-wave -> 🌊👋
+wave → 🌊👋
 
-way -> 🛣🏃
+way → 🛣🏃
 
-wealth -> 💰👑
+wealth → 💰👑
 
-weapon -> 🔫⚔️
+weapon → 🔫⚔
 
-wear -> 👕👖
+wear → 👕👖
 
-weasel -> 🦦🦦
+weasel → 🦦🦦
 
-weather -> 🌦️🌤️
+weather → 🌦🌤
 
-web -> 🕸️🌐
+web → 🕸🌐
 
-wedding -> 👰🤵
+wedding → 👰🤵
 
-weekend -> 📅🎉
+weekend → 📅🎉
 
-weird -> 🌀😜
+weird → 🌀😜
 
-welcome -> 🙌🤝
+welcome → 🙌🤝
 
-west -> 🧭⬅️
+west → 🧭⬅
 
-wet -> 💦💦
+wet → 💦💦
 
-whale -> 🐋🐋
+whale → 🐋🐋
 
-what -> ❓👉
+what → ❓👉
 
-wheat -> 🌾🏃
+wheat → 🌾🏃
 
-wheel -> 🛞⚙️
+wheel → 🛞⚙
 
-when -> ⏰❓
+when → ⏰❓
 
-where -> 📍❓
+where → 📍❓
 
-whip -> 🐎➡️
+whip → 🐎➡
 
-whisper -> 🤫👂
+whisper → 🤫👂
 
-wide -> 📏🏃
+wide → 📏🏃
 
-width -> 📏⚙️
+width → 📏⚙
 
-wife -> 👰💍
+wife → 👰💍
 
-wild -> 🐆🌿
+wild → 🐆🌿
 
-will -> 📝✅
+will → 📝✅
 
-win -> 🏆🎉
+win → 🏆✌
 
-window -> 🪟🏠
+window → 🪟🏠
 
-wine -> 🍷🍷
+wine → 🍷🍷
 
-wing -> 🪽🪽
+wing → 🪽🪽
 
-wink -> 😉😉
+wink → 😉😉
 
-winner -> 🥇🏆
+winner → 🏆🎉
 
-winter -> 🌨️❄️
+winter → 🌨❄
 
-wire -> 🔌🧵
+wire → 🔌🧵
 
-wisdom -> 🦉📚
+wisdom → 🦉📚
 
-wise -> 👴🧠
+wise → 👴🧠
 
-wish -> 🌠🙏
+wish → 🌠🙏
 
-witness -> 👀⚖️
+witness → 👀⚖
 
-wolf -> 🐺🐺
+wolf → 🐺🐺
 
-woman -> 👩👩
+woman → 👩👩
 
-wonder -> 🤔✨
+wonder → 🤔✨
 
-wood -> 🪵🪵
+wood → 🪵🪵
 
-wool -> 🧶🐑
+wool → 🧶🐑
 
-word -> 🔤🗣️
+word → 🔤🗣
 
-work -> 💼🔨
+work → 💼🔨
 
-world -> 🌍⚙️
+world → 🌍⚙
 
-worry -> 😟💭
+worry → 😟💭
 
-worth -> 💎⚙️
+worth → 💎⚙
 
-wrap -> 🎁🌀
+wrap → 🎁🌀
 
-wreck -> 🚢🏃
+wreck → 🚢🏃
 
-wrestle -> 🤼🤼
+wrestle → 🤼🤼
 
-wrist -> ⌚✋
+wrist → ⌚✋
 
-write -> ✍️📝
+write → ✍📝
 
-wrong -> ❌↔️
+wrong → ❌↔
 
-yard -> 🌱🏡
+yard → 🌱🏡
 
-year -> 📅📆
+year → 📅📆
 
-yellow -> 🟨🌼
+yellow → 🟨🌼
 
-you -> 🫵🫵
+you → 🫵🫵
 
-young -> 👶🌱
+young → 👶🌱
 
-youth -> 🧒🎓
+youth → 🧒🎓
 
-zebra -> 🦓🦓
+zebra → 🦓🦓
 
-zero -> 0️⃣⚪
+zero → ⚪🅾
 
-zone -> 📍🗺️
+zone → 📍🗺
 
-zoo -> 🐒🏞️
+zoo → 🐒🏞
