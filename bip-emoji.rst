@@ -2,7 +2,7 @@ BIP: TBD
 
 Title: BIP39 Emoji Seed Mapping
 
-Author: Emoji Seed <devs@emojiseed.com>
+Author: Emoji Seed Team <devs@emojiseed.com>
 
 Status: Draft
 
