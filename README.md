@@ -60,15 +60,6 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 - `mapping.md` → Human-readable arrow-format list.
 ---
 
-## 🤝 Contributing?
-
-Want to propose better mappings?
-- Open a pull request suggesting **emoji improvements** (especially for abstract words).
-- Ensure changes **preserve uniqueness** and follow the **tightening rules**.
-- Add reasoning for semantic fit.
-
----
-
 ## ✨ Vision
 
 The **BIP39Emoji** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
@@ -132,6 +123,7 @@ This project is open source under the **BSD 3-Clause License**.
 
 - **Coperbyte LLC** (project sponsor & maintainer)
 - **Kamal Hakim** (<hakim@coperbyte.com>)
+- **Zamir Hakim (<tingea@gmail.com>)
 - Contributions welcome via pull requests!
 
 ---
@@ -139,5 +131,15 @@ This project is open source under the **BSD 3-Clause License**.
 ## ✅ Next Steps
 
 - Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
-- Gather feedback from wallets, libraries, and the standards community.  
+- Gather feedback from wallets, libraries, and the standards community.
+
+--- 
+
+## 🤝 Contributing?
+
+Want to propose better mappings?
+
+- Open a pull request suggesting **emoji improvements** (especially for abstract words).
+- Ensure changes **preserve uniqueness** and follow the **tightening rules**.
+- Add reasoning for semantic fit.
 
