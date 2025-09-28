@@ -16,8 +16,13 @@ Discussions-To: https://github.com/emojiseed/bip39emoji/issues
 
 
 ==Contents==
-
-Abstract, Motivation, Specification, Rationale, Backward Compatibility, Reference Implementation
+- [x] Abstract  
+- [x] Motivation  
+- [x] Specification  
+- [x] Rationale  
+- [x] Backward Compatibility  
+- [x] Reference Implementation  
+- [x] License 
 
 ==Abstract==
 
