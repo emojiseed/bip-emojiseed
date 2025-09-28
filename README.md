@@ -10,29 +10,10 @@
              BIP39 EMOJI STANDARD — v1.0
 ```
 
----
-
 ## 🌐 Overview
 
-A complete, open standard mapping the **BIP39 English wordlist (2048 words)** into **2048 unique emoji pairs**.  
+A complete, open standard mapping the **BIP39 English wordlist (2048 words)** into **2048 unique emoji pairs**.
 This bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
-
-## 🤝 Contributing
-
-Want to propose better mappings?  
-- Open a pull request suggesting **emoji improvements** (especially for abstract words).  
-- Ensure changes **preserve uniqueness** and follow the **tightening rules**.  
-- Add reasoning for semantic fit.  
-
----
-
-## ✨ Vision
-
-The **BIP39Emoji Standard** is more than a fun experiment:  
-
-- It reduces human error in handling mnemonics  
-- Builds cross-lingual, cross-cultural memorability  
-- Creates a foundation for **wallet UIs**, **educational tools**, and **next-gen cryptographic UX**  
 
 ---
 
@@ -65,17 +46,39 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 
 ## 📂 Repository Contents
 
-- `mapping_2048_final.json` → Master mapping (machine-readable, strict two-emoji pairs).  
-- `mapping_2048_final.csv` → Spreadsheet-friendly format (word, emoji1, emoji2).  
-- `mapping_2048_final.md` → Human-readable arrow-format list.  
+- `mapping.json` → Master mapping (machine-readable, strict two-emoji pairs).  
+- `mapping.csv` → Spreadsheet-friendly format (word, emoji1, emoji2).  
+- `mapping.md` → Human-readable arrow-format list.  
 - `bip-emoji.rst` → Draft BIP document following [BIP-0001](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki).  
 - `ISSUES_TODO.md` → Open issues & roadmap.  
 - `BIP_SUBMISSION_CHECKLIST.md` → Requirements for BIP submission.  
 - `LICENSE` → BSD-3-Clause or Apache-2.0 (to be finalized).
+- `GOVERNANCE.md` 
+- `INSTRUCTIONS.md` 
+- `CONTRIBUTING.md` 
+- 
+---
+
+## 🤝 Contributing
+
+Want to propose better mappings?
+- Open a pull request suggesting **emoji improvements** (especially for abstract words).
+- Ensure changes **preserve uniqueness** and follow the **tightening rules**.
+- Add reasoning for semantic fit.
 
 ---
 
-## 📜 Example
+## ✨ Vision
+
+The **BIP39Emoji Standard** is more than a fun experiment:
+
+- It reduces human error in handling mnemonics
+- Builds cross-lingual, cross-cultural memorability
+- Creates a foundation for **wallet UIs**, **educational tools**, and **next-gen cryptographic UX**
+
+---
+
+## 📜 Examples
 
 ```
 snake → 🐍🐍
@@ -87,13 +90,15 @@ book  → 📖📖
 Mnemonic phrases like:
 
 ```
-gravity tiger flame alarm book
+gravity, tiger, flame, alarm, book
+
 ```
 
 become:
 
 ```
-🌌🐯 🔥💨 ⏰❗ 📖📖
+🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
+
 ```
 
 ---
@@ -109,34 +114,28 @@ become:
 
 ## 📬 Discussions
 
-This project is open for community review and discussion:  
+This project is open for community review and discussion:
 
-- **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)  
-- **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip39emoji/issues)  
+- **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
+- **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip39emoji/issues)
 
 ---
 
 ## 📖 License
 
-This project is open source under either:  
-
-- **BSD 3-Clause License**  
-- **Apache 2.0 License**  
-
-(license decision pending community preference)  
+This project is open source under the **BSD 3-Clause License**.
 
 ---
 
-## 👤 Authors
+## 👤 Authors & Contributors
 
-- **Coperbyte LLC** (project sponsor & maintainer)  
-- Contributions welcome via pull requests!  
-	- Kamal Hakim - hakim@coperbyte.com
+- **Coperbyte LLC** (project sponsor & maintainer)
+- **Kamal Hakim** (<hakim@coperbyte.com>)
+- Contributions welcome via pull requests!
+
 ---
 
 ## ✅ Next Steps
 
-- Finalize license (BSD).  
 - Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
 - Gather feedback from wallets, libraries, and the standards community.  
-- Prepare multilingual test vectors and round-trip examples.  
