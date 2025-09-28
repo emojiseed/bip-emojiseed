@@ -74,7 +74,7 @@ The **BIPEmojiSeed** is an official proposed **Bitcoin Improvement Proposal (BIP
 
 ```
 git clone https://github.com/emojiseed/bip-emojiseed
-cd bip39emoji
+cd bip-emojiseed
 ./validate.sh
 ...
 ```
