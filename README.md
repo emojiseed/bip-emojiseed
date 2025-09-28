@@ -12,7 +12,7 @@
 
 ## 🌐 Overview
 
-A complete, open standard mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**.
+A complete, open standard mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**. 
 This bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
 ---
@@ -118,7 +118,7 @@ map to:
 This project is open for community review and discussion:
 
 - **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-- **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip39emoji/issues)
+- **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip-emojiseeds/issues)
 
 ---
 
@@ -132,7 +132,7 @@ This project is open source under the **BSD 3-Clause License**.
 
 - **Coperbyte LLC** (project sponsor & maintainer)
 - **Kamal Hakim** (<hakim@coperbyte.com>)
-- **Zamir Hakim (<tingea@gmail.com>)
+- **Zamir Hakim** (<tingea@gmail.com>)
 - Contributions welcome via pull requests!
 
 ---
