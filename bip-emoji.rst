@@ -58,9 +58,9 @@ Thus, backward compatibility is preserved at all cryptographic and protocol leve
 
 Reference mapping files and validation scripts are available in the project repository:
 
-- JSON: `mapping_2048.json`
-- CSV: `mapping_2048.csv`
-- Markdown: `mapping_2048.md`
+- JSON: `mapping.json`
+- CSV: `mapping.csv`
+- Markdown: `mapping.md`
 
 A Python test suite validates the uniqueness, integrity, and completeness of the mapping.
 
