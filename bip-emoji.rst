@@ -1,81 +1,73 @@
 BIP: TBD
 
-Title: BIP39Emoji Standard
+Title: BIP39 Emoji Seed Mapping
 
 Author: Emoji Seed <devs@emojiseed.com>
 
 Status: Draft
 
-Type: Standards Track
+Type: Informational
 
-Created: 2025-09-27
+Created: 2025-10-01
 
-License: Apache-2.0
+License: BSD-2-Clause
+
+Discussions-To: https://github.com/emojiseed/bip39emoji/issues
+
 
 ==Abstract==
 
-BIP39Emoji maps each word in the BIP39 word list to a unique emoji set word[emoji1, emoji2].
-
-This BIP introduces the **BIP39Emoji Standard**, a deterministic mapping of the
-BIP39 English word list into *two unique emojis per word*. It is intended as a
-human-friendly, visual representation of mnemonic phrases, improving
-accessibility and memorability without altering the underlying cryptographic
-entropy.
+This BIP proposes an extension to the BIP39 standard by introducing a consistent,
+context-aware emoji mapping for the 2048-word seed list. The goal is to create a
+human-friendly, language-agnostic mnemonic system that improves memorability,
+engagement, and accessibility without altering the cryptographic guarantees of BIP39.
 
 ==Motivation==
 
-BIP39 defines mnemonic phrases that are widely used for wallet backups.
-However, memorizing and communicating these phrases can be difficult,
-especially across language barriers.
+The current BIP39 word list is effective, but it relies solely on words.
+Some users find long word sequences difficult to memorize, especially across
+different languages. Emoji, as a global symbolic language, offer an intuitive,
+visual alternative that can be remembered more easily, cross linguistic barriers,
+and improve usability for onboarding and recovery.
 
-Emojis are Unicode-standardized, cross-platform, and universally recognized.
-By introducing a standard emoji mapping, mnemonic phrases become more
-accessible, memorable, and usable in non-textual contexts.
+The motivation is to:
+- Provide a unique emoji mapping for each BIP39 word.
+- Ensure mappings respect semantic context, tightness, and non-duplication rules.
+- Offer backward compatibility with existing BIP39 seeds.
+- Enhance adoption of cryptocurrency wallet security by improving UX.
 
 ==Specification==
 
-* **Input**: The official BIP39 English word list (2048 words).
-* **Output**: A table mapping each word to exactly 2 emojis.
-* **Rules**:
-  
-  1. If a direct emoji represents the word, duplicate it
-     (e.g., ``snake → 🐍🐍``).
-  2. If ambiguous, use a clarifier
-     (e.g., ``flame → 🔥💨`` distinct from ``fire → 🔥🔥``).
-  3. For months and holidays, use seasonal/holiday cues
-     (e.g., ``november → 🦃🍂``).
-  4. If no clear pair exists, use ✅ as a universal fallback.
-  5. No duplicates are permitted; all 2048 pairs are unique.
-
-The resulting mapping is published in ``mapping.md``, ``mapping.csv``,
-and ``mapping.json`` files in the reference repository.
+- Each of the 2048 BIP39 words is mapped to a pair of emojis.
+- Mappings are unique by **order**, meaning duplicate emojis are allowed but no duplicate **pairs** exist.
+- Contextual tightness is enforced: emoji choices must reflect the meaning of the word as closely as possible.
+- A JSON, CSV, and Markdown table format of the mapping MUST be published as reference artifacts.
+- Validation scripts MUST check uniqueness, context correctness, and non-duplication of pairs.
+- The mnemonic checksum rules of BIP39 remain unchanged.
 
 ==Rationale==
 
-* Two emojis per word provide both redundancy and disambiguation.
-* Emoji mapping does not alter entropy or cryptographic guarantees of BIP39.
-* This standard can be adopted in wallets, teaching tools, or as a mnemonic
-  overlay.
+- Emoji are already supported across major devices, platforms, and operating systems.
+- Using two-emoji pairs increases entropy space while keeping memorability.
+- The project is open-source, ensuring transparency and adoption by wallets.
+- By adhering strictly to contextual tightness rules, emoji mappings remain intuitive and globally recognizable.
 
-==Security Considerations==
+==Backward Compatibility==
 
-* This is a human usability layer, not a cryptographic change.
-* Mnemonics represented in emoji must be handled with the same security
-  precautions as plain text.
-
-==Backwards Compatibility==
-
-* The BIP39 word list remains unchanged.
-* The mapping is a 1-to-1 overlay; conversion back to the text word list is
-  deterministic.
-* No protocol or transaction format changes are required.
+This proposal does not alter the BIP39 word list, entropy calculation, or checksum mechanism.  
+It is fully backward compatible:
+- Existing BIP39 mnemonics remain valid.
+- Emoji mappings are purely representational overlays for usability.
+- A wallet implementing this proposal must continue to support the canonical word list internally.
 
 ==Reference Implementation==
 
-A reference mapping and libraries in Python and JavaScript are provided at:
-
-    https://github.com/emmojiseed/bip39emoji
+A reference repository including:
+- Full emoji mapping (`mapping_2048.json`, `mapping_2048.csv`)
+- Validation scripts
+- README with rationale and examples
+is available at: https://github.com/emojiseed/bip39emoji
 
 ==License==
 
-This document and reference implementation are licensed under the Apache 2.0 License.
+This BIP is licensed under the BSD-2-Clause license.
