@@ -1,17 +1,10 @@
 BIP: TBD
-
 Title: BIP39 Emoji Seed Mapping
-
 Author: Emoji Seed <devs@emojiseed.com>
-
 Status: Draft
-
 Type: Informational
-
 Created: 2025-10-01
-
 License: BSD-2-Clause
-
 Discussions-To: https://github.com/emojiseed/bip39emoji/issues
 
 
