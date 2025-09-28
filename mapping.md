@@ -546,7 +546,7 @@ capital -> 🏛️💰
 
 captain -> 🧑🚢
 
-car -> 🚗🏃
+car -> 🚗🚗�
 
 carbon -> 🧪🧱
 
