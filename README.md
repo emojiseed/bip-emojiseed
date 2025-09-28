@@ -71,7 +71,7 @@ Want to propose better mappings?
 
 ## ✨ Vision
 
-The **BIP39Emoji Standard** is more than a fun experiment:
+The **BIP39Emoji** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
 
 - It reduces human error in handling mnemonics
 - Builds cross-lingual, cross-cultural memorability
@@ -140,3 +140,4 @@ This project is open source under the **BSD 3-Clause License**.
 
 - Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
 - Gather feedback from wallets, libraries, and the standards community.  
+
