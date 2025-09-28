@@ -58,12 +58,15 @@ Thus, backward compatibility is preserved at all cryptographic and protocol leve
 
 Reference mapping files and validation scripts are available in the project repository:
 
-- JSON: `mapping.json`
-- CSV: `mapping.csv`
-- Markdown: `mapping.md`
+- 2048 BIP39 word-emoji-mapping (JSON): `word-emoji-mapping.json`
+- 2048 BIP39 word-emoji-mapping (CSV): `word-emoji-mapping.csv`
+- 2048 BIP39 word-emoji-mapping (MD): `word-emoji-mapping.md`
 
 A Python test suite validates the uniqueness, integrity, and completeness of the mapping.
 
 == Copyright ==
 
-This document is licensed under the BSD 3-Clause License.
+This document is licensed under the BSD 3-Clause License. 
+
+2025 Coperbyte ™️
+www.coperbyte.com
