@@ -8,9 +8,9 @@ Status: Draft
 
 Type: Informational
 
-Created: 2025-09-28
+Created: 2025-10-01
 
-License: BSD 3-Clause License
+License: BSD 2-Clause License
 
 Discussions-To: https://github.com/emojiseed/bip-emojiseed/issues
 
@@ -78,7 +78,7 @@ EmojiSeed does not alter the entropy or checksum model of BIP39. Instead:
 
 ## License
 
-This standard is released under the **BSD 3-Clause License**.
+This standard is released under the **BSD 2-Clause License**.
 
 ---
 
