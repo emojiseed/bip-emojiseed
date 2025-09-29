@@ -28,7 +28,7 @@ A complete, open standard for mapping the **BIP39 wordlist (2048 words)** into *
 
 flame → 🔥💨
 
-BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
+BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
 ---
 
