@@ -16,7 +16,6 @@ Superseded-By: None
 
 This proposal specifies a standardized mapping between the BIP-39 English word list and unique pairs of emoji characters. The goal is to enable mnemonic phrases to be represented in a universally recognizable, language-independent, and visually distinctive form, while remaining compatible with existing deterministic wallet standards.
 
-
 ## Motivation
 
 BIP-39 defined a widely adopted standard for generating mnemonic codes that encode entropy used in deterministic wallets. However, these mnemonics are language-dependent, subject to translation issues, and require literacy in a supported language.
@@ -31,13 +30,11 @@ Emoji characters are globally recognized symbols with strong visual memorability
 
 This proposal extends BIP-39 mnemonics by introducing an emoji layer that preserves full backward compatibility with the underlying word list.
 
-
 ## Rationale
 
 This design follows the naming convention of BIP-44: while extending BIP-39, the proposal does not include “39” in its title. Instead, the relationship to BIP-39 is clearly stated in the text.
 
 The choice of emoji pairs instead of single emoji was made to ensure sufficient uniqueness while maintaining strong mnemonic quality. Pairs avoid ambiguity and provide redundancy if one glyph is visually confusable.
-
 
 ## Specification
 
@@ -55,13 +52,11 @@ The choice of emoji pairs instead of single emoji was made to ensure sufficient 
 
 Thus, backward compatibility is preserved at all cryptographic and protocol levels.
 
-
 ## Security
 
 * **Determinism**: Emoji mapping must be fixed, universal, and collision-free.
 * **Human Factors**: Pairs of emoji are chosen to reduce visual ambiguity and improve memorability.
 * **Implementation Risks**: Incorrect Unicode handling or reliance on unstable glyphs could cause mismatches; therefore, only stable Unicode code points are permitted.
-
 
 ## Type Definitions
 
@@ -120,7 +115,6 @@ zone → 📍🗺
 zoo → 🐒🏞
 
 ```
-
 bip39 > emoji list: https://emojiseed.com/blob/main/word-emoji-mapping.md
 bip39 > eword list: https://emojiseed.com/blob/main/word-eword-mapping.md
 
@@ -136,8 +130,10 @@ https://emojiseed.com/tree/main/mappings/
 
 A Python test suite validates the uniqueness, integrity, and completeness of the mapping.
 
-## Copyright
+## License 
 
 This document is licensed under the BSD 2-Clause License.
+
+## Copyright
 
 © 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
