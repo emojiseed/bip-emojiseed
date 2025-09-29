@@ -149,15 +149,15 @@ This project is open source under the **BSD 2-Clause License**.
 
 ## 👤 Authors & Contributors
 
-- Emoji Seed Dev Team devs@emojiseed.com
-- Contributions welcome via pull requests!
+- Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
+- Contributions welcome via pull requests! ⛳ 
 
 ---
 
 ## ✅ Next Steps
 
-- Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
-- Gather feedback from wallets, libraries, and the standards community.
+- [ ] Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
+- [ ] Gather feedback from wallets, libraries, and the standards community.
 
 --- 
 
@@ -168,8 +168,7 @@ Want to propose better mappings?
 - Open a pull request suggesting **emoji improvements** (especially for abstract words).
 - Ensure changes **preserve uniqueness** and follow the **tightening rules**.
 - Add reasoning for semantic fit.
-- email team: prod-support@emojiseed.com
-
+- email team: Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
 
 <img width="1020" height="665" alt="banner" src="https://github.com/user-attachments/assets/fa6cac8d-19ab-4e11-9711-032a5d3a38f6" />
 
@@ -178,6 +177,8 @@ Want to propose better mappings?
 This document is licensed under the BSD 2-Clause License.
 
 © 2025 EmojiSeed
+
 [www.emojiseed.com](https://emojiseed.com)
+
 
 
