@@ -1,0 +1,26 @@
+name: "Spec change"
+description: Propose updates to the standard or BIP draft text
+labels: ["spec"]
+body:
+  - type: textarea
+    id: proposal
+    attributes:
+      label: Proposal
+      description: What should change and why?
+    validations:
+      required: true
+  - type: textarea
+    id: impact
+    attributes:
+      label: Impact
+      description: Backward compatibility, tooling changes, migration steps
+  - type: checkboxes
+    id: areas
+    attributes:
+      label: Affected areas
+      options:
+        - label: Documentation
+        - label: Validation scripts
+        - label: Mapping rules
+        - label: BIP draft
+

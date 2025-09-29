@@ -1,0 +1,33 @@
+name: "Bug report"
+description: Report a problem with tooling, tests, CI, or docs
+labels: ["bug"]
+body:
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the issue and expected behavior.
+      placeholder: "When I run pytest…"
+    validations:
+      required: true
+  - type: input
+    id: repro
+    attributes:
+      label: Reproduction steps
+      placeholder: "Commands, environment, branch, commit SHA"
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs / screenshots
+      render: shell
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - mapping
+        - tests
+        - ci
+        - docs
+        - tooling
+

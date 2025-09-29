@@ -1,0 +1,42 @@
+name: "Mapping proposal"
+description: Propose a change to a word → emoji pair
+labels: ["mapping"]
+body:
+  - type: input
+    id: word
+    attributes:
+      label: BIP39 word
+      placeholder: "e.g., cattle"
+    validations:
+      required: true
+  - type: input
+    id: current
+    attributes:
+      label: Current mapping
+      placeholder: "e.g., 🐄🐄"
+  - type: input
+    id: proposed
+    attributes:
+      label: Proposed mapping
+      placeholder: "e.g., 🐄🌾"
+    validations:
+      required: true
+  - type: textarea
+    id: rationale
+    attributes:
+      label: Rationale
+      description: Explain semantic fit, clarity, uniqueness; cite conflicts checked.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Validation checks
+      options:
+        - label: Pair is unique (forward/reverse) across 2048
+          required: true
+        - label: Both emojis are single graphemes (no variation selectors)
+          required: true
+        - label: JSON/CSV/MD regenerate cleanly and tests pass locally
+          required: true
+
