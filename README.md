@@ -119,6 +119,7 @@ This project is open for community review and discussion:
 
 - **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 - **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip-emojiseeds/issues)
+- **Discord Server** [EmojiSeed Discord Server](https://discord.com/channels/1422040199872905357/1422040200539803810)
 
 ---
 
