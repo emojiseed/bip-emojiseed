@@ -74,7 +74,7 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 
 [![CI](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml/badge.svg)](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml)
 
-# ⏰ Testing
+⏰ Testing
 
 ```
 
@@ -84,7 +84,7 @@ pytest -q
 
 ```
 
-# 📜 Examples
+📜 Examples
 
 ```
 
@@ -94,10 +94,10 @@ alarm → ⏰❗
 book  → 📖📖
 
 ```
-Mnemonic phrases like:
- gravity, tiger, flame, alarm, book
-map to:
- 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
+```
+
+Mnemonic phrases like: gravity, tiger, flame, alarm, book
+map to: 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
 
 ```
 
