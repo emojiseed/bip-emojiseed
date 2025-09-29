@@ -12,14 +12,15 @@
 
 ## 🌐 Overview
 
-A complete, open standard mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**. 
-This bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
+A complete, open standard for mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**.
+
+BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
 ---
 
 ## 🤔 What is this?
 
-**BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pairs**.
+**BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pair sets**.
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
