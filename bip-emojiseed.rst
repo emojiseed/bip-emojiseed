@@ -83,9 +83,11 @@ The full set of **2048 entries** will be presented as both:
 1. **Arrow-format list** (e.g., `abandon → 😀🎲`)
 2. **Reference table** (columns: word, emoji1, emoji2, emoji1_name, emoji2_name)
 
-```text
+``` text
+
 word | emoji1 | emoji2 | emoji1_name | emoji2_name
--------------------- | -------------------- | -------------------- | -------------------- | -------------------- 
+-------------------- | -------------------- | -------------------- | -------------------- | --------------------
+
 abandon | 🏚 | 🚪 | derelict house building | door
 ability | 🧠 | 💪 | brain | flexed biceps
 able | 💪 | 🏃 | flexed biceps | runner
