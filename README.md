@@ -149,9 +149,7 @@ This project is open source under the **BSD 2-Clause License**.
 
 ## 👤 Authors & Contributors
 
-- **Coperbyte LLC** (project sponsor & maintainer) www.coperbyte.com
-- **Kamal Hakim** (<hakim@coperbyte.com>)
-- **Zamir Hakim** (<tingea@gmail.com>)
+- Emoji Seed Dev Team devs@emojiseed.com
 - Contributions welcome via pull requests!
 
 ---
