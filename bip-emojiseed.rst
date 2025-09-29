@@ -75,8 +75,6 @@ The canonical mapping is provided in structured formats (JSON, CSV, Markdown). E
 * **word**: the original BIP-39 English word
 * **emoji1**: the first emoji grapheme
 * **emoji2**: the second emoji grapheme
-* **emoji1_name**: Unicode CLDR short name for emoji1
-* **emoji2_name**: Unicode CLDR short name for emoji2
 
 The full set of **2048 entries** will be presented as both:
 
