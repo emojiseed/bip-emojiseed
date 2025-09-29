@@ -65,7 +65,6 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 - `CONTRIBUTING.md` → Open issues & roadmap.  
 - `VERSION` → Current version info.
 - `LICENSE` → BSD-3-Clause or Apache-2.0 (to be finalized).
-- `validate.sh` → Runs validation tests.
 - `word-emoji-mapping.json` → Master mapping (machine-readable, strict two-emoji pairs).  
 - `word-emoji-mapping.csv` → Spreadsheet-friendly format (word, emoji1, emoji2).  
 - `word-emoji-mapping.md` → Human-readable arrow-format list.
