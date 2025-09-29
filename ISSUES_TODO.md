@@ -5,23 +5,6 @@ Each entry can be turned into a GitHub Issue when ready.
 
 ---
 
-## 🚀 Project Standardization
-
-- [x] **Finalize `bip-emoji.rst`**
-  - Ensure header matches BIP-0001.
-  - Review rationale, motivation, and backward compatibility.
-  - Add example usage of emoji seeds.
-
-- [x] **Confirm License Alignment**
-  - Adopt BSD-2-Clause license in all files.
-  - Verify repo LICENSE file matches.
-
-- [x] **Create BIP Submission Checklist**
-  - Abstract, Motivation, Specification, Rationale, Backward Compatibility, Reference Implementation.
-  - Ensure compliance with BIP-0001 template.
-
----
-
 ## 🔧 Implementation
 
 - [x] **Validation Script**
@@ -32,6 +15,7 @@ Each entry can be turned into a GitHub Issue when ready.
 - [x] **Add Tests**
   - Unit tests for uniqueness and correctness.
   - Integration tests for mapping import/export.
+  - ```bash pytest -q```
 
 - [ ] **Format Consistency**
   - JSON (`word-emoji-mapping.json`)
@@ -58,7 +42,7 @@ Each entry can be turned into a GitHub Issue when ready.
 
 ## 🌍 Community / Adoption
 
-- [ ] **Open Discussions**
+- [x] **Open Discussions**
   - Post link in Bitcoin-dev mailing list once draft is stable.
   - Engage wallet developers for feedback.
 
