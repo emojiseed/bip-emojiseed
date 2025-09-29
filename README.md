@@ -175,4 +175,16 @@ Want to propose better mappings?
 
 <img width="1020" height="665" alt="banner" src="https://github.com/user-attachments/assets/fa6cac8d-19ab-4e11-9711-032a5d3a38f6" />
 
+## Copyright
+
+This document is licensed under the BSD 2-Clause License.
+
+© 2025 Coperbyte™️
+
+[www.coperbyte.com](https://www.coperbyte.com)
+
+© 2025 EmojiSeed
+
+[www.emojiseed.com](https://www.emojiseed.com)
+
 
