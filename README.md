@@ -49,9 +49,9 @@ There are several reasons why this is needed:
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
-Bitcoin Improvement Proposal 
+BIP Emoji Seed Standard  [ BIP Emoji Seed Standard ](https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/bip-emojiseed.rst)
 
-BIP Emoji Seed Standard [ BIP Emoji Seed Standard ](https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/bip-emojiseed.rst)
+EmojiSeed Official Whitepaper  [ EmojiSeed Official Whitepaper ](https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/docs/whitepaper.md)
 
 ---
 
