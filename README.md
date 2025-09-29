@@ -135,13 +135,13 @@ This project is open for community review and discussion:
 
 ## 📖 License
 
-This project is open source under the **BSD 3-Clause License**.
+This project is open source under the **BSD 2-Clause License**.
 
 ---
 
 ## 👤 Authors & Contributors
 
-- **Coperbyte LLC** (project sponsor & maintainer)
+- **Coperbyte LLC** (project sponsor & maintainer) www.coperbyte.com
 - **Kamal Hakim** (<hakim@coperbyte.com>)
 - **Zamir Hakim** (<tingea@gmail.com>)
 - Contributions welcome via pull requests!
@@ -162,4 +162,5 @@ Want to propose better mappings?
 - Open a pull request suggesting **emoji improvements** (especially for abstract words).
 - Ensure changes **preserve uniqueness** and follow the **tightening rules**.
 - Add reasoning for semantic fit.
+- email team: prod-support@emojiseed.com
 
