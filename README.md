@@ -176,9 +176,7 @@ Want to propose better mappings?
 
 This document is licensed under the BSD 2-Clause License.
 
-© 2025 EmojiSeed
-
-[www.emojiseed.com](https://emojiseed.com)
+© 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
 
 
 
