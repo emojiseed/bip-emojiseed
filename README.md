@@ -14,7 +14,7 @@
 
 ## ✨ Vision
 
-**BIPEmojiSeed** is the official **Bitcoin Improvement Proposal (BIP)** for a global BIP39 wordlist -> [emojis] standard:
+**BIPEmojiSeed** is the official **Bitcoin Improvement Proposal (BIP)** for a global BIP39 wordlist to emojiset standard:
 
 There are several reasons why this is needed:
 
