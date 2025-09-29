@@ -62,11 +62,14 @@ Each entry can be turned into a GitHub Issue when ready.
   - Post link in Bitcoin-dev mailing list once draft is stable.
   - Engage wallet developers for feedback.
 
-- [ ] **Backwards Compatibility Clarification**
+- [x] **Backwards Compatibility Clarification**
   - Document how wallets can display emojis while storing words internally.
 
 - [ ] **Multi-language Considerations**
   - Evaluate cross-language recognition issues with emojis.
+
+- [x] **Create Discord Server**
+  - Discord server: https://discord.com/channels/1422040199872905357/1422040200539803810
 
 ---
 
