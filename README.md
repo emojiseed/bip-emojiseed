@@ -18,6 +18,16 @@ BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, maki
 
 ---
 
+## ✨ Vision
+
+The **BIPEmojiSeed** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
+
+- It reduces human error in handling mnemonics
+- Builds cross-lingual, cross-cultural memorability
+- Creates a foundation for **wallet UIs**, **educational tools**, and **next-gen cryptographic UX**
+
+---
+
 ## 🤔 What is this?
 
 **BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pair sets**.
@@ -61,13 +71,9 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 - `word-emoji-mapping.md` → Human-readable arrow-format list.
 ---
 
-## ✨ Vision
+## EmojiSeed Build 🌱✨
 
-The **BIPEmojiSeed** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
-
-- It reduces human error in handling mnemonics
-- Builds cross-lingual, cross-cultural memorability
-- Creates a foundation for **wallet UIs**, **educational tools**, and **next-gen cryptographic UX**
+[![CI](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml/badge.svg)](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml)
 
 ---
 
