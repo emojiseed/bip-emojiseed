@@ -140,17 +140,8 @@ https://emojiseed.com/main/
 
 A Python test suite validates the uniqueness, integrity, and completeness of the mapping.
 
-
 ## Copyright
 
 This document is licensed under the BSD 2-Clause License.
 
-
-© 2025 Coperbyte™️
-
-[www.coperbyte.com](https://www.coperbyte.com)
-
-© 2025 EmojiSeed
-
-[www.emojiseed.com](https://www.emojiseed.com)
-
+© 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
