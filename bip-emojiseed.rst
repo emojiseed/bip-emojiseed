@@ -68,5 +68,5 @@ A Python test suite validates the uniqueness, integrity, and completeness of the
 
 This document is licensed under the BSD 3-Clause License. 
 
-2025 Coperbyte ™️
+2025 Coperbyte™️
 www.coperbyte.com
