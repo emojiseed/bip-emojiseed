@@ -1,3 +1,5 @@
+<img width="1020" height="665" alt="image" src="https://github.com/user-attachments/assets/fa6cac8d-19ab-4e11-9711-032a5d3a38f6" />
+
 # BIPEmojiSeed Standard
 
 ```
@@ -10,29 +12,35 @@
              BIP39 WORDLIST EMOJI STANDARD — v1.0
 ```
 
+## ✨ Vision
+
+**BIPEmojiSeed** is the official proposed **Bitcoin Improvement Proposal (BIP)** for a global word -> [emojis] standard:
+
+- It reduces human error in handling mnemonics
+- Builds cross-lingual, cross-cultural, multi-functional memorability
+- Creates a foundation for **mneumonic devices, wallet UIs**, **educational tools**, and **next-gen cryptographic apps**
+
+---
+
 ## 🌐 Overview
 
 A complete, open standard for mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**.
+
+flame → 🔥💨
 
 BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive, fun, and memorable — while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
 ---
 
-## ✨ Vision
+## 🤔 What is this really?
 
-The **BIPEmojiSeed** is an official proposed **Bitcoin Improvement Proposal (BIP)** standard:
-
-- It reduces human error in handling mnemonics
-- Builds cross-lingual, cross-cultural memorability
-- Creates a foundation for **wallet UIs**, **educational tools**, and **next-gen cryptographic UX**
-
----
-
-## 🤔 What is this?
-
-**BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a **1-to-1 mapping** between the 2048 words of the official [BIP39 English wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pair sets**.
+**BIPEmojiSeed** is a proposed **Bitcoin Improvement Proposal (BIP)** standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pair sets**.
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
+
+Bitcoin Improvement Proposal 
+
+BIP Emoji Seed Standard [ BIP Emoji Seed Standard ](https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/bip-emojiseed.rst)
 
 ---
 
