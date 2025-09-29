@@ -37,7 +37,7 @@ BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, maki
 
 ## 🤔 What is this really?
 
-**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and **2048 unique emoji pair sets**. (See Type Definition section)
+**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and 2048 unique [BIP emojiset](https://emojiseed.com/main/emojiset.txt).
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
