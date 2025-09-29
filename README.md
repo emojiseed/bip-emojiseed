@@ -96,17 +96,15 @@ BIP Emoji Seed Standard [ BIP Emoji Seed Standard ](https://raw.githubuserconten
 ⏰ Testing
 
 ```
-
 git clone https://github.com/emojiseed/bip-emojiseed
 cd bip-emojiseed
-pytest -q
+make
 
 ```
 
 📜 Examples
 
 ```
-
 snake → 🐍🐍
 flame → 🔥💨
 alarm → ⏰❗
@@ -114,7 +112,6 @@ book  → 📖📖
 
 ```
 ```
-
 Mnemonic phrases like: gravity, tiger, flame, alarm, book
 map to: 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
 
