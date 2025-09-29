@@ -1,7 +1,7 @@
-# BIP39Emoji Standard: A Human-Centric Approach to Cryptographic Mnemonics
+# BIP Emoji Seed Standard: A Human-Centric Approach to Cryptographic Mnemonics
 
 ## Abstract
-**BIP39Emoji Standard** is a globally unique two-emoji mapping for each of the 2048 words in the [BIP39 mnemonic word list](https://github.com/bitcoin/bips/tree/master/bip-0039).
+**BIP Emoji Seed Standard** is a globally unique two-emoji mapping for each of the 2048 words in the [BIP39 mnemonic word list](https://github.com/bitcoin/bips/tree/master/bip-0039).
 
 The goal is to increase **memorability, accessibility, and universality** of cryptographic seed phrases by leveraging emojis as a universally recognizable, language-independent medium.  
 
@@ -53,6 +53,6 @@ The goal is to increase **memorability, accessibility, and universality** of cry
 ---
 
 ## Conclusion
-The **BIP39Emoji Standard** makes mnemonic phrases **visual, memorable, and globally accessible**, bridging cryptography with human cognition.  
+The **BIP Emoji Seed Standard** makes mnemonic phrases **visual, memorable, and globally accessible**, bridging cryptography with human cognition.  
 
 ---
