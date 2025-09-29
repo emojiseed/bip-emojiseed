@@ -132,6 +132,8 @@ complete list: https://emojiseed.com/blob/main/word-emoji-mapping.md
 
 Reference mapping files and validation scripts are available in the project repository:
 
+https://emojiseed.com/main/
+
 * 2048 BIP39 word-emoji-mapping (JSON): `word-emoji-mapping.json`
 * 2048 BIP39 word-emoji-mapping (CSV): `word-emoji-mapping.csv`
 * 2048 BIP39 word-emoji-mapping (MD): `word-emoji-mapping.md`
