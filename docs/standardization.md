@@ -86,5 +86,5 @@ This standard is released under the **BSD 3-Clause License**.
 
 All issues, refinements, and community proposals should be submitted via:
 
-- GitHub Issues: [https://github.com/emojiseed/bip39emoji/issues](https://github.com/emojiseed/bip-emojiseed/issues)  
+- GitHub Issues: [https://github.com/emojiseed/bip-emojiseed/issues](https://github.com/emojiseed/bip-emojiseed/issues)  
 - Bitcoin Dev Mailing List (for BIP inclusion proposals)  
