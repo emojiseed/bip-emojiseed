@@ -1,12 +1,18 @@
 # EmojiSeed Standardization Document
 
 Title: EmojiSeed Standard
-Author: Coperbyte LLC <hakim@coperbyte.com>
+
+Author: Coperbyte LLC <bitcoin-dev@bitcoiin.net>
+
 Status: Draft
+
 Type: Informational
+
 Created: 2025-09-28
+
 License: BSD 3-Clause License
-Discussions-To: https://github.com/emojiseed/bip39emoji/issues
+
+Discussions-To: https://github.com/emojiseed/bip-emojiseed/issues
 
 ---
 
