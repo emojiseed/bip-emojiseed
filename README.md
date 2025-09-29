@@ -16,13 +16,6 @@
 
 **BIPEmojiSeed** is the official **Bitcoin Improvement Proposal (BIP)** for a global BIP39 wordlist to emojiset standard:
 
-There are several reasons why this is needed:
-
-- It secures seedlists with an emoji-based mnemonic cypher
-- It reduces human error in handling mnemonics
-- Builds cross-lingual, cross-cultural, multi-functional memorability
-- Creates a foundation for **mneumonic devices**, **wallet UIs**, **educational tools**, and **next-gen apps**
-
 ---
 
 ## 🌐 Overview
@@ -33,11 +26,26 @@ flame → 🔥💨
 
 BIPEmojiSeed bridges **mnemonic seed phrases** with **visual memory cues**, making them more intuitive while keeping **1-to-1 uniqueness** and **cryptographic integrity**.
 
+**Why is this needed?**
+
+There are several reasons why this is needed:
+- It is a fun, creative  way to remember access words
+- It secures seedlists with an emoji-based mnemonic cypher
+- It reduces human error in handling mnemonics
+- Builds cross-lingual, cross-cultural, multi-functional memorability
+- Creates a foundation for libraries, **mneumonic devices**, **wallet UIs**, **educational tools**, and **next-gen apps**
+
 ---
 
 ## 🤔 What is this really?
 
-**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and 2048 unique [BIP emojiset - https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt](https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt).
+**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and 2048 unique [BIP emojiset](https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt).
+
+**WordList BIP39**
+- https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
+
+**EmojiSet v.001** 
+- https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
