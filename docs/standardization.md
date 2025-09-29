@@ -2,7 +2,7 @@
 
 Title: EmojiSeed Standard
 
-Author: Coperbyte LLC <bitcoin-dev@bitcoiin.net>
+Author: Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
 
 Status: Draft
 
