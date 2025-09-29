@@ -1,4 +1,4 @@
-# ✅ BIP Submission Checklist – BIP39 Emoji
+# ✅ BIP Submission Checklist – BIP Emoji Seed Mapping
 
 This checklist ensures the `bip-emoji` proposal meets the requirements for acceptance as a Bitcoin Improvement Proposal (BIP).
 
@@ -7,13 +7,13 @@ This checklist ensures the `bip-emoji` proposal meets the requirements for accep
 ## 1. Header Compliance
 - [x] BIP header includes:
   - `BIP: TBD`
-  - `Title: BIP39 Emoji Seed Mapping`
+  - `Title: BIP Emoji Seed Mapping`
   - `Author: Emoji Seed <devs@emojiseed.com>`
   - `Status: Draft`
   - `Type: Informational`
   - `Created: 2025-10-01`
   - `License: BSD-2-Clause`
-  - `Discussions-To: https://github.com/emojiseed/bipemojiseed/issues`
+  - `Discussions-To: https://github.com/emojiseed/bip-emojiseed/issues`
 
 ---
 
