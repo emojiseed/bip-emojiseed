@@ -21,7 +21,7 @@ There are several reasons why this is needed:
 - It secures seedlists with an emoji-based mnemonic cypher
 - It reduces human error in handling mnemonics
 - Builds cross-lingual, cross-cultural, multi-functional memorability
-- Creates a foundation for **mneumonic devices**, **wallet UIs**, **educational tools**, and **next-gen cryptographic apps**
+- Creates a foundation for **mneumonic devices**, **wallet UIs**, **educational tools**, and **next-gen apps**
 
 ---
 
