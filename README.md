@@ -53,6 +53,8 @@ BIP Emoji Seed Standard  [ BIP Emoji Seed Standard ](https://raw.githubuserconte
 
 EmojiSeed Official Whitepaper  [ EmojiSeed Official Whitepaper ](https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/docs/whitepaper.md)
 
+Official BIP-39 Pull Request [ BIP-39 Emoji PR ](https://emojiseed.com/bitcoin/bips/pull/1989)
+
 ---
 
 ## 🚀 Features
