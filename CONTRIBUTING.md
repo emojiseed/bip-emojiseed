@@ -6,12 +6,14 @@ We welcome pull requests, issues, and suggestions.
 - Ensure uniqueness: no duplicate emoji pairs.
 - Follow clarifier rules.
 - Run duplicate scans before submitting.
-- File to update:
+- Files to update:
+```
    - word-emoji-mapping.csv
    - word-emoji-mapping.json
    - word-emoji-mapping.md
    - word-eword-mapping.md
    - emoji.txt
+```
 
 ## Steps
 1. Fork repository
