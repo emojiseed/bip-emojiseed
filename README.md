@@ -83,7 +83,7 @@ EmojiSeed Official Whitepaper  [ EmojiSeed Official Whitepaper ](https://raw.git
 - `GOVERNANCE.md` → Open issues & roadmap.  
 - `CONTRIBUTING.md` → Open issues & roadmap.  
 - `VERSION` → Current version info.
-- `LICENSE` → BSD-3-Clause or Apache-2.0 (to be finalized).
+- `LICENSE` → MIT.
 - `word-emoji-mapping.json` → Master mapping (machine-readable, strict two-emoji pairs).  
 - `word-emoji-mapping.csv` → Spreadsheet-friendly format (word, emoji1, emoji2).  
 - `word-emoji-mapping.md` → Human-readable arrow-format list.
@@ -171,7 +171,7 @@ Want to propose better mappings?
 
 ## Copyright
 
-This document is licensed under the BSD 2-Clause License.
+This document is licensed under the MIT License.
 
 © 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
 
