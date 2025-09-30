@@ -1736,7 +1736,7 @@ sugar → wrench, house
 suggest → coin, volcano
 suit → sparkles, compass
 summer → wrench, crescent_moon
-sun → sun, rainbow
+sun → sun, sun
 sunny → test_tube, sunflower
 sunset → books, brain
 super → coin, sunrise_over_mountains
