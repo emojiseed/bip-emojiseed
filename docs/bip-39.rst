@@ -1,5 +1,6 @@
-**To:** 
-**Subject:** Proposal: Add `emoji.txt` as a new BIP-39 wordlist (Emoji)
+From: Emoji Seed Dev Team <bip-devs@emojiseed.com>
+To: bitcoin-dev@lists.linuxfoundation.org
+Subject: Proposal: Add `emoji.txt` as a new BIP-39 wordlist (Emoji)
 
 Hi Team,
 
