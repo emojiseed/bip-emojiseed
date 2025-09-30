@@ -49,6 +49,7 @@ There are several reasons why this is needed:
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
+:golf:
 **Official BIP-39 PR** [ BIP-39 Emoji PR ](https://github.com/bitcoin/bips/pull/1989)
 
 ---
