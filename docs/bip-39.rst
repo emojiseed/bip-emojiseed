@@ -1,6 +1,6 @@
 From: Emoji Seed Dev Team <bip-devs@emojiseed.com>
 To: bitcoin-dev@lists.linuxfoundation.org
-Subject: Proposal: Add `emoji.txt` as a new BIP-39 wordlist (Emoji)
+Subject: Proposal: Add `emoji.txt` to BIP-39 as a new wordlist language
 
 Hi Team,
 
@@ -60,4 +60,5 @@ Hakim
 +==== License ====
 +
 +This addition inherits the BIP-39 license (MIT).
+
 

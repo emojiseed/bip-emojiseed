@@ -116,8 +116,8 @@ zoo → 🐒🏞
 
 ==============================================================
 
-bip39 > emoji list: https://emojiseed.com/blob/main/word-emoji-mapping.md
-bip39 > eword list: https://emojiseed.com/blob/main/word-eword-mapping.md
+bip39 > emoji list: https://emojiseed.com/blob/main/emoji.txt
+bip39 > eword list: https://emojiseed.com/blob/main/english.txt
 
 ## Reference Implementation
 
@@ -133,7 +133,7 @@ A Python test suite validates the uniqueness, integrity, and completeness of the
 
 ## License
 
-This document is licensed under the BSD 2-Clause License.
+This document is licensed under the MIT License.
 
 ## Copyright
 
