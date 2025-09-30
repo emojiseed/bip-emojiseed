@@ -165,7 +165,7 @@ Want to propose better mappings?
 - Open a pull request suggesting **emoji improvements** (especially for abstract words).
 - Ensure changes **preserve uniqueness** and follow the **tightening rules**.
 - Add reasoning for semantic fit.
-- email team: Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
+- email team: Emoji Seed Dev Team <bip-devs@emojiseed.com>
 
 <img width="1020" height="665" alt="banner" src="https://github.com/user-attachments/assets/fa6cac8d-19ab-4e11-9711-032a5d3a38f6" />
 
