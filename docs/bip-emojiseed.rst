@@ -70,7 +70,7 @@ The full set of **2048 entries** will be presented as both:
 
 1. **Arrow-format list** (e.g., `lucky → 😀🎲`)
 
-``` text
+==============================================================
 
 abandon → 🏚🚪
 
@@ -114,7 +114,8 @@ zone → 📍🗺
 
 zoo → 🐒🏞
 
-```
+==============================================================
+
 bip39 > emoji list: https://emojiseed.com/blob/main/word-emoji-mapping.md
 bip39 > eword list: https://emojiseed.com/blob/main/word-eword-mapping.md
 
@@ -127,10 +128,11 @@ https://emojiseed.com/tree/main/mappings/
 * 2048 BIP39 word-emoji-mapping (JSON): `word-emoji-mapping.json`
 * 2048 BIP39 word-emoji-mapping (CSV): `word-emoji-mapping.csv`
 * 2048 BIP39 word-emoji-mapping (MD): `word-emoji-mapping.md`
+* 2048 BIP39 word-eword-mapping (MD): `word-eword-mapping.md`
 
 A Python test suite validates the uniqueness, integrity, and completeness of the mapping.
 
-## License 
+## License
 
 This document is licensed under the BSD 2-Clause License.
 
