@@ -1,6 +1,6 @@
 BIP: TBD
 Title: Emoji Seed Mnemonics for Deterministic Keys
-Author: Emoji Seed Dev Team <bitcoin-dev@bitcoiin.net>
+Author: Emoji Seed Dev Team <bip-devs@emojiseed.com>
 Comments-Summary: None yet
 Comments-URI: https://lists.linuxfoundation.org/pipermail/bitcoin-dev/
 Status: Draft
