@@ -10,7 +10,8 @@ We welcome pull requests, issues, and suggestions.
    - word-emoji-mapping.csv
    - word-emoji-mapping.json
    - word-emoji-mapping.md
-   - emojiset.txt
+   - word-eword-mapping.md
+   - emoji.txt
 
 ## Steps
 1. Fork repository
