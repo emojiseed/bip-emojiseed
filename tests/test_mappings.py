@@ -5,8 +5,8 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 
-MAPPING = ROOT / "mappings/word-emoji-mapping.json"
-BIP39 = ROOT / "mappings/bip39.txt"
+MAPPING = ROOT / "extras/word-emoji-mapping.json"
+BIP39 = ROOT / "extras/bip39.txt"
 
 def load_mapping(path):
     with open(path, "r", encoding="utf-8") as f:

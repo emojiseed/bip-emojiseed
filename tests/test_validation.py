@@ -2,9 +2,9 @@ from pathlib import Path
 import json, csv
 
 ROOT = Path(__file__).resolve().parents[1]
-JSON_PATH = ROOT / "mappings/word-emoji-mapping.json"
-CSV_PATH  = ROOT / "mappings/word-emoji-mapping.csv"
-MD_PATH   = ROOT / "mappings/word-emoji-mapping.md"
+JSON_PATH = ROOT / "extras/word-emoji-mapping.json"
+CSV_PATH  = ROOT / "extras/word-emoji-mapping.csv"
+MD_PATH   = ROOT / "extras/word-emoji-mapping.md"
 
 def test_files_exist():
     assert JSON_PATH.exists()

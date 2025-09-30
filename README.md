@@ -76,33 +76,7 @@ Official BIP-39 Pull Request [ BIP-39 Emoji PR ](https://github.com/bitcoin/bips
 
 ---
 
-## 📂 Repository Contents
-
-- `bip-emojiseed.rst` → Draft BIP document following [BIP-0001](https://github.com/bitcoin/bips/blob/master/bip-0001.mediawiki).
-- `BIP_SUBMISSION_CHECKLIST.md` → Requirements for BIP submission.
-- `ISSUES_TODO.md` → Outstanding issues to sort.     
-- `INSTRUCTIONS.md` → Setunstall instructions.
-- `GOVERNANCE.md` → Open issues & roadmap.  
-- `CONTRIBUTING.md` → Open issues & roadmap.  
-- `VERSION` → Current version info.
-- `LICENSE` → MIT.
-- `word-emoji-mapping.json` → Master mapping (machine-readable, strict two-emoji pairs).  
-- `word-emoji-mapping.csv` → Spreadsheet-friendly format (word, emoji1, emoji2).  
-- `word-emoji-mapping.md` → Human-readable arrow-format list.
----
-
 ## EmojiSeed 🌱✨
-
-[![CI](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml/badge.svg)](https://github.com/emojiseed/bip-emojiseed/actions/workflows/ci.yml)
-
-⏰ Testing
-
-```
-git clone https://github.com/emojiseed/bip-emojiseed
-cd bip-emojiseed
-make
-
-```
 
 📜 Examples
 
@@ -135,8 +109,8 @@ map to: 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
 This project is open for community review and discussion:
 
 - **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
-- **GitHub Issues:** [Open Issues](https://github.com/emojiseed/bip-emojiseeds/issues)
-- **Discord Server** [EmojiSeed Discord Server](https://discord.com/channels/1422040199872905357/1422040200539803810)
+- **GitHub Issues:** [Open Issues](https://emojiseeds.com/issues)
+- **GitHub Discussion:** [Open Discussion](https://emojiseeds.com/discussion)
 
 ---
 
@@ -153,29 +127,16 @@ This project is open source under the **BSD 2-Clause License**.
 
 ---
 
-## ✅ Next Steps
-
-- [ ] Submit `bip-emoji.rst` to the Bitcoin dev mailing list.  
-- [ ] Gather feedback from wallets, libraries, and the standards community.
-
---- 
-
 ## 🤝 Contributing?
 
 Want to propose better mappings?
 
 - Open a pull request suggesting **emoji improvements** (especially for abstract words).
-- Ensure changes **preserve uniqueness** and follow the **tightening rules**.
-- Add reasoning for semantic fit.
 - email team: Emoji Seed Dev Team <bip-devs@emojiseed.com>
 
 <img width="1020" height="665" alt="banner" src="https://github.com/user-attachments/assets/fa6cac8d-19ab-4e11-9711-032a5d3a38f6" />
 
 ## Copyright
 
-This document is licensed under the MIT License.
-
 © 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
-
-
 
