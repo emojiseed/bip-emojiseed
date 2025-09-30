@@ -1,120 +1,72 @@
+"""
+Pytest-style checks for EmojiSeed mapping completeness/consistency.
 
-#!/usr/bin/env python3
-import json, sys, csv, re
+Place this file at repo root as tests/test_mappings.py
+Run:  pytest -q   (or)  python -m pytest -q
+"""
 from pathlib import Path
+import json, csv, re
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 
-MAPPING = ROOT / "extras/word-emoji-mapping.json"
-BIP39 = ROOT / "extras/bip39.txt"
+# File paths
+JSON_PATH = ROOT / "extras/word-emoji-mapping.json"
+CSV_PATH = ROOT / "extras/word-emoji-mapping.csv"
+MD_PATH  = ROOT / "extras/word-emoji-mapping.md"
 
-def load_mapping(path):
-    with open(path, "r", encoding="utf-8") as f:
-        data = json.load(f)
-    if isinstance(data, dict):
-        return data
-    raise ValueError("mapping_2048.json must be a JSON object {word: [emoji1, emoji2]}")
+def test_files_exist():
+    assert JSON_PATH.exists(), f"Missing {JSON_PATH}"
+    assert CSV_PATH.exists(), f"Missing {CSV_PATH}"
+    assert MD_PATH.exists(),  f"Missing {MD_PATH}"
 
-def load_bip39(path):
-    with open(path, "r", encoding="utf-8") as f:
-        reader = csv.reader(f)
-        words = [row[0].strip() for row in reader if row and row[0].strip()]
-    return words
+def load_json():
+    data = json.loads(JSON_PATH.read_text(encoding="utf-8"))
+    assert isinstance(data, dict)
+    return {str(k): list(v) for k, v in data.items()}
 
-def is_probably_emoji(s: str) -> bool:
-    # Heuristic: string contains at least one non-ASCII codepoint or VS16
-    return any(ord(ch) > 0x7F for ch in s)
+def load_csv():
+    rows = []
+    with CSV_PATH.open(newline="", encoding="utf-8") as f:
+        reader = csv.DictReader(f)
+        for r in reader:
+            rows.append((r["word"], r["emoji1"], r["emoji2"]))
+    return rows
 
-def main():
-    ok = True
-    mapping = load_mapping(MAPPING)
-    bip39 = load_bip39(BIP39)
-    bip39_set = set(bip39)
-
-    # 1) Size & keys check
-    if len(mapping) != 2048:
-        print(f"[FAIL] mapping size != 2048 (got {len(mapping)})")
-        ok = False
-    else:
-        print("[OK] mapping contains 2048 entries")
-
-    map_keys = set(mapping.keys())
-    missing = sorted(bip39_set - map_keys)
-    extra = sorted(map_keys - bip39_set)
-    if missing:
-        print(f"[FAIL] {len(missing)} BIP39 words missing from mapping")
-        for w in missing[:20]:
-            print("   -", w)
-        ok = False
-    else:
-        print("[OK] all BIP39 words present")
-
-    if extra:
-        print(f"[FAIL] {len(extra)} non-standard words found in mapping")
-        for w in extra[:20]:
-            print("   +", w)
-        ok = False
-    else:
-        print("[OK] no extra/unofficial words found")
-
-    # 2) Pair structure + emoji sanity
-    bad_shape = []
-    bad_emoji = []
-    for w, pair in mapping.items():
-        if not isinstance(pair, list) or len(pair) != 2:
-            bad_shape.append((w, pair))
+def load_md():
+    lines = []
+    for raw in MD_PATH.read_text(encoding="utf-8").splitlines():
+        line = raw.strip()
+        if not line or "→" not in line:
             continue
-        e1, e2 = pair
-        if not (isinstance(e1, str) and isinstance(e2, str) and e1 and e2):
-            bad_shape.append((w, pair))
-            continue
-        if not (is_probably_emoji(e1) and is_probably_emoji(e2)):
-            bad_emoji.append((w, pair))
+        word, right = [p.strip() for p in line.split("→", 1)]
+        lines.append((word, right))
+    return lines
 
-    if bad_shape:
-        print(f"[FAIL] {len(bad_shape)} entries have invalid pair structure (need list of two non-empty strings)")
-        for w, p in bad_shape[:10]:
-            print("   *", w, "->", p)
-        ok = False
-    else:
-        print("[OK] all entries are lists of two strings")
+def test_json_has_2048_unique_words_and_pairs():
+    data = load_json()
+    assert len(data) == 2048, f"JSON words != 2048 ({len(data)})"
+    pairs = []
+    for w, pair in data.items():
+        assert isinstance(pair, list) and len(pair) == 2, f"{w} not a 2-emoji list"
+        assert all(isinstance(e, str) and e for e in pair), f"{w} has empty emoji"
+        pairs.append("".join(pair))
+    assert len(set(pairs)) == len(pairs), "Duplicate emoji pairs detected in JSON"
 
-    if bad_emoji:
-        print(f"[WARN] {len(bad_emoji)} entries may not contain emoji codepoints (heuristic)")
-        for w, p in bad_emoji[:10]:
-            print("   ?", w, "->", p)
-    else:
-        print("[OK] all pairs look like emoji (heuristic)")
+def test_csv_matches_json():
+    data = load_json()
+    csv_rows = load_csv()
+    assert len(csv_rows) == 2048, f"CSV rows != 2048 ({len(csv_rows)})"
+    json_set = {(w, v[0], v[1]) for w, v in data.items()}
+    csv_set  = set(csv_rows)
+    assert json_set == csv_set, "CSV content differs from JSON"
 
-    # 3) Uniqueness (order-sensitive)
-    joined = ["".join(mapping[w]) for w in bip39]
-    unique = set(joined)
-    if len(unique) != len(joined):
-        print(f"[FAIL] found duplicate emoji pairs (order-sensitive).")
-        # find collisions
-        from collections import defaultdict
-        rev = defaultdict(list)
-        for w in bip39:
-            rev["".join(mapping[w])].append(w)
-        for pair, words in rev.items():
-            if len(words) > 1:
-                print("   DUP:", pair, "=>", ", ".join(words))
-        ok = False
-    else:
-        print("[OK] all 2048 pairs are unique (order-sensitive)")
+def test_md_matches_json():
+    data = load_json()
+    md_rows = load_md()
+    assert len(md_rows) == 2048, f"MD rows != 2048 ({len(md_rows)})"
+    json_pairs = {w: "".join(v) for w, v in data.items()}
+    md_map = dict(md_rows)
+    assert set(md_map.keys()) == set(data.keys()), "MD word set differs from JSON"
+    for w, pair in json_pairs.items():
+        assert md_map[w] == pair, f"MD pair mismatch for {w}: {md_map[w]} != {pair}"
 
-    # 4) No empty/whitespace-only entries
-    whitespace_issues = [w for w, p in mapping.items() if any(not e.strip() for e in p)]
-    if whitespace_issues:
-        print(f"[FAIL] {len(whitespace_issues)} entries contain empty/whitespace-only emojis")
-        for w in whitespace_issues[:10]:
-            print("   *", w)
-        ok = False
-    else:
-        print("[OK] no empty/whitespace-only emoji entries")
-
-    print("\nRESULT:", "PASS ✅" if ok else "FAIL ❌")
-    return 0 if ok else 1
-
-if __name__ == "__main__":
-    raise SystemExit(main())
