@@ -69,7 +69,7 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
   Tight semantic ties: concrete nouns → objects, actions → action + clarifier, numbers/dates → calendar/number emojis.
 
 - **Open Source**  
-  Released under a permissive license for free use, modification, and integration.
+  Released under MIT license.
 
 ---
 
