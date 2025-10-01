@@ -171,7 +171,7 @@ This project is open for community review and discussion:
 
 ## 📖 License
 
-This project is open source under the **BSD 2-Clause License**.
+This project is open source under the **MIT License**.
 
 ---
 
