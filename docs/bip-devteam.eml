@@ -1,27 +1,29 @@
-From: EmojiSeed Team bip-devs@emojiseed.com
-To: Bitcoin Dev Mailing List
-Subject: [BIP Draft] Emoji Seed Mnemonics for Deterministic Keys
-Body:
-Hello all, I’d like to propose a new informational BIP: Emoji Seed Mnemonics for Deterministic Keys.
+Hello team, I would like to present for discussion a new informational BIP: Emoji Seed
+Mnemonics for Deterministic Keys.
 
-This addition specifies a deterministic mapping between the BIP-39 English wordlist (2048 words) and 2048 unique emojiset pairs.
+This smart addition specifies a deterministic mapping reference between BIP-39 English
+words (2048 words) and unique emoji sets (2048 sets).
 
 Motivation:
 Improves memorability and cross-lingual usability.
 Provides a language-independent, visual mnemonic format.
-Provides a standard data reference to make next-gen apps and seed masking devices.
+Provides a standard library reference for apps and reminder devices.
 Backwards-compatible: emoji mnemonics map directly to the existing BIP-39 English wordlist.
 
 Scope:
-Does not affect BIP-39 wordlist definitions.
+Does not change the BIP-39 wordlist.
 No changes to entropy, checksum, or seed derivation.
 Adds an optional, standard emoji mapping layer for new applications.
 
-Emojiset algorithm logic available at: https://emojiseed.com/
+Full text, logic, algorithm and reference files are available here:
+- https://emojiseed.com#readme
+- https://github.com/emojiseed/bip-emojiseed
 
-Feedback is most welcome! :)
+Feedback is welcome and cherished! :)
 
 Mahalo,
-Hakim
+Hakim 
+
+GH: @ovrdos
 hakim@emojiseed.com
 
