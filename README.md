@@ -154,7 +154,7 @@ map to: 🌌🌌, 🐯🐯, 🔥💨 , ⏰❗, 📖📖
 
 - ✅ Initial mapping complete  
 - ✅ Normalization & validation scripts finished  
-- ⚠️ BIP draft pending review by mailing list  
+- ✅ BIP draft pending review by mailing list  
 - 📣 Community input required for refinements  
 
 ---
