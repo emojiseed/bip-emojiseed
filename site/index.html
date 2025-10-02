@@ -80,7 +80,7 @@
 
   <script>
     const EXPECTED_ROWS = 2048;
-    const PER_CARD = 24;
+    const PER_CARD = 64;
 
     const cardsEl = document.getElementById('cards');
     const fileEl  = document.getElementById('file');
@@ -166,14 +166,13 @@
     function cell({index, word, emoji1, emoji2}){
       const el = document.createElement('div');
       el.className = 'cell';
-      const idx = document.createElement('div'); idx.className = 'index'; idx.textContent = index;
+      //const idx = document.createElement('div'); idx.className = 'index'; idx.textContent = index;
       const pair = document.createElement('div'); pair.className='pair'; pair.textContent = `${emoji1} ${emoji2}`;
       const w = document.createElement('div'); w.className='word'; w.textContent = word;
-      el.append(idx, pair, w);
+      el.append(pair, w);
       return el;
     }
 
-    // Auto-load demo so you see layout immediately (remove this if you prefer empty on load)
     btnDemo.click();
   </script>
 </body>

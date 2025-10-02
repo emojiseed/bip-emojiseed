@@ -22,6 +22,9 @@ cat words.csv | cut -f2,3 -d, | sed 's/,//g' | tail -n +2 > emoji.txt
 #refresh md
 cat words.csv | sed 's/,/→/' | sed 's/,//' | tail -n +2 > mapping.md
 
+#refresh json
+brew install miller
+mlr --icsv --ojson cat ../extras/word-emoji-mapping.csv > ../extras/word-emoji-mapping.json
 
 mv emoji.txt ../emoji.txt
 mv mapping.md ../extras/word-emoji-mapping.md
