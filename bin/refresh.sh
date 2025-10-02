@@ -23,8 +23,8 @@ cat words.csv | cut -f2,3 -d, | sed 's/,//g' > emoji.txt
 cat words.csv | sed 's/,/→/' | sed 's/,//' | tail -n +2 > mapping.md
 
 
-mv emoji.txt ../
-mv mapping.md ../extras/
+mv emoji.txt ../emoji.txt
+mv mapping.md ../extras/word-emoji-mapping.md
 rm words.csv
 
 
