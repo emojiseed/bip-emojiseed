@@ -1,0 +1,23 @@
+#!/usr/bin/env bash
+# ------------------------------------------------------------
+# EmojiSeed Mapping Extractor
+# Downloads the BIP-EmojiSeed CSV, extracts emoji pairs, and
+# saves them into word-emoji-mappings.md
+# ------------------------------------------------------------
+
+set -euo pipefail
+
+# word-emoji-mapping.csv is actually the record of truth shh
+# push the latest before refreshing
+
+git add ../extras/word-emoji-mapping.csv
+git commit -m "refreshing emoji set list"
+git push 
+
+curl -sSL https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/extras/word-emoji-mapping.csv > words.csv
+
+#refresh emoji list
+cat words.csv | cut -f2,3 -d, | sed 's/,//g' > emoji.txt
+
+#refresh md
+cat words.csv | sed 's/,/→/' | sed 's/,//' > mapping.md
