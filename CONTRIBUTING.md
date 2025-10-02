@@ -9,7 +9,6 @@ We welcome pull requests, issues, and suggestions.
 - Files to update:
 ```
    - extras/word-emoji-mapping.csv
-   - extras/word-emoji-mapping.json
    - extras/word-emoji-mapping.md
    - emoji.txt
 ```
