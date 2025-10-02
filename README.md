@@ -193,5 +193,5 @@ Want to propose better mappings?
 
 ## Copyright
 
-© 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/)
+© 2025 EmojiSeed - [www.emojiseed.com](https://emojiseed.com/#readme)
 
