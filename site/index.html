@@ -6,14 +6,14 @@
   <title>EmojiSeed</title>
   <style>
     :root{
-      --bg:#bababa;           /* page background */
-      --card:#ffffff;         /* card background */
-      --ink:#111;             /* text color */
-      --grid-gap: 0px;       /* space between cells */
-      --card-pad: 12px;       /* inner padding of card */
-      --card-gap: 26px;       /* gap between cards */
+      --bg:#bababa;
+      --card:#ffffff;
+      --ink:#111;
+      --grid-gap: 0px;
+      --card-pad: 12px;
+      --card-gap: 26px;
       --emoji-size: clamp(8px, 2vw, 12px);
-      --word-size: 6px;      /* "smallest legible" default; adjust if needed */
+      --word-size: 6px;
       --index-size: 9px;
       --radius: 14px;
       --shadow: 0 2px 12px rgba(0,0,0,.12);
@@ -49,15 +49,12 @@
     .pair{ font-size: var(--emoji-size); line-height:1; }
     .word{ font-size: var(--word-size); line-height:1.05; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100%; }
     .index{ font-size: var(--index-size); opacity:.55; align-self:flex-start; }
-
-    /* Print styles: force page breaks between cards when printing */
     @media print{
       :root{ --emoji-size: 18px; --word-size: 8px; --grid-gap: 6px; --card-pad: 10px; --card-gap: 0; }
       body{ background:#fff; }
       main{ display:block; }
       .card{ break-after: page; box-shadow:none; border:1px solid #ddd; margin-bottom: 8mm; }
     }
-    /* Helper button styles */
     button, label.button{ cursor:pointer; border:1px solid #0000; background:#fff; padding:8px 10px; border-radius:10px; box-shadow: var(--shadow); font-size:12px; }
     button:hover, label.button:hover{ box-shadow: 0 3px 14px rgba(0,0,0,.18); }
     input[type="file"]{ display:none; }
@@ -71,6 +68,7 @@
         Load CSV mapping
         <input id="file" type="file" accept=".csv,.txt" />
       </label>
+      <button id="load-json" title="Load ../resources/word-emoji-mapping.json">Load JSON mapping</button>
       <button id="use-demo" title="Fill with placeholder data if you just want to preview the layout">Use demo data</button>
       <button id="print">Print</button>
     </div>
@@ -86,7 +84,9 @@
     const fileEl  = document.getElementById('file');
     const btnDemo = document.getElementById('use-demo');
     const btnPrint= document.getElementById('print');
+    const btnJSON = document.getElementById('load-json');
 
+    // --- CSV loader (unchanged) ---
     fileEl.addEventListener('change', async (e) => {
       const file = e.target.files?.[0];
       if (!file) return;
@@ -96,8 +96,23 @@
       render(data);
     });
 
+    // --- NEW: JSON loader from ../resources/word-emoji-mapping.json ---
+    btnJSON.addEventListener('click', async () => {
+      try {
+        const res = await fetch('../resources/word-emoji-mapping.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        const rows = fromJSON(json);    // convert to [{index,word,emoji1,emoji2}, ...]
+        const data = normalize(rows);
+        render(data);
+      } catch (err) {
+        console.error('Failed to load JSON:', err);
+        alert('Failed to load ../resources/word-emoji-mapping.json');
+      }
+    });
+
+    // --- Demo data ---
     btnDemo.addEventListener('click', () => {
-      // Build demo data (placeholders) in correct shape
       const demo = Array.from({length: EXPECTED_ROWS}, (_, i) => ({
         index: i+1,
         word: `word${i+1}`,
@@ -109,8 +124,11 @@
 
     btnPrint.addEventListener('click', () => window.print());
 
+    // Placeholder (not used now)
+    function getWord(index){ return `word${index}`; }
+
+    // --- CSV parser ---
     function parseCSV(text){
-      // Very small CSV parser (no quotes/commas-inside-fields edge cases). For full coverage, swap in PapaParse.
       const lines = text.split(/\r?\n/).filter(Boolean);
       if (lines.length === 0) return [];
       const headers = lines[0].split(',').map(h => h.trim().toLowerCase());
@@ -133,9 +151,42 @@
       }).filter(r => r.index && r.word && r.emoji1 && r.emoji2);
     }
 
+    // --- JSON normalizer ---
+    // Accepts either:
+    //  A) ARRAY OF OBJECTS: [{word,emoji1,emoji2,(index?)}...]
+    //  B) DICTIONARY: { "word": ["emoji1","emoji2"], ... }
+    function fromJSON(input){
+      // Case A: array
+      if (Array.isArray(input)) {
+        // Ensure shape and add/fix index if missing
+        return input
+          .map((row, i) => ({
+            index: Number(row.index ?? (i + 1)),
+            word: String(row.word ?? '').trim(),
+            emoji1: String(row.emoji1 ?? (row.emojis?.[0] ?? '')).trim(),
+            emoji2: String(row.emoji2 ?? (row.emojis?.[1] ?? '')).trim(),
+          }))
+          .filter(r => r.index && r.word && r.emoji1 && r.emoji2);
+      }
+      // Case B: object/dict
+      const rows = [];
+      let i = 0;
+      for (const [word, arr] of Object.entries(input)) {
+        const e1 = Array.isArray(arr) ? (arr[0] ?? '') : '';
+        const e2 = Array.isArray(arr) ? (arr[1] ?? '') : '';
+        rows.push({
+          index: ++i,                 // best-effort ordering if index not present
+          word: String(word).trim(),
+          emoji1: String(e1).trim(),
+          emoji2: String(e2).trim(),
+        });
+      }
+      return rows.filter(r => r.index && r.word && r.emoji1 && r.emoji2);
+    }
+
+    // --- Canonical list builder ---
     function normalize(rows){
-      // Ensure exactly 2048 items sorted by index; fill gaps if any (kept empty if missing)
-      const map = new Map(rows.map(r => [r.index, r]));
+      const map = new Map(rows.map(r => [Number(r.index), r]));
       const list = [];
       for(let i=1;i<=EXPECTED_ROWS;i++){
         list.push(map.get(i) || { index:i, word:`word${i}`, emoji1:'❓', emoji2:'❓' });
@@ -143,6 +194,7 @@
       return list;
     }
 
+    // --- Renderer ---
     function render(data){
       cardsEl.innerHTML = '';
       const totalCards = Math.ceil(data.length / PER_CARD);
@@ -166,13 +218,13 @@
     function cell({index, word, emoji1, emoji2}){
       const el = document.createElement('div');
       el.className = 'cell';
-      //const idx = document.createElement('div'); idx.className = 'index'; idx.textContent = index;
       const pair = document.createElement('div'); pair.className='pair'; pair.textContent = `${emoji1} ${emoji2}`;
       const w = document.createElement('div'); w.className='word'; w.textContent = word;
       el.append(pair, w);
       return el;
     }
 
+    // Load demo on first visit; you can click "Load JSON mapping" to replace it
     btnDemo.click();
   </script>
 </body>
