@@ -17,7 +17,7 @@ set -euo pipefail
 curl -sSL https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/extras/word-emoji-mapping.csv > words.csv
 
 #refresh emoji list
-cat words.csv | cut -f2,3 -d, | sed 's/,//g' > emoji.txt
+cat words.csv | cut -f2,3 -d, | sed 's/,//g' | tail -n +2 > emoji.txt
 
 #refresh md
 cat words.csv | sed 's/,/→/' | sed 's/,//' | tail -n +2 > mapping.md
