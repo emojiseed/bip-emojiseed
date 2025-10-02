@@ -32,13 +32,13 @@ admit,🚪,✅
 adult,👩,👨
 advance,⏩,📈
 advice,💬,🤝
-aerobic,🏃‍♀,💨
+aerobic,🏃,💨
 affair,💌,🤫
 afford,💵,✅
 afraid,😨,😱
 again,🔁,♻
 age,🎂,📅
-agent,🕵‍♂,💼
+agent,🕵,💼
 agree,🤝,✅
 ahead,⬆,🚶
 aim,🎯,🏃
@@ -103,7 +103,7 @@ arrive,✈,📍
 arrow,➡,🏹
 art,🎨,🖌
 artefact,🏺,📜
-artist,👩‍🎨,🎤
+artist,👩,🎤
 artwork,🖼,🖌
 ask,❓,💬
 aspect,🔍,📐
@@ -111,13 +111,13 @@ assault,👊,⚔
 asset,💰,🏃
 assist,🤝,⚽
 assume,🤔,📜
-asthma,😮‍💨,🫁
-athlete,🏃‍♂,🏅
-atom,⚛,⚛
-attack,⚔,💥
+asthma,😮,🫁
+athlete,🏃,🏅
+atom,⚛️,⚛️
+attack,⚔️,💥
 attend,🎓,🏫
 attitude,🙂,👍
-attract,🧲,❤
+attract,🧲,❤️
 auction,🔨,💵
 audit,📊,🔍
 august,☀️,🏃
@@ -176,7 +176,7 @@ between,↔,📍
 beyond,🚀,🌌
 bicycle,🚲,🚲
 bid,🏷,✋
-bike,🚴‍♂,🚴‍♂
+bike,🚴,🚴
 bind,🪢,📚
 biology,🧬,📚
 bird,🐦,🐦
@@ -198,7 +198,7 @@ blur,🌫,🔍
 blush,😊,⚙
 board,🧱,📋
 boat,🚤,🚤
-body,🧍‍♂,🫀
+body,🧍,🫀
 boil,🔥,💧
 bomb,💣,💣
 bone,🦴,🦴
@@ -232,10 +232,10 @@ bronze,🟤,🏅
 broom,🧹,🧹
 brother,👦,⚙
 brown,🟫,🟫
-brush,🖌,🧹
+brush,🪥,🪥
 bubble,🫧,🫧
 buddy,👬,🤝
-budget,💵,🏃
+budget,💵,📊
 buffalo,🦬,🦬
 build,🧱,🔧
 bulb,💡,💡
@@ -302,7 +302,7 @@ century,📅,💯
 cereal,🥣,🌾
 certain,✅,📌
 chair,🪑,🏃
-chalk,✏,🧱
+chalk,🧑‍🏫,✏️
 champion,🏆,👑
 change,🔄,🧩
 chaos,🌪,🔀
@@ -313,7 +313,7 @@ chat,💬,💬
 cheap,🏷,⬇
 check,✅,📋
 cheese,🧀,🧀
-chef,👨‍🍳,👩‍🍳
+chef,🍳,👩
 cherry,🍒,🍒
 chest,🧳,🧰
 chicken,🐔,🐔
@@ -343,7 +343,7 @@ clever,🧠,🏃
 click,🖱,🖱
 client,🧑,💼
 cliff,🏔,⬇
-climb,🧗‍♂,⬆
+climb,🧗,⬆
 clinic,🏥,🩺
 clip,🧷,📎
 clock,⏰,⏰
@@ -392,9 +392,9 @@ cost,💵,💲
 cotton,🧶,🌾
 couch,🛋,🛋
 country,🗺,🏴
-couple,👩‍❤‍👨,👥
+couple,👥,✌️
 course,🛣,📚
-cousin,👨‍👩‍👧‍👦,👦
+cousin,🧑‍🧑‍🧒‍,👦
 cover,🛡,📄
 coyote,🐺,🏜
 crack,💥,⚙
@@ -416,8 +416,8 @@ crisp,❄,🍎
 critic,🧑,📝
 crop,🌾,✂
 cross,➕,✝
-crouch,🧍‍♂,⬇
-crowd,👥,👥
+crouch,🛋️,🛋️
+crowd,🏟️,👥
 crucial,📌,❗
 cruel,😡,💔
 cruise,🚢,🌊
@@ -478,7 +478,7 @@ derive,📖,➡
 describe,✍,🖼
 desert,🏜,🌞
 design,📐,🎨
-desk,🧑‍💻,🪑
+desk,🖥,🪑
 despair,😭,🌫
 destroy,💥,🧱
 detail,📄,🔍
@@ -513,7 +513,7 @@ divert,🔀,↩
 divide,➗,📊
 divorce,✂,💍
 dizzy,🌀,😵
-doctor,🧑‍⚕,🩺
+doctor,👩‍,🩺
 document,📄,📄
 dog,🐶,🐶
 doll,🪆,🪆
@@ -546,9 +546,9 @@ dumb,🤐,🤔
 dune,🏜,⛰
 during,⏳,📅
 dust,🧹,🌫
-dutch,🧀,🇳🇱
+dutch,🧀,🇳
 duty,📜,🛡
-dwarf,🧙‍♂,🪓
+dwarf,🧙,🪓
 dynamic,🔄,⚡
 eager,🤩,🔥
 eagle,🦅,🦅
@@ -563,7 +563,7 @@ ecology,🌱,🌍
 economy,💵,📊
 edge,📐,⛰
 edit,✏,💻
-educate,🎓,🧑‍🏫
+educate,🎓,🏫
 effort,💪,🔥
 egg,🥚,🥚
 eight,🎱,🕗
@@ -582,7 +582,7 @@ embody,🧍,💡
 embrace,🤗,❤
 emerge,🌱,⬆
 emotion,❤,😭
-employ,💼,👨‍💼
+employ,💼,👨
 empower,⚪,🕳
 empty,✅,🔓
 enable,👥,⚡
@@ -604,7 +604,7 @@ enroll,🏫,📝
 ensure,✅,🔒
 enter,🚪,➡
 entire,🌐,🏃
-entry,🚪,🚶‍♂
+entry,🚪,🚶
 envelope,✉,🏃
 episode,🎬,📺
 equal,⚖,⚖
@@ -615,7 +615,7 @@ erode,🌊,🪨
 erosion,🌧,⛰
 error,❌,💻
 erupt,🌋,🔥
-escape,🏃‍♂,🚪
+escape,🏃,🚪
 essay,📄,🖊
 essence,🌸,💨
 estate,🏡,📜
@@ -632,8 +632,8 @@ exchange,🔄,⚙
 excite,🤩,⚡
 exclude,🚫,🚪
 excuse,🙏,📝
-execute,⚔,🧑‍⚖
-exercise,🏃‍♂,💪
+execute,🤝,👔
+exercise,🏋️,🏃
 exhaust,😩,💨
 exhibit,🖼,🏃
 exile,🚷,🌍
@@ -659,11 +659,11 @@ faith,✝,🙏
 fall,🍂,⬇
 false,❌,🤥
 fame,🌟,📣
-family,👨‍👩‍👧‍👦,🏠
+family,🏠,👬
 famous,🌟,📸
 fan,🌀,🪭
 fancy,👑,🎀
-fantasy,🧚‍♀,🐉
+fantasy,🧚,🐉
 farm,🚜,🌾
 fashion,👗,🏃
 fat,🥓,🏃
@@ -674,7 +674,7 @@ fault,⚡,⛰
 favorite,⭐,❤
 feature,🔍,📱
 february,❄,💘
-federal,🏛,🇺🇸
+federal,🏛,🏛
 fee,💵,🧾
 feed,🍽,🐄
 feel,🤲,💓
@@ -702,14 +702,14 @@ first,🥇,🏆
 fiscal,💰,📊
 fish,🐟,🐟
 fit,🧩,🏃
-fitness,🏋‍♂,💦
+fitness,🏋,💦
 fix,🛠,🔧
 flag,🚩,🚩
 flame,🔥,💨
 flash,⚡,📸
 flat,➖,🏠
 flavor,🍦,🍓
-flee,🏃‍♂,💨
+flee,🏃,💨
 flight,🛫,🛬
 flip,🔄,📖
 float,🛟,🌊
@@ -831,7 +831,7 @@ guide,🧭,📖
 guilt,😔,⚖
 guitar,🎸,🎸
 gun,🔫,🔫
-gym,🏋‍♂,🏋
+gym,🏋,🏋
 habit,🔁,📆
 hair,✂,🧴
 half,🌓,➗
@@ -848,7 +848,7 @@ have,🤲,📦
 hawk,🦅,👁
 hazard,☣,⚠
 head,🧑,🧠
-health,❤‍🩹,✅
+health,❤,✅
 heart,❤,❤
 heavy,🏋,📦
 hedgehog,🦔,🦔
@@ -962,11 +962,11 @@ jewel,💎,💎
 job,💼,💼
 join,🤝,➕
 joke,😂,🏃
-journey,🚶‍♂,🗺
+journey,🚶,🗺
 joy,😀,🎉
-judge,👨‍⚖,⚖
+judge,👨,⚖
 juice,🥤,🍊
-jump,🤸‍♂,⬆
+jump,🤸,⬆
 jungle,🌴,🦍
 junior,👶,🎓
 junk,🗑,🪙
@@ -993,7 +993,7 @@ knock,👊,🚪
 know,🧠,✅
 lab,🧪,🔬
 label,🏷,🏃
-labor,👷‍♂,⚒
+labor,👷,⚒
 ladder,🪜,🪜
 lady,👩,👒
 lake,🌊,🏞
@@ -1011,7 +1011,7 @@ lawn,🌱,✂
 lawsuit,⚖,🧾
 layer,📚,➖
 lazy,😴,🛋
-leader,🧑‍✈,👑
+leader,🎯,🥇
 leaf,🍃,🍃
 learn,📚,🏃
 leave,🚪,👋
@@ -1026,7 +1026,7 @@ lend,💵,⚙
 length,📏,↔
 lens,🔍,📸
 leopard,🐆,🐆
-lesson,📖,🧑‍🏫
+lesson,📝,📚
 letter,✉,✉
 level,📊,📏
 liar,🤥,🙊
@@ -1052,7 +1052,7 @@ lobster,🦞,🦞
 local,🏘,📍
 lock,🔒,🔒
 logic,📍,⚙
-lonely,😔,🚶‍♂
+lonely,😔,🚶
 long,📏,✍
 loop,👀,👆
 lottery,🎟,💰
@@ -1071,21 +1071,21 @@ machine,⚙,🤖
 mad,😡,🤯
 magic,✨,🎩
 magnet,🧲,🧲
-maid,👩‍🍳,🧹
+maid,🧺,🧹
 mail,📬,✉
 main,📌,🏠
 major,🎖,🏛
 make,🛠,🎨
 mammal,🚹,👨
 man,🏬,🛍
-manage,🧑‍💼,📊
+manage,🧑,📊
 mandate,📜,🏃
 mango,🥭,🥭
 mansion,🏰,🏠
 manual,📖,🛠
 maple,🍁,🌳
 marble,🏛,⚪
-march,🚶‍♂,📅
+march,🚶,📅
 margin,📉,📐
 marine,⚓,🐬
 market,🛒,📈
@@ -1104,7 +1104,7 @@ meadow,🌾,🌼
 mean,➖,😠
 measure,📏,⚖
 meat,🍖,🥩
-mechanic,🧑‍🔧,🔧
+mechanic,🚗,🔧
 medal,🥇,🏅
 media,📺,🎙
 melody,🎼,🎶
@@ -1139,9 +1139,9 @@ mix,🔀,🥣
 mixed,⚖,🔄
 mixture,🧪,🥛
 mobile,📱,📱
-model,🧍‍♀,🏆
+model,🧍,🏆
 modify,✏,🛠
-mom,👩‍🍼,❤
+mom,👩,❤
 moment,⏳,📸
 monitor,🖥,👀
 monkey,🐒,🐒
@@ -1149,15 +1149,15 @@ monster,👾,👾
 month,📅,🗓
 moon,🌙,🌙
 moral,🏙,💡
-more,🙇‍♂,🙂
+more,🙇,📈
 morning,🌅,☕
 mosquito,🦟,🦟
-mother,👩,⚙
-motion,🏃‍♂,🔄
+mother,👩,🤰
+motion,🏃,🔄
 motor,⚙,🚗
 mountain,🏔,🏔
 mouse,🐭,🖱
-move,🚶‍♂,➡
+move,🚶,➡
 movie,🎬,🎥
 much,📈,📦
 muffin,🧁,🥮
@@ -1170,8 +1170,8 @@ music,🎵,🎼
 must,✅,✍
 mutual,🤝,↔
 myself,🙋🏻,🙋🏻
-mystery,🕵‍♂,❓
-myth,🧙‍♂,🐉
+mystery,🕵,❓
+myth,🧙,🐉
 naive,🙂,🍼
 name,🏷,🧾
 napkin,🤧,🤧
@@ -1211,10 +1211,10 @@ novel,📚,✍
 now,⏰,✅
 nuclear,☢,🌋
 number,🔢,🔢
-nurse,👩‍⚕,🩺
+nurse,👩,🩺
 nut,🌰,🥜
 oak,🌳,🏃
-obey,🙇‍♂,✅
+obey,🙇,✅
 object,🎯,📦
 oblige,🤝,⚙
 obscure,🌫,🙈
@@ -1287,7 +1287,7 @@ party,🎉,🍾
 pass,🎫,✅
 patch,🩹,🧵
 path,🛣,➡
-patient,🏥,🧑‍⚕
+patient,🏥,🧑
 patrol,🚓,👮
 pattern,🪡,🧵
 pause,⏸,✋
@@ -1296,7 +1296,7 @@ payment,💵,🤲
 peace,☮,🕊
 peanut,🥜,🥜
 pear,🍐,🍐
-peasant,👨‍🌾,🌾
+peasant,👨,🌾
 pelican,🦩,🐟
 pen,🖊,🖊
 penalty,🚫,⚽
@@ -1310,7 +1310,7 @@ pet,🐕,🐾
 phone,📱,📞
 photo,📸,📸
 phrase,💬,📖
-physical,🏋‍♂,🫀
+physical,🏋,🫀
 piano,🎹,🎹
 picnic,🧺,🍇
 picture,🖼,🖼
@@ -1318,7 +1318,7 @@ piece,🧩,🧩
 pig,🐖,🐖
 pigeon,📚,🗑
 pill,💊,🏃
-pilot,👨‍✈,✈
+pilot,👨,✈
 pink,🩷,🌸
 pioneer,🧭,🚶
 pipe,🪈,💨
@@ -1338,7 +1338,7 @@ plunge,❓,🤷
 poem,⏰,📍
 poet,🧑,📜
 point,👉,🏃
-polar,🥶,🐻‍❄
+polar,🥶,🐻
 pole,🪜,🧊
 police,🚓,🏃
 pond,💦,🌊
@@ -1426,7 +1426,7 @@ rapid,⚡,🏃
 rare,🦄,✨
 rate,⭐,📊
 rather,🤔,➡
-raven,🐦‍⬛,🐦‍⬛
+raven,🐦,⚫️
 raw,🥩,❌
 razor,🪒,🪒
 ready,✅,⏱
@@ -1449,7 +1449,7 @@ regular,📏,📆
 reject,❌,📤
 relax,🧘,🌴
 release,🕊,🔓
-relief,😮‍💨,✅
+relief,😮,✅
 rely,🤝,🔒
 remain,🧍,⏸
 remember,🧠,🔖
@@ -1523,10 +1523,10 @@ safe,🛡,✅
 sail,⛵,🌬
 salad,🥗,🥗
 salmon,🐟,🏞
-salon,💇‍♀,✂
+salon,💇,✂
 salt,🧂,🧂
 salute,🫡,🎖
-same,🔁,↔
+same,🫆,🫆
 sample,🧪,📊
 sand,🏖,🟡
 satisfy,😌,🏃
@@ -1563,7 +1563,7 @@ seek,👀,🔍
 segment,🧩,📐
 select,✅,🖱
 sell,💵,📉
-seminar,🧑‍🏫,🎤
+seminar,🧑,🎤
 senior,👴,🎓
 sense,👃,🧠
 sentence,✍,🔤
@@ -1593,7 +1593,7 @@ short,📏,⬇
 shoulder,💪,👕
 shove,🤜,➡
 shrimp,🍤,🍤
-shrug,🤷‍♂,😐
+shrug,🤷,😐
 shuffle,🔀,🎵
 shy,🙈,🌸
 sibling,👧,👦
@@ -1606,7 +1606,7 @@ silent,🤫,🔇
 silk,🥻,🧵
 silly,🤪,🎈
 silver,🥈,💿
-similar,🧍‍♂,🧍‍♂
+similar,👯,🫆
 simple,✅,📄
 since,⏳,➡
 sing,🎤,🎵
@@ -1689,13 +1689,13 @@ spot,📍,🔎
 spray,💦,🧴
 spread,➡,➡
 spring,🌸,🌱
-spy,🕵‍♂,🔍
+spy,🕵,🔍
 square,⬜,📐
 squeeze,✊,🍋
 squirrel,🐿,🌰
 stable,🐎,🏚
 stadium,🏟,🎫
-staff,🧑‍💼,👥
+staff,💼,👥
 stage,🎭,🎤
 stairs,🪜,↗
 stamp,🖋,📮
@@ -1724,7 +1724,7 @@ strong,💪,🏋
 struggle,🥵,🧗
 student,🎓,📚
 stuff,📦,📦
-stumble,🤦‍♂,🚧
+stumble,🤦,🚧
 style,👗,✨
 subject,📝,📚
 submit,📤,✅
@@ -1758,7 +1758,7 @@ swarm,🐝,🐝
 swear,🤞,📜
 sweet,🍰,😊
 swift,🐦,💨
-swim,🏊‍♂,🌊
+swim,🏊,🌊
 swing,🪀,↔
 switch,🔀,↔
 sword,⚔,⚔
@@ -1779,7 +1779,7 @@ task,📋,✅
 taste,👅,🍴
 tattoo,🖋,🖤
 taxi,🚕,🚕
-teach,👩‍🏫,📚
+teach,👩,📚
 team,👥,⚽
 tell,🗣,➡
 ten,🔟,🔟
@@ -1801,7 +1801,7 @@ this,👉,⚙
 thought,💭,💭
 three,🕒,🧮
 thrive,🌱,💪
-throw,🤾‍♂,➡
+throw,🤾,⚾️
 thumb,👍,👍
 thunder,🌩,⚡
 ticket,🎟,🎟
@@ -1836,7 +1836,7 @@ topple,🪆,⬇
 torch,🔦,🔥
 tornado,🌪,🌪
 tortoise,🐢,🐢
-toss,🤾‍♀,➡
+toss,🗞️,🗑️
 total,🧮,✅
 tourist,🎒,📸
 toward,➡,🏃
@@ -1873,7 +1873,7 @@ truth,⚖,📖
 try,🏃‍♂,➡
 tube,🧪,🚇
 tuition,🎓,💵
-tumble,🤸‍♂,⬇
+tumble,🤸,⬇
 tuna,🐟,🍣
 tunnel,🚇,🕳
 turkey,🦃,🦃
@@ -1891,7 +1891,7 @@ ugly,🤢,🚫
 umbrella,☂,☂
 unable,🚫,💪
 unaware,🙈,❓
-uncle,👨‍🦳,👶
+uncle,👨,👶
 uncover,🔓,🕵
 under,⬇,📍
 undo,⬅,❌
@@ -1936,7 +1936,7 @@ vast,🌌,🏃
 vault,🏦,🔒
 vehicle,🚗,🚗
 velvet,🧵,🎀
-vendor,🧑‍💼,🏪
+vendor,🧑,🏪
 venture,🚀,💼
 venue,🎪,🏟
 verb,✍,🏃
@@ -1971,7 +1971,7 @@ voyage,🚢,⚙
 wage,💵,💼
 wagon,🚙,🛞
 wait,⏳,🛑
-walk,🚶‍♂,👣
+walk,🚶,👣
 wall,🧱,✍
 walnut,🌰,🌰
 want,🙏,💭
