@@ -56,7 +56,7 @@ index,word,emoji1,emoji2
 55,almost,⏳,✍
 56,alone,👤,🌙
 57,alpha,🔠,🅰
-58,already,✅,⏰
+58,already,⏰,✅
 59,also,➕,🤝
 60,alter,🔄,🎭
 61,always,🔁,♾
@@ -1208,7 +1208,7 @@ index,word,emoji1,emoji2
 1207,nothing,🚫,⚪
 1208,notice,👀,📜
 1209,novel,📚,✍
-1210,now,⏰,✅
+1210,now,✅,⏰
 1211,nuclear,☢,🌋
 1212,number,🔢,🔢
 1213,nurse,👩,🩻
