@@ -10,9 +10,9 @@ set -euo pipefail
 # word-emoji-mapping.csv is actually the record of truth shh
 # push the latest before refreshing
 
-git add ../extras/word-emoji-mapping.csv
-git commit -m "refreshing emoji set list"
-git push 
+#git add ../extras/word-emoji-mapping.csv
+#git commit -m "refreshing emoji set list"
+#git push 
 
 curl -sSL https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/extras/word-emoji-mapping.csv > words.csv
 
@@ -20,4 +20,14 @@ curl -sSL https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/extras/
 cat words.csv | cut -f2,3 -d, | sed 's/,//g' > emoji.txt
 
 #refresh md
-cat words.csv | sed 's/,/→/' | sed 's/,//' > mapping.md
+cat words.csv | sed 's/,/→/' | sed 's/,//' | tail -n +2 > mapping.md
+
+
+mv emoji.txt ../
+mv mapping.md ../extras/
+rm words.csv
+
+
+
+echo "✅ Done! Generated emoji.txt and word-emoji-mapping.md from word-emoji-mapping.csv"
+# ------------------------------------------------------------

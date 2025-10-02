@@ -31,7 +31,7 @@ admit→🚪✅
 adult→👩👨
 advance→⏩📈
 advice→💬🤝
-aerobic→🏃💨
+aerobic→🤸🤸
 affair→💌🤫
 afford→💵✅
 afraid→😨😱
@@ -114,7 +114,7 @@ asthma→😮🫁
 athlete→🏃🏅
 atom→⚛️⚛️
 attack→⚔️💥
-attend→🎓🏫
+attend→✋🏫
 attitude→🙂👍
 attract→🧲❤️
 auction→🔨💵
@@ -559,7 +559,7 @@ east→🧭➡
 easy→😌✅
 echo→📢🔊
 ecology→🌱🌍
-economy→💵📊
+economy→📈📊
 edge→📐⛰
 edit→✏💻
 educate→🎓🏫
@@ -673,7 +673,7 @@ fault→⚡⛰
 favorite→⭐❤
 feature→🔍📱
 february→❄💘
-federal→🏛🏛
+federal→🏛🦅
 fee→💵🧾
 feed→🍽🐄
 feel→🤲💓
@@ -708,7 +708,7 @@ flame→🔥💨
 flash→⚡📸
 flat→➖🏠
 flavor→🍦🍓
-flee→🏃💨
+flee→🏃🚨
 flight→🛫🛬
 flip→🔄📖
 float→🛟🌊
@@ -939,7 +939,7 @@ inside→🏠➡
 inspire→✨💡
 install→📦⬇
 intact→🧩⚙
-interest→📈💬
+interest→📈💰
 into→👉➡
 invest→💰📈
 invite→✉🎉
@@ -1210,7 +1210,7 @@ novel→📚✍
 now→⏰✅
 nuclear→☢🌋
 number→🔢🔢
-nurse→👩🩺
+nurse→👩🩻
 nut→🌰🥜
 oak→🌳🏃
 obey→🙇✅
@@ -1725,7 +1725,7 @@ student→🎓📚
 stuff→📦📦
 stumble→🤦🚧
 style→👗✨
-subject→📝📚
+subject→📝📙
 submit→📤✅
 subway→🚇🚇
 success→🏆🏃
