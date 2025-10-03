@@ -1,3 +1,4 @@
+# .github/workflows/ci.yml
 name: EmojiSeed CI
 
 on:
@@ -6,27 +7,42 @@ on:
   pull_request:
     branches: [ "**" ]
 
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
 jobs:
   tests:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: ["3.9", "3.10", "3.11"]
+        node-version: [18, 20, 22]
     steps:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Set up Python ${{ matrix.python-version }}
-        uses: actions/setup-python@v5
+      - name: Setup Node ${{ matrix.node-version }}
+        uses: actions/setup-node@v4
         with:
-          python-version: ${{ matrix.python-version }}
+          node-version: ${{ matrix.node-version }}
+          cache: npm
+          cache-dependency-path: package-lock.json
 
       - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install pytest
+        run: npm ci || npm install
 
-      - name: Run tests
-        run: |
-          pytest -q
+      - name: Run tests (console)
+        run: node --test
+
+      - name: Run tests (JSON report)
+        run: node --test --reporter=json > test-results.json
+
+      - name: Upload test report
+        uses: actions/upload-artifact@v4
+        with:
+          name: test-results-${{ matrix.node-version }}
+          path: test-results.json
 
