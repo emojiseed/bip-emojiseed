@@ -12,7 +12,7 @@ index,word,emoji1,emoji2
 11,access,🔑,🚪
 12,accident,🚗,💥
 13,account,🏦,📊
-14,accuse,👆,⚖
+14,accuse,👉,⚖
 15,achieve,🏆,🎯
 16,acid,⚗,🧪
 17,acoustic,🎸,🎶
@@ -107,7 +107,7 @@ index,word,emoji1,emoji2
 106,artwork,🖼,🖌
 107,ask,❓,💬
 108,aspect,🔍,📐
-109,assault,👊,⚔
+109,assault,👊,💥
 110,asset,💰,🏦
 111,assist,🤝,⚽
 112,assume,🤔,📜
@@ -123,11 +123,11 @@ index,word,emoji1,emoji2
 122,august,🍂,🍁
 123,aunt,👩,👶
 124,author,✍,📖
-125,auto,🚗,⚙
+125,auto,🚗,🚗
 126,autumn,🍂,🍁
-127,average,📊,
+127,average,📊,🧮
 128,avocado,🥑,🥑
-129,avoid,🚫,↩
+129,avoid,🚫,🚫
 130,awake,⏰,🙋
 131,aware,👀,💡
 132,away,➡,🚪
@@ -143,7 +143,7 @@ index,word,emoji1,emoji2
 142,balance,🤸,⚖️
 143,balcony,🏠,🪟
 144,ball,⚽,⚽
-145,bamboo,🎋,🌱
+145,bamboo,🎋,🎋
 146,banana,🍌,🍌
 147,banner,🚩,🧾
 148,bar,🍸,🧱
@@ -155,9 +155,9 @@ index,word,emoji1,emoji2
 154,basket,🧺,📦
 155,battle,⚔,🏰
 156,beach,🏖,🏖
-157,bean,🌱,🫘
+157,bean,🫘,🫘
 158,beauty,🌸,🌟
-159,because,📜,➡
+159,because,🧠,🔗
 160,become,🐛,🦋
 161,beef,🥩,🥩
 162,before,⏮,📅
@@ -584,7 +584,7 @@ index,word,emoji1,emoji2
 583,emotion,❤,😭
 584,employ,💼,👨
 585,empower,⚪,🕳
-586,empty,🫙,🫙
+586,empty,🪹,🪹
 587,enable,👥,⚡
 588,enact,👍,💬
 589,end,🛑,🏁
@@ -607,7 +607,7 @@ index,word,emoji1,emoji2
 606,entry,🚪,🚶
 607,envelope,✉️,✉️
 608,episode,🎬,📺
-609,equal,⚖,⚖
+609,equal,🟰,🟰
 610,equip,🧰,⚙
 611,era,🕰,🏛
 612,erase,🩹,✏
@@ -652,7 +652,7 @@ index,word,emoji1,emoji2
 651,eyebrow,👁,〰
 652,fabric,🧵,🪡
 653,face,🙂,🙂
-654,faculty,🧑‍💼,🏫
+654,faculty,🧠,🏛️
 655,fade,🌫,⬇
 656,faint,😵,💫
 657,faith,✝,🙏
@@ -761,20 +761,20 @@ index,word,emoji1,emoji2
 760,galaxy,🌌,✨
 761,gallery,🖼,🏛
 762,game,🎮,🎲
-763,gap,➖,📏
-764,garage,🚗,🏠
+763,gap,🌉,🕳️M
+764,garage,🏠,🚙
 765,garbage,🗑,🚮
-766,garden,🌱,🌸
+766,garden,🍅,🌸
 767,garlic,🧄,🧄
 768,garment,👕,👗
 769,gas,⛽,💨
-770,gasp,😮,😮‍💨
+770,gasp,😮,💨
 771,gate,🚪,🚪
 772,gather,👥,📦
 773,gauge,📏,⚡
 774,gaze,👀,➡
 775,general,🎖️,🪖
-776,genius,🧠,⚙
+776,genius,🧠,💡
 777,genre,🎶,📚
 778,gentle,🤲,🕊
 779,genuine,💎,💎
@@ -782,27 +782,27 @@ index,word,emoji1,emoji2
 781,ghost,👻,👻
 782,giant,🗿,📏
 783,gift,🎁,🎁
-784,giggle,😆,😂
-785,ginger,🫚,🥤
+784,giggle,🤭,🤭
+785,ginger,🫚,🫚
 786,giraffe,🦒,🦒
 787,girl,👧,👧
 788,give,🤲,🎁
 789,glad,😀,👍
 790,glance,👀,⏱
 791,glare,👀,⚡
-792,glass,🥛,🍷
-793,glide,🪂,✨
+792,glass,🫙,🍷
+793,glide,🪂,🪂
 794,glimpse,👀,🔦
 795,globe,🌍,🌍
 796,gloom,🌫,😞
 797,glory,🏆,✨
 798,glove,🧤,🧤
 799,glow,✨,🌟
-800,glue,🧴,📌
+800,glue,🧴,🩹
 801,goat,🐐,🐐
-802,goddess,👑,🕊
+802,goddess,👑,👸
 803,gold,🥇,💰
-804,good,👍,🌞
+804,good,🌬️,💖
 805,goose,🪿,🪿
 806,gorilla,🦍,🦍
 807,gospel,📖,✝
@@ -953,7 +953,7 @@ index,word,emoji1,emoji2
 952,ivory,🐘,🦷
 953,jacket,🧥,🧥
 954,jaguar,🐆,🌴
-955,jar,🫙,🍯
+955,jar,🫙,🫙
 956,jazz,🎷,🎶
 957,jealous,😒,💔
 958,jeans,👖,👖
@@ -1280,7 +1280,7 @@ index,word,emoji1,emoji2
 1279,panther,🐆,⚫️
 1280,paper,📄,📰
 1281,parade,🥁,🎉
-1282,parent,🧑‍🧑‍🧒‍🧒,❤️
+1282,parent,🧑‍🍼,👶
 1283,park,🌳,🎠
 1284,parrot,🦜,🦜
 1285,party,🎉,🍾
@@ -1980,7 +1980,7 @@ index,word,emoji1,emoji2
 1979,warrior,🪖,⚔
 1980,wash,🧼,🚿
 1981,wasp,🐝,😡
-1982,waste,🗑,♻
+1982,waste,🗑,♻️
 1983,water,💧,💧
 1984,wave,🌊,👋
 1985,way,🗺️,🧭
@@ -2002,8 +2002,8 @@ index,word,emoji1,emoji2
 2001,wheel,🛞,⚙
 2002,when,⏰,❓
 2003,where,📍,❓
-2004,whip,🐎,➡
-2005,whisper,🤫,👂
+2004,whip,🏎️,⚡
+2005,whisper,🗣️,👂
 2006,wide,📏,↔
 2007,width,📏,⚙
 2008,wife,👰,💍
@@ -2020,13 +2020,13 @@ index,word,emoji1,emoji2
 2019,wisdom,🦉,📚
 2020,wise,👴,🧠
 2021,wish,🌠,🙏
-2022,witness,👀,⚖
+2022,witness,👁️‍🗨️,👁️‍🗨️
 2023,wolf,🐺,🐺
 2024,woman,👩,👩
 2025,wonder,🤔,✨
 2026,wood,🪵,🪵
 2027,wool,🧶,🐑
-2028,word,🔤,🔤
+2028,word,🗣️,💬
 2029,work,💼,🔨
 2030,world,🌍,⚙
 2031,worry,😟,💭
@@ -2047,3 +2047,5 @@ index,word,emoji1,emoji2
 2046,zero,⚪,🅾
 2047,zone,📍,🗺
 2048,zoo,🐒,🦁
+
+
