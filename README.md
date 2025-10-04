@@ -9,18 +9,18 @@
  |___|_|_|_\___// |_|___/\___\___\__,_|
               |__/                     
               
-             BIP39 WORDLIST EMOJI STANDARD — v1.0
+    WORDLIST EMOJI STANDARD — v1.0
 ```
 
 ## ✨ Vision
 
-**BIPEmojiSeed** is the official **Bitcoin Improvement Proposal (BIP)** for a global BIP39 wordlist to emojiset standard:
+**BIPEmojiSeed** is the official **Bitcoin Improvement Proposal (BIP)** for a global special to emojiset standard:
 
 ---
 
 ## 🌐 Overview
 
-A complete, open standard for mapping the **BIP39 wordlist (2048 words)** into **2048 unique emoji pairs**.
+A complete, open standard for mapping the ** wordlist (2048 words)** into **2048 unique emoji pairs**.
 
 flame → 🔥💨
 
@@ -39,25 +39,25 @@ There are several reasons why this is needed:
 
 ## 🤔 What is this really?
 
-**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official [BIP39 wordlist](https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt) and 2048 unique [BIP emojiset](https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt).
+**BIPEmojiSeed** is a **Bitcoin Improvement Proposal (BIP)** for a standard that defines a mapping between the 2048 words of the official wordlist and 2048 unique [BIP emojiseed set](https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt).
 
-**WordList BIP39**
+**WordList**
 - https://github.com/bitcoin/bips/blob/master/bip-0039/english.txt
 
-**EmojiSet v.001** 
+**EmojiSet** 
 - https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt
 
 The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
 :golf:
-**Official BIP-39 PR #1989 ** [ BIP-39 Emoji PR ](https://github.com/bitcoin/bips/pull/1989)
+**Official PR #1999 ** [ EmojiSeed PR #1999 ](https://github.com/bitcoin/bips/pull/1999)
 
 ---
 
 ## 🚀 Features
 
 - **Complete Coverage**  
-  Every BIP39 word maps to exactly two emoji code points (2048 → 2048).
+  Every word maps to exactly two emoji code points (2048 → 2048).
   
 - **Uniqueness**  
   No two words share the same emoji pair, ensuring unambiguous decoding.
@@ -75,7 +75,7 @@ The project’s goal is to provide a **universal, language-agnostic, and user-fr
 
 ## EmojiSeed 🌱✨
 
-The **Emoji wordlist** is a deterministic mapping of the 2048 English BIP39 words into **2048 unique emoji pairs**. This allows mnemonic phrases to be displayed and remembered visually, across languages and literacy barriers.
+The **Emoji wordlist** is a deterministic mapping of the 2048 special words into **2048 unique emoji pairs**. This allows mnemonic phrases to be displayed and remembered visually, across languages and literacy barriers.
 
 **Rules for Emoji Mapping:**
 
