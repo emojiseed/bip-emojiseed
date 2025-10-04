@@ -47,7 +47,7 @@ There are several reasons why this is needed:
 **EmojiSet** 
 - https://emojiseed.com/blob/90768f83a6d5503588623e012ede9118ef60dca6/emojiset.txt
 
-The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing BIP39 wordlists while improving **cross-cultural accessibility** and **human memorability**.
+The project’s goal is to provide a **universal, language-agnostic, and user-friendly mnemonic system** that complements existing special wordlists while improving **cross-cultural accessibility** and **human memorability**.
 
 :golf:
 **Official PR #1999 ** [ EmojiSeed PR #1999 ](https://github.com/bitcoin/bips/pull/1999)
