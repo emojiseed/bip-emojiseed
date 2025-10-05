@@ -27,7 +27,7 @@
   "index": 5,
   "word": "above",
   "emoji1": "⬆",
-  "emoji2": "☁️"
+  "emoji2": "☁"
 },
 {
   "index": 6,
@@ -123,7 +123,7 @@
   "index": 21,
   "word": "action",
   "emoji1": "🎬",
-  "emoji2": "⚡️"
+  "emoji2": "⚡"
 },
 {
   "index": 22,
@@ -213,7 +213,7 @@
   "index": 36,
   "word": "afford",
   "emoji1": "💵",
-  "emoji2": "🛍️"
+  "emoji2": "🛍"
 },
 {
   "index": 37,
@@ -309,7 +309,7 @@
   "index": 52,
   "word": "all",
   "emoji1": "🌍",
-  "emoji2": "♾️"
+  "emoji2": "♾"
 },
 {
   "index": 53,
@@ -711,7 +711,7 @@
   "index": 119,
   "word": "attract",
   "emoji1": "🧲",
-  "emoji2": "❤️"
+  "emoji2": "❤"
 },
 {
   "index": 120,
@@ -849,7 +849,7 @@
   "index": 142,
   "word": "balance",
   "emoji1": "🤸",
-  "emoji2": "⚖️"
+  "emoji2": "⚖"
 },
 {
   "index": 143,
@@ -1359,7 +1359,7 @@
   "index": 227,
   "word": "brisk",
   "emoji1": "💨",
-  "emoji2": "❄️"
+  "emoji2": "❄"
 },
 {
   "index": 228,
@@ -2361,7 +2361,7 @@
   "index": 394,
   "word": "couple",
   "emoji1": "👥",
-  "emoji2": "✌️"
+  "emoji2": "✌"
 },
 {
   "index": 395,
@@ -3218,8 +3218,8 @@
 {
   "index": 537,
   "word": "drink",
-  "emoji1": "🍹",
-  "emoji2": "🍹"
+  "emoji1": "😋",
+  "emoji2": "🧃"
 },
 {
   "index": 538,
@@ -3249,7 +3249,7 @@
   "index": 542,
   "word": "dry",
   "emoji1": "🌵",
-  "emoji2": "☀️"
+  "emoji2": "☀"
 },
 {
   "index": 543,
@@ -3831,7 +3831,7 @@
   "index": 639,
   "word": "exist",
   "emoji1": "🌐",
-  "emoji2": "🙋🏻"
+  "emoji2": "🙋"
 },
 {
   "index": 640,
@@ -3921,7 +3921,7 @@
   "index": 654,
   "word": "faculty",
   "emoji1": "🧠",
-  "emoji2": "🏛️"
+  "emoji2": "🏛"
 },
 {
   "index": 655,
@@ -4485,7 +4485,7 @@
   "index": 748,
   "word": "frost",
   "emoji1": "❄",
-  "emoji2": "☃️"
+  "emoji2": "☃"
 },
 {
   "index": 749,
@@ -4575,7 +4575,7 @@
   "index": 763,
   "word": "gap",
   "emoji1": "🌉",
-  "emoji2": "🕳️"
+  "emoji2": "🕳"
 },
 {
   "index": 764,
@@ -4863,7 +4863,7 @@
   "index": 811,
   "word": "grab",
   "emoji1": "✋",
-  "emoji2": "🤏"
+  "emoji2": "👊"
 },
 {
   "index": 812,
@@ -4920,12 +4920,6 @@
   "emoji2": "📐"
 },
 {
-  "index": 821,
-  "word": "grief",
-  "emoji1": "😢",
-  "emoji2": "💔"
-},
-{
   "index": 822,
   "word": "grit",
   "emoji1": "🪨",
@@ -4941,7 +4935,7 @@
   "index": 824,
   "word": "group",
   "emoji1": "👥",
-  "emoji2": "🏘️"
+  "emoji2": "🏘"
 },
 {
   "index": 825,
@@ -5277,7 +5271,7 @@
   "index": 880,
   "word": "hospital",
   "emoji1": "🏥",
-  "emoji2": "➕"
+  "emoji2": "🏥"
 },
 {
   "index": 881,
@@ -5295,7 +5289,7 @@
   "index": 883,
   "word": "hour",
   "emoji1": "⏰",
-  "emoji2": "🕒"
+  "emoji2": "☝"
 },
 {
   "index": 884,
@@ -5361,7 +5355,7 @@
   "index": 894,
   "word": "hurry",
   "emoji1": "⏳",
-  "emoji2": "⏱️"
+  "emoji2": "⏱"
 },
 {
   "index": 895,
@@ -5384,8 +5378,8 @@
 {
   "index": 898,
   "word": "ice",
-  "emoji1": "❄",
-  "emoji2": "❄"
+  "emoji1": "🧊",
+  "emoji2": "🧊"
 },
 {
   "index": 899,
@@ -5427,7 +5421,7 @@
   "index": 905,
   "word": "illegal",
   "emoji1": "🚫",
-  "emoji2": "⚙"
+  "emoji2": "🚔"
 },
 {
   "index": 906,
@@ -5444,7 +5438,7 @@
 {
   "index": 908,
   "word": "imitate",
-  "emoji1": "🪞",
+  "emoji1": "🐒",
   "emoji2": "🙃"
 },
 {
@@ -5961,7 +5955,7 @@
   "index": 994,
   "word": "label",
   "emoji1": "🏷",
-  "emoji2": "🏷️"
+  "emoji2": "🏷"
 },
 {
   "index": 995,
@@ -6441,7 +6435,7 @@
   "index": 1074,
   "word": "mail",
   "emoji1": "📬",
-  "emoji2": "✉️"
+  "emoji2": "✉"
 },
 {
   "index": 1075,
@@ -6801,7 +6795,7 @@
   "index": 1134,
   "word": "misery",
   "emoji1": "😢",
-  "emoji2": "⛈️"
+  "emoji2": "⛈"
 },
 {
   "index": 1135,
@@ -7424,8 +7418,8 @@
 {
   "index": 1238,
   "word": "one",
-  "emoji1": "1️⃣",
-  "emoji2": "1️⃣"
+  "emoji1": "☝️",
+  "emoji2": "☝️"
 },
 {
   "index": 1239,
@@ -7671,7 +7665,7 @@
   "index": 1279,
   "word": "panther",
   "emoji1": "🐆",
-  "emoji2": "⚫️"
+  "emoji2": "⚫"
 },
 {
   "index": 1280,
@@ -7905,7 +7899,7 @@
   "index": 1318,
   "word": "pigeon",
   "emoji1": "🐦",
-  "emoji2": "🕊️"
+  "emoji2": "🕊"
 },
 {
   "index": 1319,
@@ -7917,7 +7911,7 @@
   "index": 1320,
   "word": "pilot",
   "emoji1": "👨",
-  "emoji2": "✈️"
+  "emoji2": "✈"
 },
 {
   "index": 1321,
@@ -8019,7 +8013,7 @@
   "index": 1337,
   "word": "poem",
   "emoji1": "📜",
-  "emoji2": "🗣️"
+  "emoji2": "🗣"
 },
 {
   "index": 1338,
@@ -8433,7 +8427,7 @@
   "index": 1406,
   "word": "quick",
   "emoji1": "🏃",
-  "emoji2": "⚡️"
+  "emoji2": "⚡"
 },
 {
   "index": 1407,
@@ -8565,7 +8559,7 @@
   "index": 1428,
   "word": "raven",
   "emoji1": "🐦",
-  "emoji2": "⚫️"
+  "emoji2": "⚫"
 },
 {
   "index": 1429,
@@ -8703,7 +8697,7 @@
   "index": 1451,
   "word": "relief",
   "emoji1": "😮",
-  "emoji2": "☺️"
+  "emoji2": "☺"
 },
 {
   "index": 1452,
@@ -8811,7 +8805,7 @@
   "index": 1469,
   "word": "resource",
   "emoji1": "🧰",
-  "emoji2": "⚙️"
+  "emoji2": "⚙"
 },
 {
   "index": 1470,
@@ -9128,8 +9122,8 @@
 {
   "index": 1522,
   "word": "sail",
-  "emoji1": "⛵",
-  "emoji2": "🌬"
+  "emoji1": "🌬",
+  "emoji2": "⛵"
 },
 {
   "index": 1523,
@@ -9141,13 +9135,13 @@
   "index": 1524,
   "word": "salmon",
   "emoji1": "🐟",
-  "emoji2": "🏞"
+  "emoji2": "🎣"
 },
 {
   "index": 1525,
   "word": "salon",
   "emoji1": "💇",
-  "emoji2": "✂"
+  "emoji2": "💇️"
 },
 {
   "index": 1526,
@@ -9212,8 +9206,8 @@
 {
   "index": 1536,
   "word": "say",
-  "emoji1": "💬",
-  "emoji2": "🗣"
+  "emoji1": "🗣",
+  "emoji2": "💬"
 },
 {
   "index": 1537,
@@ -9440,8 +9434,8 @@
 {
   "index": 1574,
   "word": "seven",
-  "emoji1": "🕖",
-  "emoji2": "🧮"
+  "emoji1": "✋",
+  "emoji2": "✌"
 },
 {
   "index": 1575,
@@ -9501,7 +9495,7 @@
   "index": 1584,
   "word": "shine",
   "emoji1": "✨",
-  "emoji2": "☀️"
+  "emoji2": "☀"
 },
 {
   "index": 1585,
@@ -9554,7 +9548,7 @@
 {
   "index": 1593,
   "word": "shove",
-  "emoji1": "🤜",
+  "emoji1": "🫸",
   "emoji2": "➡"
 },
 {
@@ -9686,8 +9680,8 @@
 {
   "index": 1615,
   "word": "six",
-  "emoji1": "🕕",
-  "emoji2": "🧮"
+  "emoji1": "✋",
+  "emoji2": "☝"
 },
 {
   "index": 1616,
@@ -10215,7 +10209,7 @@
   "index": 1703,
   "word": "state",
   "emoji1": "🏛",
-  "emoji2": "🗡️"
+  "emoji2": "🗡"
 },
 {
   "index": 1704,
@@ -10454,8 +10448,8 @@
 {
   "index": 1743,
   "word": "supply",
-  "emoji1": "📦",
-  "emoji2": "✍"
+  "emoji1": "🫴",
+  "emoji2": "📦"
 },
 {
   "index": 1744,
@@ -10479,7 +10473,7 @@
   "index": 1747,
   "word": "surge",
   "emoji1": "📈",
-  "emoji2": "⚡️"
+  "emoji2": "⚡"
 },
 {
   "index": 1748,
@@ -10514,8 +10508,8 @@
 {
   "index": 1753,
   "word": "swallow",
-  "emoji1": "🐦",
-  "emoji2": "🍽"
+  "emoji1": "🧃",
+  "emoji2": "😋"
 },
 {
   "index": 1754,
@@ -10659,7 +10653,7 @@
   "index": 1777,
   "word": "task",
   "emoji1": "📋",
-  "emoji2": "⚙️"
+  "emoji2": "⚙"
 },
 {
   "index": 1778,
@@ -10700,8 +10694,8 @@
 {
   "index": 1784,
   "word": "ten",
-  "emoji1": "🔟",
-  "emoji2": "🔟"
+  "emoji1": "✋",
+  "emoji2": "✋"
 },
 {
   "index": 1785,
@@ -10815,7 +10809,7 @@
   "index": 1803,
   "word": "throw",
   "emoji1": "🤾",
-  "emoji2": "⚾️"
+  "emoji2": "⚾"
 },
 {
   "index": 1804,
@@ -10869,7 +10863,7 @@
   "index": 1812,
   "word": "tiny",
   "emoji1": "🐜",
-  "emoji2": "⚛️"
+  "emoji2": "⚛"
 },
 {
   "index": 1813,
@@ -10911,7 +10905,7 @@
   "index": 1819,
   "word": "today",
   "emoji1": "📅",
-  "emoji2": "☀️"
+  "emoji2": "☀"
 },
 {
   "index": 1820,
@@ -11067,7 +11061,7 @@
   "index": 1845,
   "word": "track",
   "emoji1": "🛤",
-  "emoji2": "🛤️"
+  "emoji2": "🛤"
 },
 {
   "index": 1846,
@@ -11282,14 +11276,14 @@
 {
   "index": 1881,
   "word": "twelve",
-  "emoji1": "🕛",
-  "emoji2": "🧮"
+  "emoji1": "🤙",
+  "emoji2": "✌"
 },
 {
   "index": 1882,
   "word": "twenty",
-  "emoji1": "🧮",
-  "emoji2": "📊"
+  "emoji1": "🤙",
+  "emoji2": "🤙"
 },
 {
   "index": 1883,
@@ -11312,8 +11306,8 @@
 {
   "index": 1886,
   "word": "two",
-  "emoji1": "✌",
-  "emoji2": "👉"
+  "emoji1": "✌️",
+  "emoji2": "✌️"
 },
 {
   "index": 1887,
@@ -11358,12 +11352,6 @@
   "emoji2": "👶"
 },
 {
-  "index": 1894,
-  "word": "uncover",
-  "emoji1": "🔓",
-  "emoji2": "🕵"
-},
-{
   "index": 1895,
   "word": "under",
   "emoji1": "⬇",
@@ -11391,7 +11379,7 @@
   "index": 1899,
   "word": "unhappy",
   "emoji1": "😞",
-  "emoji2": "💧"
+  "emoji2": "😞"
 },
 {
   "index": 1900,
@@ -11511,7 +11499,7 @@
   "index": 1919,
   "word": "used",
   "emoji1": "🧾",
-  "emoji2": "♻️"
+  "emoji2": "♻"
 },
 {
   "index": 1920,
@@ -11889,7 +11877,7 @@
   "index": 1982,
   "word": "waste",
   "emoji1": "🗑",
-  "emoji2": "♻️"
+  "emoji2": "♻"
 },
 {
   "index": 1983,
@@ -12057,7 +12045,7 @@
   "index": 2010,
   "word": "will",
   "emoji1": "📝",
-  "emoji2": "🗃️"
+  "emoji2": "🗃"
 },
 {
   "index": 2011,
