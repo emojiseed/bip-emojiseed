@@ -9789,7 +9789,7 @@
   "index": 1633,
   "word": "slot",
   "emoji1": "🎰",
-  "emoji2": "🕳"
+  "emoji2": "🎰"
 },
 {
   "index": 1634,
@@ -10209,7 +10209,7 @@
   "index": 1703,
   "word": "state",
   "emoji1": "🏛",
-  "emoji2": "🗡"
+  "emoji2": "🦅"
 },
 {
   "index": 1704,
@@ -10772,8 +10772,8 @@
 {
   "index": 1797,
   "word": "they",
-  "emoji1": "👥",
-  "emoji2": "👉"
+  "emoji1": "👉",
+  "emoji2": "👥"
 },
 {
   "index": 1798,
@@ -11352,6 +11352,12 @@
   "emoji2": "👶"
 },
 {
+  "index": 1894,
+  "word": "uncover",
+  "emoji1": "🕳️",
+  "emoji2": "🔦"
+},
+{
   "index": 1895,
   "word": "under",
   "emoji1": "⬇",
@@ -11696,8 +11702,8 @@
 {
   "index": 1952,
   "word": "view",
-  "emoji1": "👀",
-  "emoji2": "🌄"
+  "emoji1": "🌄",
+  "emoji2": "👀"
 },
 {
   "index": 1953,
@@ -11738,8 +11744,8 @@
 {
   "index": 1959,
   "word": "visit",
-  "emoji1": "🚶",
-  "emoji2": "📍"
+  "emoji1": "📍",
+  "emoji2": "🚶"
 },
 {
   "index": 1960,
@@ -11762,8 +11768,8 @@
 {
   "index": 1963,
   "word": "vocal",
-  "emoji1": "🎤",
-  "emoji2": "🗣"
+  "emoji1": "🗣",
+  "emoji2": "🎤"
 },
 {
   "index": 1964,
