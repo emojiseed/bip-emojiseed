@@ -1,8 +1,8 @@
 index,word,emoji1,emoji2
-1,abandon,🏚,🚪
+1,abandon,🏃,😶
 2,ability,🧠,💪
 3,able,💪,🧠
-4,about,ℹ,📖
+4,about,💭,📍
 5,above,⬆,☁
 6,absent,🚫,👤
 7,absorb,🧽,💧
@@ -68,15 +68,15 @@ index,word,emoji1,emoji2
 67,analyst,📊,🧠
 68,anchor,⚓,⚓
 69,ancient,🏛,📜
-70,anger,😡,🔥
+70,anger,😠,💢
 71,angle,📐,📏
-72,angry,😠,💢
+72,angry,😡,🔥
 73,animal,🐾,🐾
 74,ankle,🦶,🦴
 75,announce,📢,📰
 76,annual,📅,🔁
 77,another,🔄,➕
-78,answer,💬,🧠
+78,answer,🧠,💬
 79,antenna,📡,📡
 80,antique,🏺,🕰
 81,anxiety,😰,💭
@@ -85,10 +85,10 @@ index,word,emoji1,emoji2
 84,apology,🙏,💬
 85,appear,👀,✨
 86,apple,🍎,🍎
-87,approve,👍,⚙
+87,approve,👍,🥲
 88,april,🌸,📅
 89,arch,🏛,🎯
-90,arctic,❄,🌊
+90,arctic,🥶,🦭
 91,area,📍,📐
 92,arena,🏟,🎤
 93,argue,🗣,⚡
@@ -414,7 +414,7 @@ index,word,emoji1,emoji2
 413,crime,🚫,🚨
 414,crisp,❄,🍎
 415,critic,🧑,📝
-416,crop,🌾,✂
+416,crop,🌾,🌽
 417,cross,➕,✝
 418,crouch,🛋️,🛋️
 419,crowd,🏟️,👥
@@ -1754,7 +1754,7 @@ index,word,emoji1,emoji2
 1754,swamp,🐊,🌿
 1755,swap,🔁,🔄
 1756,swarm,🐝,🐝
-1757,swear,🤞,📜
+1757,swear,🤞,🤬
 1758,sweet,🍰,😊
 1759,swift,🐦,💨
 1760,swim,🏊,🌊
