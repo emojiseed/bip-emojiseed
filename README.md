@@ -150,6 +150,7 @@ npm run stats
 
 # Round-trip test: word -> emoji -> word
 npm run test:roundtrip
+```
 
 
 ## 🚀 Features

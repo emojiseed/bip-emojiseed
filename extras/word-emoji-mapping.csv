@@ -182,7 +182,7 @@ index,word,emoji1,emoji2
 181,bird,🐦,🐦
 182,birth,👶,🎉
 183,bitter,😖,🍋
-184,black,⚫,⬛
+184,black,⚫,🐈‍⬛
 185,blade,🔪,🗡
 186,blame,☝,❗
 187,blanket,🧶,🛌
@@ -193,9 +193,9 @@ index,word,emoji1,emoji2
 192,blood,🩸,🩸
 193,blossom,🌸,🌺
 194,blouse,👚,👚
-195,blue,🔵,🔵
+195,blue,🔵,🦋
 196,blur,🌫,🔍
-197,blush,😊,⚙
+197,blush,😊,🌸
 198,board,🧱,📋
 199,boat,🚤,🚤
 200,body,🧍,🫀
@@ -211,7 +211,7 @@ index,word,emoji1,emoji2
 210,boss,👑,👔
 211,bottom,⬇,📏
 212,bounce,🏀,🔄
-213,box,📦,⚙
+213,box,📦,📥
 214,boy,👦,👦
 215,bracket,📐,🗂
 216,brain,🧠,🧠
@@ -230,8 +230,8 @@ index,word,emoji1,emoji2
 229,broken,❌,🧩
 230,bronze,🟤,🏅
 231,broom,🧹,🧹
-232,brother,👦,⚙
-233,brown,🟫,🟫
+232,brother,👦,🤝
+233,brown,🟤,🟫
 234,brush,🪥,🪥
 235,bubble,🫧,🫧
 236,buddy,👬,🤝
@@ -296,7 +296,7 @@ index,word,emoji1,emoji2
 295,cave,🕳,🪨
 296,ceiling,🛋️,☝️
 297,celery,🥬,🥬
-298,cement,🧱,⚙
+298,cement,🧱,🗿
 299,census,📊,🏠
 300,century,📅,💯
 301,cereal,🥣,🌾
@@ -397,7 +397,7 @@ index,word,emoji1,emoji2
 396,cousin,🧑,🧑
 397,cover,🛡,📄
 398,coyote,🐺,🏜
-399,crack,💥,⚙
+399,crack,💥,🪨
 400,cradle,🧺,👶
 401,craft,🧰,🧵
 402,cram,🧠,📚
@@ -484,7 +484,7 @@ index,word,emoji1,emoji2
 483,detail,📄,🔍
 484,detect,🔍,🕵
 485,develop,📈,🔧
-486,device,📱,⚙
+486,device,📱,🔌
 487,devote,❤,📅
 488,diagram,📊,📐
 489,dial,☎,🔄
@@ -522,7 +522,7 @@ index,word,emoji1,emoji2
 521,donate,🤲,💰
 522,donkey,🫏,🫏
 523,donor,🤲,💉
-524,door,🚪,⚙
+524,door,🚪,🚪
 525,dose,💊,💊
 526,double,✌,✌
 527,dove,🕊,🕊
@@ -532,7 +532,7 @@ index,word,emoji1,emoji2
 531,drastic,❗,⚡
 532,draw,✏,🖼
 533,dream,😴,💭
-534,dress,👗,⚙
+534,dress,👗,👗
 535,drift,🌊,💨
 536,drill,🛠,🌀
 537,drink,😋,🧃
@@ -608,7 +608,7 @@ index,word,emoji1,emoji2
 607,envelope,✉️,✉️
 608,episode,🎬,📺
 609,equal,🟰,🟰
-610,equip,🧰,⚙
+610,equip,🧰,🎒
 611,era,⚾️,🗿
 612,erase,🩹,✏
 613,erode,🌊,🪨
@@ -628,7 +628,7 @@ index,word,emoji1,emoji2
 627,exact,🎯,📏
 628,example,📖,👆
 629,excess,➕,📈
-630,exchange,🔄,⚙
+630,exchange,🔄,🤝
 631,excite,🤩,⚡
 632,exclude,🚫,🚪
 633,excuse,🙏,📝
@@ -919,7 +919,7 @@ index,word,emoji1,emoji2
 919,index,📖,☝
 920,indicate,👉,📍
 921,indoor,🏠,✍
-922,industry,🏭,⚙
+922,industry,🏭,📈
 923,infant,👶,🍼
 924,inflict,🔪,💢
 925,inform,📢,💬
@@ -938,13 +938,13 @@ index,word,emoji1,emoji2
 938,inside,🏠,➡
 939,inspire,✨,💡
 940,install,📦,⬇
-941,intact,🧩,⚙
+941,intact,🧩,✅
 942,interest,💰,📈
 943,into,👉,➡
 944,invest,⛽️,💰
 945,invite,✉,🎉
 946,involve,🔄,🤝
-947,iron,🧲,⚙
+947,iron,🧲,⛓
 948,island,🏝,🌊
 949,isolate,🧍,🚫
 950,issue,🧾,⚠
@@ -968,8 +968,8 @@ index,word,emoji1,emoji2
 968,jump,🤸,⬆
 969,jungle,🌴,🦍
 970,junior,👶,🎓
-971,junk,🗑,🪙
-972,just,⚖,⚙
+971,junk,🍕,🍟
+972,just,⚖,☝️
 973,kangaroo,🦘,🦘
 974,keen,👀,🔥
 975,keep,🤲,🔒
@@ -1000,7 +1000,7 @@ index,word,emoji1,emoji2
 1000,language,🗣,📚
 1001,laptop,💻,⌨
 1002,large,📏,⬆
-1003,later,⏳,⚙
+1003,later,⏳,⌚️
 1004,latin,📜,🔤
 1005,laugh,😂,🤣
 1006,laundry,👕,🧺
@@ -1021,7 +1021,7 @@ index,word,emoji1,emoji2
 1021,legend,🏆,📜
 1022,leisure,🏖,🍹
 1023,lemon,🍋,🍋
-1024,lend,💵,⚙
+1024,lend,💵,🤝
 1025,length,📏,↔
 1026,lens,🔍,📸
 1027,leopard,🐆,🐆
@@ -1040,7 +1040,7 @@ index,word,emoji1,emoji2
 1040,limit,🚫,📏
 1041,link,🔗,🔗
 1042,lion,🦁,🦁
-1043,liquid,💧,⚙
+1043,liquid,💧,💦
 1044,list,📋,📋
 1045,little,👶,📏
 1046,live,🎤,🏟
@@ -1050,7 +1050,7 @@ index,word,emoji1,emoji2
 1050,lobster,🦞,🦞
 1051,local,🏘,📍
 1052,lock,🔒,🔒
-1053,logic,📍,⚙
+1053,logic,🧠,📐
 1054,lonely,😔,🚶
 1055,long,📏,✍
 1056,loop,👀,👆
@@ -1112,13 +1112,13 @@ index,word,emoji1,emoji2
 1112,memory,🧠,💾
 1113,mention,💬,📢
 1114,menu,📋,🍴
-1115,mercy,🙏,⚙
+1115,mercy,🙏,💖
 1116,merge,🔀,🤝
-1117,merit,🏆,⚙
+1117,merit,🏆,⭐
 1118,merry,🎄,😀
 1119,mesh,🕸,🧵
 1120,message,💬,📨
-1121,metal,⚙,⛓
+1121,metal,⛓,🧲
 1122,method,📚,📝
 1123,middle,➗,📍
 1124,midnight,🌙,🕛
@@ -1215,7 +1215,7 @@ index,word,emoji1,emoji2
 1215,oak,🌳,🪵
 1216,obey,🙇,✅
 1217,object,🎯,📦
-1218,oblige,🤝,⚙
+1218,oblige,🤝,❤️
 1219,obscure,🌫,🙈
 1220,observe,👀,🔭
 1221,obtain,📦,🎯
@@ -1269,8 +1269,8 @@ index,word,emoji1,emoji2
 1269,ozone,🌍,💨
 1270,pact,🤝,🤝
 1271,paddle,🛶,🥢
-1272,page,📄,⚙
-1273,pair,👥,⚙
+1272,page,📄,📖
+1273,pair,👥,✌️
 1274,palace,🏯,🏯
 1275,palm,🌴,✋
 1276,panda,🐼,🐼
@@ -1362,7 +1362,7 @@ index,word,emoji1,emoji2
 1362,pretty,🌸,😊
 1363,prevent,🚫,🛡
 1364,price,💵,🏷
-1365,pride,🦁,🌈
+1365,pride,🦁,🏆
 1366,primary,📘,🥇
 1367,print,🖨,📄
 1368,priority,🥇,⏱
@@ -1370,9 +1370,9 @@ index,word,emoji1,emoji2
 1370,private,🔒,🙊
 1371,prize,🏆,🎁
 1372,problem,❓,⚠
-1373,process,⚙,📋
+1373,process,🔁,📋
 1374,produce,🥦,🍎
-1375,profit,💰,⚙
+1375,profit,💰,📊
 1376,program,💻,📜
 1377,project,📐,📊
 1378,promote,📢,📈
@@ -1466,7 +1466,7 @@ index,word,emoji1,emoji2
 1466,rescue,🆘,🚑
 1467,resemble,🪞,🔁
 1468,resist,✋,⚡
-1469,resource,🧰,⚙
+1469,resource,🧰,🛢️
 1470,response,💬,↩
 1471,result,📈,🎯
 1472,retire,🧓,🏖
@@ -1512,7 +1512,7 @@ index,word,emoji1,emoji2
 1512,rude,😠,🚫
 1513,rug,🧶,🧵
 1514,rule,📏,📜
-1515,run,🏃,⚙
+1515,run,🏃,🏃
 1516,runway,🛫,🛣
 1517,rural,🌾,🏡
 1518,sad,😢,💧
@@ -1573,7 +1573,7 @@ index,word,emoji1,emoji2
 1573,setup,⚙,🧰
 1574,seven,✋,✌
 1575,shadow,🌑,👤
-1576,shaft,🕳️,⚙️
+1576,shaft,⚙️,🔩
 1577,shallow,🌊,📏
 1578,share,📈,🤝
 1579,shed,🛖,🪵
@@ -1635,7 +1635,7 @@ index,word,emoji1,emoji2
 1635,slush,🧊,🫗
 1636,small,🐜,📏
 1637,smart,🧠,💡
-1638,smile,🙂,⚙
+1638,smile,🙂,🌞
 1639,smoke,🚬,💨
 1640,smooth,🧈,➡
 1641,snack,🍪,🥨
@@ -1717,7 +1717,7 @@ index,word,emoji1,emoji2
 1717,story,📖,✨
 1718,stove,🔥,🍳
 1719,strategy,♟,🎯
-1720,street,🛣,⚙
+1720,street,🛣️,🏙️
 1721,strike,⚡,✊
 1722,strong,💪,🏋
 1723,struggle,🥵,🧗
@@ -1774,7 +1774,7 @@ index,word,emoji1,emoji2
 1774,tank,🛢,🪖
 1775,tape,📼,📼
 1776,target,🎯,🎯
-1777,task,📋,⚙
+1777,task,📋,✅
 1778,taste,👅,🍴
 1779,tattoo,🖋,🖤
 1780,taxi,🚕,🚕
@@ -1796,7 +1796,7 @@ index,word,emoji1,emoji2
 1796,there,📍,➡
 1797,they,👉,👥
 1798,thing,📦,❓
-1799,this,👉,⚙
+1799,this,👉,📍
 1800,thought,💭,💭
 1801,three,🕒,🧮
 1802,thrive,🌱,💪
@@ -1907,7 +1907,7 @@ index,word,emoji1,emoji2
 1907,unusual,🤔,🌟
 1908,unveil,🎭,👀
 1909,update,🔄,🆕
-1910,upgrade,⬆,⚙
+1910,upgrade,⬆️,💎
 1911,uphold,✋,⚖
 1912,upon,🆙,🔛
 1913,upper,⬆,📍
@@ -1920,7 +1920,7 @@ index,word,emoji1,emoji2
 1920,useful,👍,🛠
 1921,useless,❌,🪣
 1922,usual,📆,🔁
-1923,utility,⚙,🔌
+1923,utility,🔌,🧰
 1924,vacant,🪑,🚫
 1925,vacuum,🧹,🕳
 1926,vague,🌫,❓
@@ -1966,7 +1966,7 @@ index,word,emoji1,emoji2
 1966,volcano,🌋,🌋
 1967,volume,🔊,📚
 1968,vote,🗳,📝
-1969,voyage,🚢,⚙
+1969,voyage,🚢,🌊
 1970,wage,💵,💼
 1971,wagon,🚙,🛞
 1972,wait,⏳,🛑
@@ -1998,13 +1998,13 @@ index,word,emoji1,emoji2
 1998,whale,🐋,🐋
 1999,what,❓,👉
 2000,wheat,🌾,🌾
-2001,wheel,🛞,⚙
+2001,wheel,🛞,☸
 2002,when,⏰,❓
 2003,where,📍,❓
 2004,whip,🏎️,⚡
 2005,whisper,🗣️,👂
 2006,wide,📏,↔
-2007,width,📏,⚙
+2007,width,📏,↔️
 2008,wife,👰,💍
 2009,wild,🐆,🌿
 2010,will,📝,🗃
@@ -2027,9 +2027,9 @@ index,word,emoji1,emoji2
 2027,wool,🧶,🐑
 2028,word,🗣️,💬
 2029,work,💼,🔨
-2030,world,🌍,⚙
+2030,world,🌍,🌐
 2031,worry,😟,💭
-2032,worth,💎,⚙
+2032,worth,💰,💎
 2033,wrap,🎁,🌀
 2034,wreck,🚢,💥
 2035,wrestle,🤼,🤼
@@ -2038,7 +2038,7 @@ index,word,emoji1,emoji2
 2038,wrong,❌,↔
 2039,yard,🌱,🏡
 2040,year,📅,📆
-2041,yellow,🟨,🌼
+2041,yellow,🟡,🌼
 2042,you,🫵,🫵
 2043,young,👶,🌱
 2044,youth,🧒,🎓
