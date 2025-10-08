@@ -2,8 +2,8 @@
 {
   "index": 1,
   "word": "abandon",
-  "emoji1": "🏚",
-  "emoji2": "🚪"
+  "emoji1": "🏃",
+  "emoji2": "😶"
 },
 {
   "index": 2,
@@ -20,8 +20,8 @@
 {
   "index": 4,
   "word": "about",
-  "emoji1": "ℹ",
-  "emoji2": "📖"
+  "emoji1": "💭",
+  "emoji2": "📍"
 },
 {
   "index": 5,
@@ -416,8 +416,8 @@
 {
   "index": 70,
   "word": "anger",
-  "emoji1": "😡",
-  "emoji2": "🔥"
+  "emoji1": "😠",
+  "emoji2": "💢"
 },
 {
   "index": 71,
@@ -428,8 +428,8 @@
 {
   "index": 72,
   "word": "angry",
-  "emoji1": "😠",
-  "emoji2": "💢"
+  "emoji1": "😡",
+  "emoji2": "🔥"
 },
 {
   "index": 73,
@@ -464,8 +464,8 @@
 {
   "index": 78,
   "word": "answer",
-  "emoji1": "💬",
-  "emoji2": "🧠"
+  "emoji1": "🧠",
+  "emoji2": "💬"
 },
 {
   "index": 79,
@@ -519,7 +519,7 @@
   "index": 87,
   "word": "approve",
   "emoji1": "👍",
-  "emoji2": "⚙"
+  "emoji2": "🥲"
 },
 {
   "index": 88,
@@ -536,8 +536,8 @@
 {
   "index": 90,
   "word": "arctic",
-  "emoji1": "❄",
-  "emoji2": "🌊"
+  "emoji1": "🥶",
+  "emoji2": "🦭"
 },
 {
   "index": 91,
@@ -2493,7 +2493,7 @@
   "index": 416,
   "word": "crop",
   "emoji1": "🌾",
-  "emoji2": "✂"
+  "emoji2": "🌽"
 },
 {
   "index": 417,
@@ -10533,7 +10533,7 @@
   "index": 1757,
   "word": "swear",
   "emoji1": "🤞",
-  "emoji2": "📜"
+  "emoji2": "🤬"
 },
 {
   "index": 1758,
