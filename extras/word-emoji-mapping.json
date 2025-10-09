@@ -80,8 +80,8 @@
 {
   "index": 14,
   "word": "accuse",
-  "emoji1": "👉",
-  "emoji2": "⚖"
+  "emoji1": "⚖",
+  "emoji2": "👉"
 },
 {
   "index": 15,
@@ -194,8 +194,8 @@
 {
   "index": 33,
   "word": "advice",
-  "emoji1": "💬",
-  "emoji2": "🤝"
+  "emoji1": "🗣",
+  "emoji2": "💡"
 },
 {
   "index": 34,
@@ -1101,7 +1101,7 @@
   "index": 184,
   "word": "black",
   "emoji1": "⚫",
-  "emoji2": "⬛"
+  "emoji2": "🐈‍⬛"
 },
 {
   "index": 185,
@@ -1167,7 +1167,7 @@
   "index": 195,
   "word": "blue",
   "emoji1": "🔵",
-  "emoji2": "🔵"
+  "emoji2": "🦋"
 },
 {
   "index": 196,
@@ -1179,7 +1179,7 @@
   "index": 197,
   "word": "blush",
   "emoji1": "😊",
-  "emoji2": "⚙"
+  "emoji2": "🌸"
 },
 {
   "index": 198,
@@ -1275,7 +1275,7 @@
   "index": 213,
   "word": "box",
   "emoji1": "📦",
-  "emoji2": "⚙"
+  "emoji2": "📥"
 },
 {
   "index": 214,
@@ -1389,12 +1389,12 @@
   "index": 232,
   "word": "brother",
   "emoji1": "👦",
-  "emoji2": "⚙"
+  "emoji2": "🤝"
 },
 {
   "index": 233,
   "word": "brown",
-  "emoji1": "🟫",
+  "emoji1": "🟤",
   "emoji2": "🟫"
 },
 {
@@ -1785,7 +1785,7 @@
   "index": 298,
   "word": "cement",
   "emoji1": "🧱",
-  "emoji2": "⚙"
+  "emoji2": "🗿"
 },
 {
   "index": 299,
@@ -2391,7 +2391,7 @@
   "index": 399,
   "word": "crack",
   "emoji1": "💥",
-  "emoji2": "⚙"
+  "emoji2": "🪨"
 },
 {
   "index": 400,
@@ -2913,7 +2913,7 @@
   "index": 486,
   "word": "device",
   "emoji1": "📱",
-  "emoji2": "⚙"
+  "emoji2": "🔌"
 },
 {
   "index": 487,
@@ -3141,7 +3141,7 @@
   "index": 524,
   "word": "door",
   "emoji1": "🚪",
-  "emoji2": "⚙"
+  "emoji2": "🚪"
 },
 {
   "index": 525,
@@ -3201,7 +3201,7 @@
   "index": 534,
   "word": "dress",
   "emoji1": "👗",
-  "emoji2": "⚙"
+  "emoji2": "👗"
 },
 {
   "index": 535,
@@ -3657,7 +3657,7 @@
   "index": 610,
   "word": "equip",
   "emoji1": "🧰",
-  "emoji2": "⚙"
+  "emoji2": "🎒"
 },
 {
   "index": 611,
@@ -3777,7 +3777,7 @@
   "index": 630,
   "word": "exchange",
   "emoji1": "🔄",
-  "emoji2": "⚙"
+  "emoji2": "🤝"
 },
 {
   "index": 631,
@@ -5523,7 +5523,7 @@
   "index": 922,
   "word": "industry",
   "emoji1": "🏭",
-  "emoji2": "⚙"
+  "emoji2": "📈"
 },
 {
   "index": 923,
@@ -5637,7 +5637,7 @@
   "index": 941,
   "word": "intact",
   "emoji1": "🧩",
-  "emoji2": "⚙"
+  "emoji2": "✅"
 },
 {
   "index": 942,
@@ -5673,7 +5673,7 @@
   "index": 947,
   "word": "iron",
   "emoji1": "🧲",
-  "emoji2": "⚙"
+  "emoji2": "⛓"
 },
 {
   "index": 948,
@@ -5816,14 +5816,14 @@
 {
   "index": 971,
   "word": "junk",
-  "emoji1": "🗑",
-  "emoji2": "🪙"
+  "emoji1": "🍕",
+  "emoji2": "🍟"
 },
 {
   "index": 972,
   "word": "just",
   "emoji1": "⚖",
-  "emoji2": "⚙"
+  "emoji2": "☝️"
 },
 {
   "index": 973,
@@ -6009,7 +6009,7 @@
   "index": 1003,
   "word": "later",
   "emoji1": "⏳",
-  "emoji2": "⚙"
+  "emoji2": "⌚️"
 },
 {
   "index": 1004,
@@ -6135,7 +6135,7 @@
   "index": 1024,
   "word": "lend",
   "emoji1": "💵",
-  "emoji2": "⚙"
+  "emoji2": "🤝"
 },
 {
   "index": 1025,
@@ -6249,7 +6249,7 @@
   "index": 1043,
   "word": "liquid",
   "emoji1": "💧",
-  "emoji2": "⚙"
+  "emoji2": "💦"
 },
 {
   "index": 1044,
@@ -6308,8 +6308,8 @@
 {
   "index": 1053,
   "word": "logic",
-  "emoji1": "📍",
-  "emoji2": "⚙"
+  "emoji1": "🧠",
+  "emoji2": "📐"
 },
 {
   "index": 1054,
@@ -6681,7 +6681,7 @@
   "index": 1115,
   "word": "mercy",
   "emoji1": "🙏",
-  "emoji2": "⚙"
+  "emoji2": "💖"
 },
 {
   "index": 1116,
@@ -6693,7 +6693,7 @@
   "index": 1117,
   "word": "merit",
   "emoji1": "🏆",
-  "emoji2": "⚙"
+  "emoji2": "⭐"
 },
 {
   "index": 1118,
@@ -6716,8 +6716,8 @@
 {
   "index": 1121,
   "word": "metal",
-  "emoji1": "⚙",
-  "emoji2": "⛓"
+  "emoji1": "⛓",
+  "emoji2": "🧲"
 },
 {
   "index": 1122,
@@ -7299,7 +7299,7 @@
   "index": 1218,
   "word": "oblige",
   "emoji1": "🤝",
-  "emoji2": "⚙"
+  "emoji2": "❤️"
 },
 {
   "index": 1219,
@@ -7623,13 +7623,13 @@
   "index": 1272,
   "word": "page",
   "emoji1": "📄",
-  "emoji2": "⚙"
+  "emoji2": "📖"
 },
 {
   "index": 1273,
   "word": "pair",
   "emoji1": "👥",
-  "emoji2": "⚙"
+  "emoji2": "✌️"
 },
 {
   "index": 1274,
@@ -8181,7 +8181,7 @@
   "index": 1365,
   "word": "pride",
   "emoji1": "🦁",
-  "emoji2": "🌈"
+  "emoji2": "🏆"
 },
 {
   "index": 1366,
@@ -8228,7 +8228,7 @@
 {
   "index": 1373,
   "word": "process",
-  "emoji1": "⚙",
+  "emoji1": "🔁",
   "emoji2": "📋"
 },
 {
@@ -8241,7 +8241,7 @@
   "index": 1375,
   "word": "profit",
   "emoji1": "💰",
-  "emoji2": "⚙"
+  "emoji2": "📊"
 },
 {
   "index": 1376,
@@ -8805,7 +8805,7 @@
   "index": 1469,
   "word": "resource",
   "emoji1": "🧰",
-  "emoji2": "⚙"
+  "emoji2": "🛢️"
 },
 {
   "index": 1470,
@@ -9081,7 +9081,7 @@
   "index": 1515,
   "word": "run",
   "emoji1": "🏃",
-  "emoji2": "⚙"
+  "emoji2": "🏃"
 },
 {
   "index": 1516,
@@ -9446,8 +9446,8 @@
 {
   "index": 1576,
   "word": "shaft",
-  "emoji1": "🕳️",
-  "emoji2": "⚙️"
+  "emoji1": "⚙️",
+  "emoji2": "🔩"
 },
 {
   "index": 1577,
@@ -9819,7 +9819,7 @@
   "index": 1638,
   "word": "smile",
   "emoji1": "🙂",
-  "emoji2": "⚙"
+  "emoji2": "🌞"
 },
 {
   "index": 1639,
@@ -10310,8 +10310,8 @@
 {
   "index": 1720,
   "word": "street",
-  "emoji1": "🛣",
-  "emoji2": "⚙"
+  "emoji1": "🛣️",
+  "emoji2": "🏙️"
 },
 {
   "index": 1721,
@@ -10653,7 +10653,7 @@
   "index": 1777,
   "word": "task",
   "emoji1": "📋",
-  "emoji2": "⚙"
+  "emoji2": "✅"
 },
 {
   "index": 1778,
@@ -10785,7 +10785,7 @@
   "index": 1799,
   "word": "this",
   "emoji1": "👉",
-  "emoji2": "⚙"
+  "emoji2": "📍"
 },
 {
   "index": 1800,
@@ -10905,7 +10905,7 @@
   "index": 1819,
   "word": "today",
   "emoji1": "📅",
-  "emoji2": "☀"
+  "emoji2": "📍"
 },
 {
   "index": 1820,
@@ -10947,7 +10947,7 @@
   "index": 1826,
   "word": "tomorrow",
   "emoji1": "📅",
-  "emoji2": "➡"
+  "emoji2": "🌅"
 },
 {
   "index": 1827,
@@ -10964,8 +10964,8 @@
 {
   "index": 1829,
   "word": "tonight",
-  "emoji1": "🌙",
-  "emoji2": "🕒"
+  "emoji1": "🌃",
+  "emoji2": "🌙"
 },
 {
   "index": 1830,
@@ -10994,8 +10994,8 @@
 {
   "index": 1834,
   "word": "topple",
-  "emoji1": "🪆",
-  "emoji2": "⬇"
+  "emoji1": "🌪️",
+  "emoji2": "🏚️"
 },
 {
   "index": 1835,
@@ -11450,8 +11450,8 @@
 {
   "index": 1910,
   "word": "upgrade",
-  "emoji1": "⬆",
-  "emoji2": "⚙"
+  "emoji1": "⬆️",
+  "emoji2": "💎"
 },
 {
   "index": 1911,
@@ -11528,8 +11528,8 @@
 {
   "index": 1923,
   "word": "utility",
-  "emoji1": "⚙",
-  "emoji2": "🔌"
+  "emoji1": "🔌",
+  "emoji2": "🧰"
 },
 {
   "index": 1924,
@@ -11805,7 +11805,7 @@
   "index": 1969,
   "word": "voyage",
   "emoji1": "🚢",
-  "emoji2": "⚙"
+  "emoji2": "🌊"
 },
 {
   "index": 1970,
@@ -11997,7 +11997,7 @@
   "index": 2001,
   "word": "wheel",
   "emoji1": "🛞",
-  "emoji2": "⚙"
+  "emoji2": "☸"
 },
 {
   "index": 2002,
@@ -12033,7 +12033,7 @@
   "index": 2007,
   "word": "width",
   "emoji1": "📏",
-  "emoji2": "⚙"
+  "emoji2": "↔️"
 },
 {
   "index": 2008,
@@ -12171,7 +12171,7 @@
   "index": 2030,
   "word": "world",
   "emoji1": "🌍",
-  "emoji2": "⚙"
+  "emoji2": "🌐"
 },
 {
   "index": 2031,
@@ -12182,8 +12182,8 @@
 {
   "index": 2032,
   "word": "worth",
-  "emoji1": "💎",
-  "emoji2": "⚙"
+  "emoji1": "💰",
+  "emoji2": "💎"
 },
 {
   "index": 2033,
@@ -12236,7 +12236,7 @@
 {
   "index": 2041,
   "word": "yellow",
-  "emoji1": "🟨",
+  "emoji1": "🟡",
   "emoji2": "🌼"
 },
 {
