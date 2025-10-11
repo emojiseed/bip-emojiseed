@@ -23,7 +23,7 @@ index,word,emoji1,emoji2
 22,actor,🎬,👨
 23,actress,🎬,👩
 24,actual,⚖️,📏
-25,adapt,🧬,🦎
+25,adapt,🧬,🦎.         
 26,add,➕,➕
 27,addict,💊,🔗
 28,address,🏠,📍
@@ -182,7 +182,7 @@ index,word,emoji1,emoji2
 181,bird,🐦,🐦
 182,birth,👶,🎉
 183,bitter,😖,🍋
-184,black,⚫,🐈‍⬛
+184,black,⚫,⚫
 185,blade,🔪,🗡
 186,blame,☝,❗
 187,blanket,🧶,🛌
@@ -193,7 +193,7 @@ index,word,emoji1,emoji2
 192,blood,🩸,🩸
 193,blossom,🌸,🌺
 194,blouse,👚,👚
-195,blue,🔵,🦋
+195,blue,🔵,🔵
 196,blur,🌫,🔍
 197,blush,😊,🌸
 198,board,🧱,📋
@@ -817,7 +817,7 @@ index,word,emoji1,emoji2
 816,grass,🌱,🌱
 817,gravity,🌍,⬇
 818,great,🌟,🏆
-819,green,🟢,🌱
+819,green,🟢,🟢
 820,grid,🔲,📐
 822,grit,🪨,💪
 823,grocery,🛒,🥦
@@ -1886,8 +1886,8 @@ index,word,emoji1,emoji2
 1886,two,✌️,✌️
 1887,type,⌨,📄
 1888,typical,📏,📊
-1889,ugly,🎈,📌
-1890,umbrella,☂,☂
+1889,ugly,👹,🪞
+1890,umbrella,☔️,☔️
 1891,unable,🚫,💪
 1892,unaware,🙈,❓
 1893,uncle,👨,👶
@@ -2038,7 +2038,7 @@ index,word,emoji1,emoji2
 2038,wrong,❌,↔
 2039,yard,🌱,🏡
 2040,year,📅,📆
-2041,yellow,🟡,🌼
+2041,yellow,🟡,🟡
 2042,you,🫵,🫵
 2043,young,👶,🌱
 2044,youth,🧒,🎓
