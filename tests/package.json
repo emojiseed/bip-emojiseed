@@ -1,0 +1,12 @@
+{
+  "name": "bip-emojiseed-tests",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "jest -q"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
+
