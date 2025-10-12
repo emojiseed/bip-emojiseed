@@ -20,7 +20,9 @@ curl -sSL https://raw.githubusercontent.com/emojiseed/bip-emojiseed/main/extras/
 cat words.csv | cut -f3,4 -d, | sed 's/,//g' | tail -n +2 > ../data/emoji.txt
 
 #refresh md
-cat words.csv | sed 's/,/→/' | sed 's/,//' | tail -n +2 | xargs > ../extras/word-emoji-mapping.md
+echo '```' > ../extras/word-emoji-mapping.md
+cat words.csv | sed 's/,/ /' | sed 's/,/→/' | tail -n +2 >> ../extras/word-emoji-mapping.md
+echo '```' >> ../extras/word-emoji-mapping.md
 
 #refresh json
 #brew install miller
