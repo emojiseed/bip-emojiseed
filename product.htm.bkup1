@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>EmojiSeed</title>
+  <style>
+    :root{
+      --bg:#bababa;
+      --card:#ffffff;
+      --ink:#111;
+      --grid-gap: 0px;
+      --card-pad: 12px;
+      --card-gap: 26px;
+      --emoji-size: clamp(8px, 2vw, 12px);
+      --word-size: 6px;
+      --index-size: 9px;
+      --radius: 14px;
+      --shadow: 0 2px 12px rgba(0,0,0,.12);
+    }
+    html, body { height: 100%; }
+    body{
+      margin:0; background:var(--bg); color:var(--ink);
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Noto Sans, Helvetica, Arial, "Apple Color Emoji", "Segoe UI Emoji", "Noto Color Emoji", sans-serif;
+    }
+    header{
+      padding: 14px 18px; display:flex; gap:12px; align-items:center; flex-wrap:wrap;
+    }
+    header h1{ font-size: 16px; margin:0; }
+    header .controls{ display:flex; gap:10px; align-items:center; flex-wrap:wrap; }
+    main{
+      padding: 16px; display:grid; grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: var(--card-gap);
+    }
+    .card{
+      background:var(--card); border-radius: var(--radius); box-shadow: var(--shadow);
+      padding: var(--card-pad);
+      display:flex; flex-direction:column; gap: 10px;
+      page-break-inside: avoid; break-inside: avoid;
+    }
+    .card-title{ font-weight:700; font-size:14px; opacity:.7; }
+    .grid{
+      display:grid; grid-template-columns: repeat(8, 1fr); gap: var(--grid-gap);
+    }
+    .cell{
+      background: #fff; border-radius: 10px; box-shadow: inset 0 0 0 1px rgba(0,0,0,.05);
+      padding: 6px 4px; display:flex; flex-direction:column; align-items:center; justify-content:center; gap:4px; text-align:center;
+    }
+    .pair{ font-size: var(--emoji-size); line-height:1; }
+    .word{ font-size: var(--word-size); line-height:1.05; white-space:nowrap; overflow:hidden; text-overflow:ellipsis; max-width:100%; }
+    .index{ font-size: var(--index-size); opacity:.55; align-self:flex-start; }
+    @media print{
+      :root{ --emoji-size: 18px; --word-size: 8px; --grid-gap: 6px; --card-pad: 10px; --card-gap: 0; }
+      body{ background:#fff; }
+      main{ display:block; }
+      .card{ break-after: page; box-shadow:none; border:1px solid #ddd; margin-bottom: 8mm; }
+    }
+    button, label.button{ cursor:pointer; border:1px solid #0000; background:#fff; padding:8px 10px; border-radius:10px; box-shadow: var(--shadow); font-size:12px; }
+    button:hover, label.button:hover{ box-shadow: 0 3px 14px rgba(0,0,0,.18); }
+    input[type="file"]{ display:none; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>EmojiSeed — 8×8 (64 pairs per card)</h1>
+    <div class="controls">
+      <label class="button">
+        Load CSV mapping
+        <input id="file" type="file" accept=".csv,.txt" />
+      </label>
+      <button id="load-json" title="Load ../resources/word-emoji-mapping.json">Load JSON mapping</button>
+      <button id="use-demo" title="Fill with placeholder data if you just want to preview the layout">Use demo data</button>
+      <button id="print">Print</button>
+    </div>
+  </header>
+
+  <main id="cards"></main>
+
+  <script>
+    const EXPECTED_ROWS = 2048;
+    const PER_CARD = 64;
+
+    const cardsEl = document.getElementById('cards');
+    const fileEl  = document.getElementById('file');
+    const btnDemo = document.getElementById('use-demo');
+    const btnPrint= document.getElementById('print');
+    const btnJSON = document.getElementById('load-json');
+
+    // --- CSV loader (unchanged) ---
+    fileEl.addEventListener('change', async (e) => {
+      const file = e.target.files?.[0];
+      if (!file) return;
+      const text = await file.text();
+      const rows = parseCSV(text);
+      const data = normalize(rows);
+      render(data);
+    });
+
+    // --- NEW: JSON loader from ../resources/word-emoji-mapping.json ---
+    btnJSON.addEventListener('click', async () => {
+      try {
+        const res = await fetch('../resources/word-emoji-mapping.json', { cache: 'no-cache' });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const json = await res.json();
+        const rows = fromJSON(json);    // convert to [{index,word,emoji1,emoji2}, ...]
+        const data = normalize(rows);
+        render(data);
+      } catch (err) {
+        console.error('Failed to load JSON:', err);
+        alert('Failed to load ../resources/word-emoji-mapping.json');
+      }
+    });
+
+    // --- Demo data ---
+    btnDemo.addEventListener('click', () => {
+      const demo = Array.from({length: EXPECTED_ROWS}, (_, i) => ({
+        index: i+1,
+        word: `word${i+1}`,
+        emoji1: '😀',
+        emoji2: '🎲',
+      }));
+      render(demo);
+    });
+
+    btnPrint.addEventListener('click', () => window.print());
+
+    // Placeholder (not used now)
+    function getWord(index){ return `word${index}`; }
+
+    // --- CSV parser ---
+    function parseCSV(text){
+      const lines = text.split(/\r?\n/).filter(Boolean);
+      if (lines.length === 0) return [];
+      const headers = lines[0].split(',').map(h => h.trim().toLowerCase());
+      const idxIndex = headers.indexOf('index');
+      const idxWord  = headers.indexOf('word');
+      const idxE1    = headers.indexOf('emoji1');
+      const idxE2    = headers.indexOf('emoji2');
+      if (idxIndex < 0 || idxWord < 0 || idxE1 < 0 || idxE2 < 0) {
+        alert('CSV must include headers: index, word, emoji1, emoji2');
+        return [];
+      }
+      return lines.slice(1).map(line => {
+        const cols = line.split(',');
+        return {
+          index: Number(cols[idxIndex]?.trim()),
+          word: (cols[idxWord]??'').trim(),
+          emoji1: (cols[idxE1]??'').trim(),
+          emoji2: (cols[idxE2]??'').trim(),
+        };
+      }).filter(r => r.index && r.word && r.emoji1 && r.emoji2);
+    }
+
+    // --- JSON normalizer ---
+    // Accepts either:
+    //  A) ARRAY OF OBJECTS: [{word,emoji1,emoji2,(index?)}...]
+    //  B) DICTIONARY: { "word": ["emoji1","emoji2"], ... }
+    function fromJSON(input){
+      // Case A: array
+      if (Array.isArray(input)) {
+        // Ensure shape and add/fix index if missing
+        return input
+          .map((row, i) => ({
+            index: Number(row.index ?? (i + 1)),
+            word: String(row.word ?? '').trim(),
+            emoji1: String(row.emoji1 ?? (row.emojis?.[0] ?? '')).trim(),
+            emoji2: String(row.emoji2 ?? (row.emojis?.[1] ?? '')).trim(),
+          }))
+          .filter(r => r.index && r.word && r.emoji1 && r.emoji2);
+      }
+      // Case B: object/dict
+      const rows = [];
+      let i = 0;
+      for (const [word, arr] of Object.entries(input)) {
+        const e1 = Array.isArray(arr) ? (arr[0] ?? '') : '';
+        const e2 = Array.isArray(arr) ? (arr[1] ?? '') : '';
+        rows.push({
+          index: ++i,                 // best-effort ordering if index not present
+          word: String(word).trim(),
+          emoji1: String(e1).trim(),
+          emoji2: String(e2).trim(),
+        });
+      }
+      return rows.filter(r => r.index && r.word && r.emoji1 && r.emoji2);
+    }
+
+    // --- Canonical list builder ---
+    function normalize(rows){
+      const map = new Map(rows.map(r => [Number(r.index), r]));
+      const list = [];
+      for(let i=1;i<=EXPECTED_ROWS;i++){
+        list.push(map.get(i) || { index:i, word:`word${i}`, emoji1:'❓', emoji2:'❓' });
+      }
+      return list;
+    }
+
+    // --- Renderer ---
+    function render(data){
+      cardsEl.innerHTML = '';
+      const totalCards = Math.ceil(data.length / PER_CARD);
+      for(let c=0;c<totalCards;c++){
+        const start = c*PER_CARD;
+        const slice = data.slice(start, start+PER_CARD);
+        const card = document.createElement('section');
+        card.className = 'card';
+        const title = document.createElement('div');
+        title.className = 'card-title';
+        title.textContent = `Card ${c+1} / ${totalCards} — Items ${start+1}–${start+slice.length}`;
+        const grid = document.createElement('div');
+        grid.className = 'grid';
+        slice.forEach(item => grid.appendChild(cell(item)));
+        card.appendChild(title);
+        card.appendChild(grid);
+        cardsEl.appendChild(card);
+
+        var cardB = document.createElement('section');
+        var gridB = document.createElement('div');
+        cardB.className = "cardB";
+        //gridB.className = "cardB";
+        //cardB.appendChild(gridB)
+        cardsEl.appendChild(card);
+      }
+    }
+
+    function cell({index, word, emoji1, emoji2}){
+      const el = document.createElement('div');
+      el.className = 'cell';
+      const pair = document.createElement('div'); pair.className='pair'; pair.textContent = `${emoji1} ${emoji2}`;
+      const w = document.createElement('div'); w.className='word'; w.textContent = word;
+      el.append(pair, w);
+      return el;
+    }
+
+    // Load demo on first visit; you can click "Load JSON mapping" to replace it
+    btnDemo.click();
+  </script>
+    <style type="text/css">
+    .cardB, .cardB {
+      background-image: url('images/back.png');
+      background-size: 100%;
+      border-radius:  18px;
+      background-repeat: no-repeat;
+    }
+  </style>
+</body>
+</html>
