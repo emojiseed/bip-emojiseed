@@ -1,31 +1,35 @@
 name: EmojiSeed CI
-
 on:
-  push:
-    branches: [ "**" ]
-  pull_request:
-    branches: [ "**" ]
+  push: { branches: ["**"] }
+  pull_request: { branches: ["**"] }
 
 jobs:
   tests:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        node-version: [20.x] 
+        node-version: [20.x]   # switch back to 22.x later if you want
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - uses: actions/setup-node@v4
         with:
           node-version: ${{ matrix.node-version }}
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
+          cache: npm
+          cache-dependency-path: |
+            package-lock.json
+            **/package-lock.json
 
+      # use npm ci only when a lockfile exists
       - name: Install deps
-        run: npm ci
+        run: |
+          if [ -f package-lock.json ] || ls **/package-lock.json >/dev/null 2>&1; then
+            npm ci
+          else
+            echo "No package-lock.json found; using npm install"
+            npm install --no-audit --no-fund
+          fi
 
-      - name: Run tests
+      - name: Test
         run: npm test
 
