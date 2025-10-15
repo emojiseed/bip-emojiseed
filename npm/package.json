@@ -1,0 +1,31 @@
+{
+  "name": "emojiseed",
+  "version": "1.0.1",
+  "description": "CLI that produces a standard emojiseed pair for any word in the BIP-39 wordlist.",
+  "bin": {
+    "emojiseed": "bin/emojiseed.js"
+  },
+  "type": "commonjs",
+  "license": "MIT",
+  "author": "emojiseed",
+  "files": [
+    "bin",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "emoji",
+    "bip39",
+    "cli",
+    "mnemonic"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "node bin/emojiseed.js orbit || true"
+  },
+  "dependencies": {
+  }
+}
