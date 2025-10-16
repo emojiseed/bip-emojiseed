@@ -1,0 +1,29 @@
+{
+  "name": "seedemoji",
+  "version": "1.0.9",
+  "description": "CLI that produces a standard emoji pair for any word in the BIP-39 wordlist.",
+  "bin": {
+    "seedemoji": "bin/seedemoji.js"
+  },
+  "type": "commonjs",
+  "license": "MIT",
+  "author": "seedemoji",
+  "files": [
+    "bin",
+    "data",
+    "README.md",
+    "LICENSE"
+  ],
+  "keywords": [
+    "emoji",
+    "bip39",
+    "cli",
+    "mnemonic"
+  ],
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "test": "node bin/seedemoji.js orbit || true"
+  }
+}

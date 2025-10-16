@@ -98,7 +98,7 @@
 {
   "index": 17,
   "word": "acoustic",
-  "emoji1": "🎸",
+  "emoji1": "🎻",
   "emoji2": "🎶"
 },
 {
@@ -147,7 +147,7 @@
   "index": 25,
   "word": "adapt",
   "emoji1": "🧬",
-  "emoji2": "🦎        "
+  "emoji2": "🦎"
 },
 {
   "index": 26,
@@ -3878,7 +3878,7 @@
 {
   "index": 647,
   "word": "express",
-  "emoji1": "🚂",
+  "emoji1": "🗣️",
   "emoji2": "💬"
 },
 {
@@ -3927,7 +3927,7 @@
   "index": 655,
   "word": "fade",
   "emoji1": "🌫",
-  "emoji2": "⬇"
+  "emoji2": "✨"
 },
 {
   "index": 656,
@@ -3938,8 +3938,8 @@
 {
   "index": 657,
   "word": "faith",
-  "emoji1": "✝",
-  "emoji2": "🙏"
+  "emoji1": "🌈",
+  "emoji2": "🕋"
 },
 {
   "index": 658,
@@ -4106,20 +4106,20 @@
 {
   "index": 685,
   "word": "few",
-  "emoji1": "👐",
+  "emoji1": "🤏",
   "emoji2": "🔢"
 },
 {
   "index": 686,
   "word": "fiber",
-  "emoji1": "🧶",
-  "emoji2": "🥗"
+  "emoji1": "🫘",
+  "emoji2": "🥦"
 },
 {
   "index": 687,
   "word": "fiction",
   "emoji1": "📚",
-  "emoji2": "🛸"
+  "emoji2": "🥸"
 },
 {
   "index": 688,
@@ -4130,8 +4130,8 @@
 {
   "index": 689,
   "word": "figure",
-  "emoji1": "👤",
-  "emoji2": "📏"
+  "emoji1": "🤔",
+  "emoji2": "💭"
 },
 {
   "index": 690,
@@ -4148,8 +4148,8 @@
 {
   "index": 692,
   "word": "filter",
-  "emoji1": "🧃",
-  "emoji2": "🪣"
+  "emoji1": "🌊",
+  "emoji2": "⛲️"
 },
 {
   "index": 693,
@@ -4166,8 +4166,8 @@
 {
   "index": 695,
   "word": "fine",
-  "emoji1": "💰",
-  "emoji2": "⚖"
+  "emoji1": "⚖",
+  "emoji2": "💰"
 },
 {
   "index": 696,
@@ -4221,13 +4221,13 @@
   "index": 704,
   "word": "fitness",
   "emoji1": "🏋",
-  "emoji2": "💦"
+  "emoji2": "💪"
 },
 {
   "index": 705,
   "word": "fix",
   "emoji1": "🛠",
-  "emoji2": "🔧"
+  "emoji2": "🧰"
 },
 {
   "index": 706,
@@ -4918,6 +4918,12 @@
   "word": "grid",
   "emoji1": "🔲",
   "emoji2": "📐"
+},
+{
+  "index": 821,
+  "word": "grief",
+  "emoji1": "🥺",
+  "emoji2": "💔"
 },
 {
   "index": 822,
@@ -7004,7 +7010,7 @@
 {
   "index": 1169,
   "word": "must",
-  "emoji1": "🙆‍♀️",
+  "emoji1": "🙆",
   "emoji2": "😷"
 },
 {
@@ -7016,8 +7022,8 @@
 {
   "index": 1171,
   "word": "myself",
-  "emoji1": "🙋🏻",
-  "emoji2": "🙋🏻"
+  "emoji1": "🙋",
+  "emoji2": "🫵"
 },
 {
   "index": 1172,
@@ -8085,7 +8091,7 @@
   "index": 1349,
   "word": "possible",
   "emoji1": "🤔",
-  "emoji2": "💭"
+  "emoji2": "☝️"
 },
 {
   "index": 1350,
@@ -8114,8 +8120,8 @@
 {
   "index": 1354,
   "word": "powder",
-  "emoji1": "❄️",
-  "emoji2": "❄️"
+  "emoji1": "❄",
+  "emoji2": "🗻"
 },
 {
   "index": 1355,
@@ -12243,7 +12249,7 @@
   "index": 2042,
   "word": "you",
   "emoji1": "🫵",
-  "emoji2": "🫵"
+  "emoji2": "🙋"
 },
 {
   "index": 2043,
