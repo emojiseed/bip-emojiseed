@@ -98,7 +98,7 @@
 {
   "index": 17,
   "word": "acoustic",
-  "emoji1": "🎸",
+  "emoji1": "🎻",
   "emoji2": "🎶"
 },
 {
@@ -266,14 +266,14 @@
 {
   "index": 45,
   "word": "airport",
-  "emoji1": "✈",
-  "emoji2": "🛫"
+  "emoji1": "✈️",
+  "emoji2": "✈️"
 },
 {
   "index": 46,
   "word": "aisle",
-  "emoji1": "🛒",
-  "emoji2": "➡"
+  "emoji1": "🥫",
+  "emoji2": "🛒"
 },
 {
   "index": 47,
@@ -326,8 +326,8 @@
 {
   "index": 55,
   "word": "almost",
-  "emoji1": "⏳",
-  "emoji2": "✍"
+  "emoji1": "🤏",
+  "emoji2": "😅"
 },
 {
   "index": 56,
@@ -602,7 +602,7 @@
 {
   "index": 101,
   "word": "arrive",
-  "emoji1": "✈",
+  "emoji1": "🛬",
   "emoji2": "📍"
 },
 {
@@ -1395,7 +1395,7 @@
   "index": 233,
   "word": "brown",
   "emoji1": "🟤",
-  "emoji2": "🟫"
+  "emoji2": "🟤"
 },
 {
   "index": 234,
@@ -2277,7 +2277,7 @@
   "index": 380,
   "word": "control",
   "emoji1": "🎛",
-  "emoji2": "🛡"
+  "emoji2": "🎮"
 },
 {
   "index": 381,
@@ -2318,8 +2318,8 @@
 {
   "index": 387,
   "word": "core",
-  "emoji1": "🧠",
-  "emoji2": "📍"
+  "emoji1": "🍏",
+  "emoji2": "🫒"
 },
 {
   "index": 388,
@@ -7341,7 +7341,7 @@
   "index": 1224,
   "word": "ocean",
   "emoji1": "🌊",
-  "emoji2": "🐠"
+  "emoji2": "🐋"
 },
 {
   "index": 1225,
@@ -7460,8 +7460,8 @@
 {
   "index": 1244,
   "word": "opinion",
-  "emoji1": "💬",
-  "emoji2": "🧠"
+  "emoji1": "🧠",
+  "emoji2": "💬"
 },
 {
   "index": 1245,
@@ -7479,7 +7479,7 @@
   "index": 1247,
   "word": "orange",
   "emoji1": "🍊",
-  "emoji2": "🟠"
+  "emoji2": "🍊"
 },
 {
   "index": 1248,
@@ -7568,8 +7568,8 @@
 {
   "index": 1262,
   "word": "oval",
-  "emoji1": "🏐",
-  "emoji2": "🟢"
+  "emoji1": "🏉",
+  "emoji2": "🥚"
 },
 {
   "index": 1263,
@@ -7790,8 +7790,8 @@
 {
   "index": 1299,
   "word": "pelican",
-  "emoji1": "🦩",
-  "emoji2": "🐟"
+  "emoji1": "🐟",
+  "emoji2": "🦢"
 },
 {
   "index": 1300,
@@ -7808,14 +7808,14 @@
 {
   "index": 1302,
   "word": "pencil",
-  "emoji1": "✏",
-  "emoji2": "✏"
+  "emoji1": "✏️",
+  "emoji2": "✏️"
 },
 {
   "index": 1303,
   "word": "people",
   "emoji1": "👥",
-  "emoji2": "✍"
+  "emoji2": "🌎"
 },
 {
   "index": 1304,
@@ -7844,8 +7844,8 @@
 {
   "index": 1308,
   "word": "pet",
-  "emoji1": "🐕",
-  "emoji2": "🐾"
+  "emoji1": "🐾",
+  "emoji2": "🐕"
 },
 {
   "index": 1309,
@@ -7940,8 +7940,8 @@
 {
   "index": 1324,
   "word": "pistol",
-  "emoji1": "🔫",
-  "emoji2": "💥"
+  "emoji1": "💥",
+  "emoji2": "🔫"
 },
 {
   "index": 1325,
@@ -7970,8 +7970,8 @@
 {
   "index": 1329,
   "word": "plastic",
-  "emoji1": "🧴",
-  "emoji2": "♻"
+  "emoji1": "🛢️",
+  "emoji2": "♻️"
 },
 {
   "index": 1330,
@@ -8217,7 +8217,7 @@
   "index": 1370,
   "word": "private",
   "emoji1": "🔒",
-  "emoji2": "🙊"
+  "emoji2": "🙈"
 },
 {
   "index": 1371,

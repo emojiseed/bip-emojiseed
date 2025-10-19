@@ -1,0 +1,64 @@
+**Subject:** Proposal: Add `emoji.txt` as a new BIP-39 wordlist (Emoji)
+
+Hi Team,
+
+I propose extending BIP-39 with an additional wordlist: `emoji.txt`.
+This maps the 2048 English words to 2048 unique pairs of emoji.
+
+* No changes to entropy, checksum, or seed derivation.
+* Backwards-compatible: wallets may ignore it if unsupported.
+* Canonical file: `emoji.txt` (attached).
+* Patch to BIP-39 shown below.
+
+Best,
+Hakim
+
+--- a/bip-0039.mediawiki
++++ b/bip-0039.mediawiki
+@@ Wordlists
+  * [[english.txt|English]]
+  * [[japanese.txt|Japanese]]
+  * [[korean.txt|Korean]]
+  * [[spanish.txt|Spanish]]
+  * [[chinese_simplified.txt|Chinese (Simplified)]]
+  * [[chinese_traditional.txt|Chinese (Traditional)]]
+  * [[french.txt|French]]
+  * [[italian.txt|Italian]]
+  * [[czech.txt|Czech]]
+  * [[portuguese.txt|Portuguese]]
++ * [[emoji.txt|Emoji]]
+:q
+
+
+
+
+@@ Wordlists (Special Considerations)
+
++### Emoji
++
++''Credits: @EmojiSeedDevTeam''
++
++The Emoji wordlist is a deterministic mapping of the 2048 English BIP-39 words into
++2048 unique pairs of emoji. It enables mnemonic phrases to be displayed visually
++while remaining fully compatible with existing BIP-39 semantics (entropy, checksum, seed).
++
++Emojis are chosen using the following rules:
++
++# Direct Match: if a word has a clear, universal emoji, duplicate it.
++# Months and holidays use seasonal/holiday symbols.
++# Numeric words map to keycap digits.
++# Abstract and Action Words use a primary metaphor plus a clarifier emoji.
++# Nouns: object + clarifier. Verbs/participles: action + clarifier.
++# Duplicate only for strong iconic matches; add clarifiers for ambiguity; if unresolved, fall back deterministically.
++# All 2048 pairs MUST be unique. If a collision occurs, rotate clarifier, then primary, and finally apply the fallback.
++# Use only fully-qualified Unicode emoji graphemes (per Unicode TR51). Avoid variation selectors and platform-specific implementations.
++
++==== Security & Interop Notes ====
++
++* No protocol changes: entropy, checksum, and BIP-32 seed derivation are unchanged.
++* Rendering differences across platforms exist; compare by code points (not rasterized glyphs).
++* Wallets that do not support Emoji can ignore this wordlist without impact.
++
++==== License ====
++
++This addition inherits the BIP-39 license (MIT).
