@@ -204,7 +204,7 @@ This project is open for community review and discussion:
 
 - **Mailing List:** [bitcoin-dev](https://lists.linuxfoundation.org/mailman/listinfo/bitcoin-dev)
 - **GitHub Issues:** [Open Issues](https://emojiseed.com/issues)
-- **GitHub Discussion:** [Open Discussion](https://emojiseed.com/discussion)
+- **GitHub Discussion:** [Open Discussion](https://emojiseed.com/discussions)
 
 ---
 
